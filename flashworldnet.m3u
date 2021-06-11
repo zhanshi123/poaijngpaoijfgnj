@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-name="SLT Watch" tvg-logo="https://www.peotv.com/images/logo.png", SLT Group Watch
+#EXTINF:-1 tvg-name="SLT Group Watch" tvg-logo="https://www.peotv.com/images/logo.png", SLT Group Watch
 #EXTGRP:
 https://live.peotv.com/bpk-tv/250/output/index.m3u8
 #EXTINF:-1 tvg-name="Rupavahini" tvg-logo="https://www.peotv.com/static/images/packages/Channellogos/001-Rupavahini.jpg", Rupavahini
@@ -101,7 +101,7 @@ https://live.peotv.com/bpk-tv/039/output/index.m3u8
 #EXTINF:-1 tvg-name="Eurosport" tvg-logo="https://www.peotv.com/static/images/packages/Channellogos/042-Eurosport.png", Eurosport
 #EXTGRP:
 https://live.peotv.com/bpk-tv/042/output/index.m3u8
-#EXTINF:-1 tvg-name="TEN CRICKET" tvg-logo="https://www.peotv.com/static/images/packages/Channellogos/044-TenCricket.jpg", Ten Cricket
+#EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://www.peotv.com/static/images/packages/Channellogos/044-TenCricket.jpg", Ten Cricket
 #EXTGRP:
 https://live.peotv.com/bpk-tv/044/output/index.m3u8
 #EXTINF:-1 tvg-name="Unknown" tvg-logo="", Unknown
