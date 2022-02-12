@@ -1,1 +1,721 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
 
+<tv>
+
+  <channel id="10000000007110000">
+    <display-name>Rupavahini</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/CM6ogTOP.png" />
+  </channel>
+
+  <channel id="10000000025690000">
+    <display-name>Channel Eye</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/MLBjkMqj.png" />
+  </channel>
+
+  <channel id="10000000007120000">
+    <display-name>ITN</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/VlMBMMQT.png" />
+  </channel>
+
+  <channel id="10000000007160000">
+    <display-name>Derana</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/Z3eBdt4F.png" />
+  </channel>
+
+  <channel id="10000000060860000">
+    <display-name>Charana TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/t6Ob3i3g.png" />
+  </channel>
+
+  <channel id="10000000007560000">
+    <display-name>Swarnawahini TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/uhjV1sHB.png" />
+  </channel>
+
+  <channel id="10000000026950000">
+    <display-name>Vasantham TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/boLigkLX.png" />
+  </channel>
+
+  <channel id="10000000039160000">
+    <display-name>Siyatha</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/CsnCZ2Yy.png" />
+  </channel>
+
+  <channel id="10000000075992183">
+    <display-name>Haritha TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/3bfyWZWJ.png" />
+  </channel>
+
+  <channel id="10000000019480000">
+    <display-name>Sirasa</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/IRlb9Aug.png" />
+  </channel>
+
+  <channel id="10000000019490000">
+    <display-name>Shakthi</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/KjKClXdN.png" />
+  </channel>
+
+  <channel id="10000000019500000">
+    <display-name>TV One</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/6o2oXtJu.png" />
+  </channel>
+
+  <channel id="10000000019980000">
+    <display-name>TNL</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/5127gVEM.png" />
+  </channel>
+
+  <channel id="10000000056890000">
+    <display-name>Ada Derana</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/gGrGUpmd.png" />
+  </channel>
+
+  <channel id="10000000021740000">
+    <display-name>Music+ TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/x2qeUhrm.png" />
+  </channel>
+
+  <channel id="10000000059260000">
+    <display-name>Nethra TV</display-name>
+    <icon src="" />
+  </channel>
+
+  <channel id="10000000035000000">
+    <display-name>ART TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/tdygoGc2.png" />
+  </channel>
+
+  <channel id="10000000021750000">
+    <display-name>Knowledge Tv</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/gv95LJsR.png" />
+  </channel>
+
+  <channel id="10000000010940000">
+    <display-name>Hiru TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/QqWdB3pe.png" />
+  </channel>
+
+  <channel id="10000000025030000">
+    <display-name>Event TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/1PYNnlrc.png" />
+  </channel>
+
+  <channel id="10000000023110000">
+    <display-name>Star Tamil</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ZvBlQpK3.png" />
+  </channel>
+
+  <channel id="10000000026690000">
+    <display-name>Rangiri Srilanka TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/noYnE5Tf.png" />
+  </channel>
+
+  <channel id="10000000000770000">
+    <display-name>CNN</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/mGjMfVUp.png" />
+  </channel>
+
+  <channel id="10000000000750000">
+    <display-name>BBC World News</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/7FqHaFDK.png" />
+  </channel>
+
+  <channel id="10000000000870000">
+    <display-name>Times Now</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/M6dfbLq6.png" />
+  </channel>
+
+  <channel id="10000000053730000">
+    <display-name>Al Jazeera English</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/H1SAsdSk.png" />
+  </channel>
+
+  <channel id="10000000006560000">
+    <display-name>France 24</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/rMzfGonK.png" />
+  </channel>
+
+  <channel id="10000000000100000">
+    <display-name>Star Movies</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/9WMgCnfX.png" />
+  </channel>
+
+  <channel id="10000000017750000">
+    <display-name>HBO</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/sQvgHHrD.png" />
+  </channel>
+
+  <channel id="10000000003550000">
+    <display-name>HBO Signature</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/Vbm2zvTh.png" />
+  </channel>
+
+  <channel id="10000000003120000">
+    <display-name>HBO Hits</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/TSXtIpPx.png" />
+  </channel>
+
+  <channel id="10000000003570000">
+    <display-name>HBO Family</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/Zd2fxVCk.png" />
+  </channel>
+
+  <channel id="10000000027780000">
+    <display-name>Cinemaworld</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/z7oLp9jL.png" />
+  </channel>
+
+  <channel id="10000000059350000">
+    <display-name>&flix</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/34fhJNB3.png" />
+  </channel>
+
+  <channel id="10000000007730000">
+    <display-name>Comedy Central</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/kq3bLm6x.png" />
+  </channel>
+
+  <channel id="10000000009310000">
+    <display-name>SONY SIX</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/AeRU1nLc.png" />
+  </channel>
+
+  <channel id="10000000000620000">
+    <display-name>Sony Ten 1</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/94jP28y6.png" />
+  </channel>
+
+  <channel id="10000000027760000">
+    <display-name>Star Sports Select 1</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/CDzxunbK.png" />
+  </channel>
+
+  <channel id="10000000014200000">
+    <display-name>Star Sports 2</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/LDF5UJeX.png" />
+  </channel>
+
+  <channel id="10000000000190000">
+    <display-name>Star Sports 1</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/VmljN1kZ.png" />
+  </channel>
+
+  <channel id="10000000050610000">
+    <display-name>EUROSPORT</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/BWQNLFIi.png" />
+  </channel>
+
+  <channel id="10000000007540000">
+    <display-name>Ten Cricket International</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/cBxIlmMq.png" />
+  </channel>
+
+  <channel id="10000000000240000">
+    <display-name>Sony Ten 2</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/bp6fqBsY.png" />
+  </channel>
+
+  <channel id="10000000075170000">
+    <display-name>Premier Sports</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/RKxA1qvu.png" />
+  </channel>
+
+  <channel id="10000000000310000">
+    <display-name>Discovery</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/7cB2XLsH.png" />
+  </channel>
+
+  <channel id="10000000000320000">
+    <display-name>Animal Planet</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/KgrkZqGQ.png" />
+  </channel>
+
+  <channel id="10000000000330000">
+    <display-name>TLC</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/B1jvXiRs.png" />
+  </channel>
+
+  <channel id="10000000000170000">
+    <display-name>National Geographic Channel</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/TQOkEcdR.png" />
+  </channel>
+
+  <channel id="10000000000160000">
+    <display-name>Fox Life</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/6rlMKf52.png" />
+  </channel>
+
+  <channel id="10000000015710000">
+    <display-name>Asia Travel</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/fcMfGtwb.png" />
+  </channel>
+
+  <channel id="10000000005700000">
+    <display-name>Discovery Turbo</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/kqBcjxan.png" />
+  </channel>
+
+  <channel id="10000000003130000">
+    <display-name>Discovery Science</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/spEOmisQ.png" />
+  </channel>
+
+  <channel id="10000000011200000">
+    <display-name>DTamil</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/4mD57iZO.png" />
+  </channel>
+
+  <channel id="10000000005680000">
+    <display-name>Nat Geo Wild</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/B7j5DOeg.png" />
+  </channel>
+
+  <channel id="10000000036620000">
+    <display-name>DaVinci</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/KnWnv8J2.png" />
+  </channel>
+
+  <channel id="10000000012870000">
+    <display-name>Disney Junior</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/jmqryXlW.png" />
+  </channel>
+
+  <channel id="10000000001010000">
+    <display-name>Nick</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ETfm2bHn.png" />
+  </channel>
+
+  <channel id="10000000061240000">
+    <display-name>Planet Fun</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/E3SUyc95.png" />
+  </channel>
+
+  <channel id="10000000003150000">
+    <display-name>CBeebies</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/cWcGKy4a.png" />
+  </channel>
+
+  <channel id="10000000005860000">
+    <display-name>Baby TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/JBc5B3hP.png" />
+  </channel>
+
+  <channel id="10000000009420000">
+    <display-name>Discovery Kids</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ezmF3D2g.png" />
+  </channel>
+
+  <channel id="10000000013520000">
+    <display-name>Cartoon Network</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/vlAqlmBh.png" />
+  </channel>
+
+  <channel id="10000000000860000">
+    <display-name>Pogo</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/IIdmoZoE.png" />
+  </channel>
+
+  <channel id="10000000000480000">
+    <display-name>MTV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ndPcwqFV.png" />
+  </channel>
+
+  <channel id="10000000000950000">
+    <display-name>Vh1</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/9As96Uib.png" />
+  </channel>
+
+  <channel id="10000000020360000">
+    <display-name>Stingray CMusic</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/cFzEhHDr.png" />
+  </channel>
+
+  <channel id="10000000004590000">
+    <display-name>Zee Tamil</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/vukbjych.png" />
+  </channel>
+
+  <channel id="10000000000820000">
+    <display-name>Vijay TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/fpIZJhda.png" />
+  </channel>
+
+  <channel id="10000000053290000">
+    <display-name>Colors Tamil</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/Wdo5eMXw.png" />
+  </channel>
+
+  <channel id="10000000024220000">
+    <display-name>Zee Cinema APAC</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/kmCkglNh.png" />
+  </channel>
+
+  <channel id="10000000000120000">
+    <display-name>Star World</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/YktB7cvM.png" />
+  </channel>
+
+  <channel id="32">
+    <display-name>FTV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/OC875QK9.png" />
+  </channel>
+
+  <channel id="10000000010590000">
+    <display-name>Zee TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/xjcez656.png" />
+  </channel>
+
+  <channel id="10000000000690000">
+    <display-name>Zoom</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/Wt3EjuCd.png" />
+  </channel>
+
+  <channel id="10000000002770000">
+    <display-name>ABC Australia</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/9bh53VZo.png" />
+  </channel>
+
+  <channel id="10000000017000000">
+    <display-name>Luxe TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/2Us2wXtJ.png" />
+  </channel>
+
+  <channel id="10000000000260000">
+    <display-name>Zee Cafe</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/HcbhlbTf.png" />
+  </channel>
+
+  <channel id="10000000035220000">
+    <display-name>Colors Infinity</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/uA4HeM7i.png" />
+  </channel>
+
+  <channel id="10000000034970000">
+    <display-name>Star Plus</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/r3JSwXEV.png" />
+  </channel>
+
+  <channel id="10000000053490000">
+    <display-name>Star Bharat</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ccdX5HYk.png" />
+  </channel>
+
+  <channel id="10000000001900000">
+    <display-name>TV5 Monde Asia</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/nEegOfAM.png" />
+  </channel>
+
+  <channel id="10000000027990000">
+    <display-name>The Parliament Channel</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/5zDH7u1s.png" />
+  </channel>
+
+  <channel id="10000000027170000">
+    <display-name>DW English</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ItMCv21R.png" />
+  </channel>
+
+  <channel id="10000000028300000">
+    <display-name>Verbum TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/zF8lAuVq.png" />
+  </channel>
+
+  <channel id="10000000073050000">
+    <display-name>Jayamaga TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/15aKbcqc.png" />
+  </channel>
+
+  <channel id="10000000025100000">
+    <display-name>Siyasa</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/G6DEbjSB.png" />
+  </channel>
+
+  <channel id="10000000027710000">
+    <display-name>The Buddhist</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/bXCOKtKv.png" />
+  </channel>
+
+  <channel id="31">
+    <display-name>God TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ZlvOn4Vs.png" />
+  </channel>
+
+  <channel id="10000000027720000">
+    <display-name>Shraddha TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/iFjYSJCB.png" />
+  </channel>
+
+  <channel id="10000000022840000">
+    <display-name>Colors</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/fMKHQLqI.png" />
+  </channel>
+
+  <channel id="10000000000570000">
+    <display-name>Sun TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/pV5sbyUn.png" />
+  </channel>
+
+  <channel id="10000000000590000">
+    <display-name>KTV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/r5N31jUM.png" />
+  </channel>
+
+  <channel id="10000000002990000">
+    <display-name>Kalaignar TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/lXOBlRJF.png" />
+  </channel>
+
+  <channel id="10000000003900000">
+    <display-name>Isai Aruvi</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/wpDGhsiX.png" />
+  </channel>
+
+  <channel id="10000000005030000">
+    <display-name>Sirippoli</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/7owwpGSf.png" />
+  </channel>
+
+  <channel id="10000000075992420">
+    <display-name>Capital TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/lBViY1m9.png" />
+  </channel>
+
+  <channel id="10000000068330000">
+    <display-name>Sangamam TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/YX2aScwQ.png" />
+  </channel>
+
+  <channel id="10000000050910000">
+    <display-name>Colombo TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ahArf37F.png" />
+  </channel>
+
+  <channel id="10000000049930000">
+    <display-name>Pragna TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/Eh9xqK5H.png" />
+  </channel>
+
+  <channel id="10000000075990090">
+    <display-name>Relax TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/x7K3omV4.png" />
+  </channel>
+
+  <channel id="10000000069750000">
+    <display-name>TV Venasa</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/fl3cZHFm.png" />
+  </channel>
+
+  <channel id="10000000052430000">
+    <display-name>TV Didula</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/DfXVE13H.png" />
+  </channel>
+
+  <channel id="10000000007150000">
+    <display-name>ETV Sri Lanka</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/GDKnYo4U.png" />
+  </channel>
+
+  <channel id="10000000069390000">
+    <display-name>Event TV Plus</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/K6ATebsX.png" />
+  </channel>
+
+  <channel id="10000000075992444">
+    <display-name>Vapa TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/TT6kQq4x.png" />
+  </channel>
+
+  <channel id="10000000059220000">
+    <display-name>Life TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/cmlWdvv5.png" />
+  </channel>
+
+  <channel id="10000000061950000">
+    <display-name>Damsathara TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/YRf1x6pV.png" />
+  </channel>
+
+  <channel id="10000000070050000">
+    <display-name>Supreme TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/31fzMwIW.png" />
+  </channel>
+
+  <channel id="10000000018830000">
+    <display-name>Bloomberg</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/T3ftYwlq.png" />
+  </channel>
+
+  <channel id="10000000013820000">
+    <display-name>NHK World Japan</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/CYNKjZB8.png" />
+  </channel>
+
+  <channel id="10000000008320000">
+    <display-name>France 24 French</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/xjSVjNf6.png" />
+  </channel>
+
+  <channel id="10000000053050000">
+    <display-name>CCTV 4</display-name>
+    <icon src="" />
+  </channel>
+
+  <channel id="10000000053060000">
+    <display-name>CCTV Entertainment</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/nML6BUWO.png" />
+  </channel>
+
+  <channel id="10000000035550000">
+    <display-name>WakuWaku Japan</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/L8X8i3SW.png" />
+  </channel>
+
+  <channel id="10000000027100000">
+    <display-name>English Club TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/UIElirzs.png" />
+  </channel>
+
+  <channel id="10000000075850000">
+    <display-name>Videsa 5</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/BChZagB3.png" />
+  </channel>
+
+  <channel id="10000000060970000">
+    <display-name>Videsa 6-7</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/AJ39ufue.png" />
+  </channel>
+
+  <channel id="10000000060990000">
+    <display-name>Videsa 8-9</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/qxDpM7vD.png" />
+  </channel>
+
+  <channel id="10000000061010000">
+    <display-name>Videsa 10-11</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/hqSs6Rvf.png" />
+  </channel>
+
+  <channel id="10000000075992333">
+    <display-name>Videsa DP Education</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/78YTlveK.png" />
+  </channel>
+
+  <channel id="10000000075992443">
+    <display-name>AL Kuppiya Television</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/VgYjgoIK.png" />
+  </channel>
+
+  <channel id="10000000052160000">
+    <display-name>Siyatha TV HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/6P6kiVRj.png" />
+  </channel>
+
+  <channel id="10000000075992376">
+    <display-name>TV Derana HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/hlgx6LRv.png" />
+  </channel>
+
+  <channel id="10000000075992416">
+    <display-name>Charana TV HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ZtlvBBZY.png" />
+  </channel>
+
+  <channel id="10000000075992378">
+    <display-name>Hiru TV HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/EmkziIke.png" />
+  </channel>
+
+  <channel id="10000000051860000">
+    <display-name>EUROSPORT HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/sv5P92dH.png" />
+  </channel>
+
+  <channel id="10000000075180000">
+    <display-name>Premier Sports HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/69Mijdow.png" />
+  </channel>
+
+  <channel id="10000000047500000">
+    <display-name>Star Sports Select 1 HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/77F6TJgZ.png" />
+  </channel>
+
+  <channel id="10000000047510000">
+    <display-name>Star Sports Select 2 HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ge6P8Fyy.png" />
+  </channel>
+
+  <channel id="10000000053070000">
+    <display-name>Sony Ten 2 HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/j7CpYq3r.png" />
+  </channel>
+
+  <channel id="10000000007510000">
+    <display-name>Sony Ten 1 HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/dZGLjfYq.png" />
+  </channel>
+
+  <channel id="10000000075992316">
+    <display-name>HBO HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/CYlCDcUq.png" />
+  </channel>
+
+  <channel id="10000000029480000">
+    <display-name>HBO Signature HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/dz2yz6iw.png" />
+  </channel>
+
+  <channel id="10000000014250000">
+    <display-name>HBO Hits HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/Ins2Hhwx.png" />
+  </channel>
+
+  <channel id="10000000029490000">
+    <display-name>HBO Family HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/DXkI2AcD.png" />
+  </channel>
+
+  <channel id="10000000035230000">
+    <display-name>Colors Infinity HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/Su2qMlC9.png" />
+  </channel>
+
+  <channel id="10000000005920000">
+    <display-name>Discovery HD World</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/BH9oCnoi.png" />
+  </channel>
+
+  <channel id="10000000024790000">
+    <display-name>Animal Planet HD World</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/I4SGkIgK.png" />
+  </channel>
+
+  <channel id="10000000024270000">
+    <display-name>TLC HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/KwsoeClL.png" />
+  </channel>
+
+  <channel id="10000000028830000">
+    <display-name>Luxe TV HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/3wi8EhUM.png" />
+  </channel>
+
+  <channel id="10000000011520000">
+    <display-name>FTV HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/O7xr1oRu.png" />
+  </channel>
+
+  <channel id="10000000027400000">
+    <display-name>KBS World HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ijlWMvN1.png" />
+  </channel>
+
+  <channel id="10000000009400000">
+    <display-name>SONY SIX HD</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/oaYNO5vz.png" />
+  </channel>
+
+</tv>
