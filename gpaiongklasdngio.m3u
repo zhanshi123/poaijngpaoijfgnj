@@ -189,7 +189,7 @@ https://live.peotv.com/bpk-tv/206/output/index.m3u8
 https://live.peotv.com/bpk-tv/207/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000061010000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1171/channellogo.png", Videsa 10-11
 https://live.peotv.com/bpk-tv/208/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000075992333" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1203/215-videsadpeducation.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Videsa DP Education
+#EXTINF:-1 tvg-id="10000000075992333" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1172/215-videsadpeducation.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Videsa DP Education
 https://live.peotv.com/bpk-tv/209/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000075992443" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1173/channellogo.png", AL Kuppiya Television
 https://live.peotv.com/bpk-tv/210/output/index.m3u8
