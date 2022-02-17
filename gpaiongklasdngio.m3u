@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.peotv.com/images/logo.png", SLT Group Watch
 https://live.peotv.com/bpk-tv/250/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000007110000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1/1-rupavahini.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Rupavahini
+#EXTINF:-1 tvg-id="10000000007110000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1/1-rupavahini.png" catchup="append" catchup-source="?begin={start}&end={end}" catchup-days="2", Rupavahini
 https://live.peotv.com/bpk-tv/001/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000025690000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/2/2-channeleye.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Channel Eye
 https://live.peotv.com/bpk-tv/002/output/index.m3u8
