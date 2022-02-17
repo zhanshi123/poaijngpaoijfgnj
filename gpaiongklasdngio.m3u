@@ -3,29 +3,29 @@
 https://live.peotv.com/bpk-tv/250/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000007110000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1/1-rupavahini.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Rupavahini
 https://live.peotv.com/bpk-tv/001/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000025690000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/2/2-channeleye.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Channel Eye
+#EXTINF:-1 tvg-id="10000000025690000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/2/2-channeleye.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Channel Eye
 https://live.peotv.com/bpk-tv/002/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000007120000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/3/003-itn.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", ITN
+#EXTINF:-1 tvg-id="10000000007120000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/3/003-itn.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", ITN
 https://live.peotv.com/bpk-tv/003/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000007160000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/4/4-derana.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Derana
+#EXTINF:-1 tvg-id="10000000007160000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/4/4-derana.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Derana
 https://live.peotv.com/bpk-tv/004/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000060860000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1168/005-charanatv.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", CHARANA TV
+#EXTINF:-1 tvg-id="10000000060860000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1168/005-charanatv.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", CHARANA TV
 https://live.peotv.com/bpk-tv/005/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000007560000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/6/006-swarnawahini.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Swarnavahini
+#EXTINF:-1 tvg-id="10000000007560000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/6/006-swarnawahini.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Swarnavahini
 https://live.peotv.com/bpk-tv/006/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000026950000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/7/7-vasanthamtv.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Vasantham TV
+#EXTINF:-1 tvg-id="10000000026950000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/7/7-vasanthamtv.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Vasantham TV
 https://live.peotv.com/bpk-tv/007/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000039160000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/21/021-siyathatv.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Siyatha TV
+#EXTINF:-1 tvg-id="10000000039160000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/21/021-siyathatv.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Siyatha TV
 https://live.peotv.com/bpk-tv/021/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000075992183" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1202/009-harithtvchannellogo.png", Haritha TV
 https://live.peotv.com/bpk-tv/009/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000019480000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/10/10-sirasatv.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Sirasa TV
+#EXTINF:-1 tvg-id="10000000019480000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/10/10-sirasatv.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Sirasa TV
 https://live.peotv.com/bpk-tv/010/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000019490000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/11/11-shakthitv.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Shakthi TV
+#EXTINF:-1 tvg-id="10000000019490000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/11/11-shakthitv.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Shakthi TV
 https://live.peotv.com/bpk-tv/011/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000019500000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/12/012-tv1.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", TV1
+#EXTINF:-1 tvg-id="10000000019500000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/12/012-tv1.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", TV1
 https://live.peotv.com/bpk-tv/012/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000019980000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/13/13-tnl.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", TNL
+#EXTINF:-1 tvg-id="10000000019980000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/13/13-tnl.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", TNL
 https://live.peotv.com/bpk-tv/013/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000056890000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1149/14-adaderana24.png", Ada Derana 24x7
 https://live.peotv.com/bpk-tv/014/output/index.m3u8
@@ -37,13 +37,13 @@ https://live.peotv.com/bpk-tv/016/output/index.m3u8
 https://live.peotv.com/bpk-tv/017/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000021750000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/18/18-knowledgetv.png", Knowledge TV
 https://live.peotv.com/bpk-tv/018/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000010940000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/19/19-hirutv.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Hiru TV
+#EXTINF:-1 tvg-id="10000000010940000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/19/19-hirutv.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Hiru TV
 https://live.peotv.com/bpk-tv/019/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000025030000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/20/20-eventtv.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Event TV
+#EXTINF:-1 tvg-id="10000000025030000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/20/20-eventtv.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Event TV
 https://live.peotv.com/bpk-tv/020/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000023110000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/8/008-startamil.png", Star Tamil
 https://live.peotv.com/bpk-tv/008/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000026690000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/22/22_logo_reverse.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Rangiri Sri Lanka
+#EXTINF:-1 tvg-id="10000000026690000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/22/22_logo_reverse.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Rangiri Sri Lanka
 https://live.peotv.com/bpk-tv/022/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000000770000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/23/23-cnn.png", CNN
 https://live.peotv.com/bpk-tv/023/output/index.m3u8
@@ -57,7 +57,7 @@ https://live.peotv.com/bpk-tv/027/output/index.m3u8
 https://live.peotv.com/bpk-tv/033/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000059350000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1164/34-nflix.png", Nflix
 https://live.peotv.com/bpk-tv/034/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000000620000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/38/038-sonyten1packagelogo.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", SONY TEN 1
+#EXTINF:-1 tvg-id="10000000000620000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/38/038-sonyten1packagelogo.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", SONY TEN 1
 https://live.peotv.com/bpk-tv/038/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000050610000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1200/042-eurosport.png", Eurosport
 https://live.peotv.com/bpk-tv/042/output/index.m3u8
@@ -123,17 +123,17 @@ https://live.peotv.com/bpk-tv/090/output/index.m3u8
 https://live.peotv.com/bpk-tv/091/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000027170000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/92/92_logo_reverse.png", DW
 https://live.peotv.com/bpk-tv/092/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000028300000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/93/93--verbumtv.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Verbum TV
+#EXTINF:-1 tvg-id="10000000028300000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/93/93--verbumtv.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Verbum TV
 https://live.peotv.com/bpk-tv/093/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000073050000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1194/094-jayamagatv.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Jayamaga TV
+#EXTINF:-1 tvg-id="10000000073050000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1194/094-jayamagatv.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Jayamaga TV
 https://live.peotv.com/bpk-tv/094/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000025100000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/95/095-siyesa-tvpackagelogo.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Siyasa TV
+#EXTINF:-1 tvg-id="10000000025100000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/95/095-siyesa-tvpackagelogo.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Siyasa TV
 https://live.peotv.com/bpk-tv/095/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000027710000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/96/96-thebuddhist.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", The Buddhist
+#EXTINF:-1 tvg-id="10000000027710000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/96/96-thebuddhist.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", The Buddhist
 https://live.peotv.com/bpk-tv/096/output/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/97/97_logo_reverse.png", GOD TV
 https://live.peotv.com/bpk-tv/097/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000027720000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/99/99-shraddhav.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Shraddha TV
+#EXTINF:-1 tvg-id="10000000027720000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/99/99-shraddhav.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Shraddha TV
 https://live.peotv.com/bpk-tv/099/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000022840000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/101/101-colors.png", colors
 https://live.peotv.com/bpk-tv/101/output/index.m3u8
@@ -189,7 +189,7 @@ https://live.peotv.com/bpk-tv/206/output/index.m3u8
 https://live.peotv.com/bpk-tv/207/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000061010000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1171/channellogo.png", Videsa 10-11
 https://live.peotv.com/bpk-tv/208/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000075992333" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1172/215-videsadpeducation.png" catchup="append" catchup-source="?begin={utc}&end={utcend}" catchup-days="2", Videsa DP Education
+#EXTINF:-1 tvg-id="10000000075992333" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1172/215-videsadpeducation.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Videsa DP Education
 https://live.peotv.com/bpk-tv/209/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000075992443" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1173/channellogo.png", AL Kuppiya Television
 https://live.peotv.com/bpk-tv/210/output/index.m3u8
