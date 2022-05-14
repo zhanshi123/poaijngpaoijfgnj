@@ -61,8 +61,6 @@ https://live.peotv.com/bpk-tv/034/output/index.m3u8
 https://live.peotv.com/bpk-tv/038/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000027760000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1134/039-starsportsselect1.png", Star Sports Select 1
 https://live.peotv.com/bpk-tv/039/output/index.m3u8
-#EXTINF:-1 tvg-id="10000000000190000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/41/041-starsports1.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Star Sports 1
-https://live.peotv.com/bpk-tv/TSpocHD/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000050610000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1200/042-eurosport.png", Eurosport
 https://live.peotv.com/bpk-tv/042/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000007540000" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/44/044-ten-cricket.png", Ten Cricket
@@ -197,3 +195,7 @@ https://live.peotv.com/bpk-tv/208/output/index.m3u8
 https://live.peotv.com/bpk-tv/209/output/index.m3u8
 #EXTINF:-1 tvg-id="10000000075992443" tvg-logo="https://mobile-cms.peotv.com/images/channels/logo/1173/channellogo.png", AL Kuppiya Television
 https://live.peotv.com/bpk-tv/210/output/index.m3u8
+#EXTINF:-1 tvg-id="10000000075992376" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/hlgx6LRv.png" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Test HD
+https://live.peotv.com/bpk-tv/TSpocHD/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" catchup="append" catchup-source="?begin=${start}&end=${end}" catchup-days="2", Test
+https://live.peotv.com/bpk-tv/TSpoc/output/index.m3u8
