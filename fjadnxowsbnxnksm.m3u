@@ -1,359 +1,359 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="0" tvg-logo="http://172.17.49.10/PosterisChannels/000.png", SLT Group Watch
-udp://@224.11.4.250:5180
+http://192.168.1.5:65010/udp/224.11.4.250:5180
 #EXTINF:-1 tvg-id="1" tvg-logo="http://172.17.49.10/PosterisChannels/1.png", Rupavahini
-http://192.168.1.10:65010/udp/224.11.4.1:5180
+http://192.168.1.5:65010/udp/224.11.4.1:5180
 #EXTINF:-1 tvg-id="2" tvg-logo="http://172.17.49.10/PosterisChannels/2.png", Channel Eye
-udp://@224.11.4.2:5180
+http://192.168.1.5:65010/udp/224.11.4.2:5180
 #EXTINF:-1 tvg-id="3" tvg-logo="http://172.17.49.10/PosterisChannels/03.png", ITN
-udp://@224.11.4.3:5180
+http://192.168.1.5:65010/udp/224.11.4.3:5180
 #EXTINF:-1 tvg-id="4" tvg-logo="http://172.17.49.10/PosterisChannels/4_1.png", Derana
-udp://@224.11.4.4:5180
+http://192.168.1.5:65010/udp/224.11.4.4:5180
 #EXTINF:-1 tvg-id="5" tvg-logo="http://172.17.49.10/PosterisChannels/05.png", Charana TV
-udp://@224.11.4.5:5180
+http://192.168.1.5:65010/udp/224.11.4.5:5180
 #EXTINF:-1 tvg-id="6" tvg-logo="http://172.17.49.10/PosterisChannels/006_1.png", Swarnavahini
-udp://@224.11.4.6:5180
+http://192.168.1.5:65010/udp/224.11.4.6:5180
 #EXTINF:-1 tvg-id="7" tvg-logo="http://172.17.49.10/PosterisChannels/7.png", Vasantham TV
-udp://@224.11.4.7:5180
+http://192.168.1.5:65010/udp/224.11.4.7:5180
 #EXTINF:-1 tvg-id="8" tvg-logo="http://172.17.49.10/PosterisChannels/08.png", Siyatha TV
-udp://@224.11.2.21:5180
+http://192.168.1.5:65010/udp/224.11.2.21:5180
 #EXTINF:-1 tvg-id="9" tvg-logo="http://172.17.49.10/PosterisChannels/9.png", Haritha TV
-udp://@224.11.4.9:5180
+http://192.168.1.5:65010/udp/224.11.4.9:5180
 #EXTINF:-1 tvg-id="10" tvg-logo="http://172.17.49.10/PosterisChannels/10.png", Sirasa TV
-udp://@224.11.4.10:5180
+http://192.168.1.5:65010/udp/224.11.4.10:5180
 #EXTINF:-1 tvg-id="11" tvg-logo="http://172.17.49.10/PosterisChannels/11_new.png", Shakthi TV
-udp://@224.11.4.11:5180
+http://192.168.1.5:65010/udp/224.11.4.11:5180
 #EXTINF:-1 tvg-id="12" tvg-logo="http://172.17.49.10/PosterisChannels/012_new.png", TV1
-udp://@224.11.2.12:5180
+http://192.168.1.5:65010/udp/224.11.2.12:5180
 #EXTINF:-1 tvg-id="13" tvg-logo="http://172.17.49.10/PosterisChannels/13.png", TNL
-udp://@224.11.4.13:5180
+http://192.168.1.5:65010/udp/224.11.4.13:5180
 #EXTINF:-1 tvg-id="14" tvg-logo="http://172.17.49.10/PosterisChannels/14_1.png", Ada Derana 24
-udp://@224.11.2.14:5180
+http://192.168.1.5:65010/udp/224.11.2.14:5180
 #EXTINF:-1 tvg-id="15" tvg-logo="http://172.17.49.10/PosterisChannels/15_2.png", Music Plus Television
-udp://@224.11.4.15:5180
+http://192.168.1.5:65010/udp/224.11.4.15:5180
 #EXTINF:-1 tvg-id="16" tvg-logo="http://172.17.49.10/PosterisChannels/016_1.png", Nethra TV
-udp://@224.11.2.16:5180
+http://192.168.1.5:65010/udp/224.11.2.16:5180
 #EXTINF:-1 tvg-id="17" tvg-logo="http://172.17.49.10/PosterisChannels/17.png", ART
-udp://@224.11.2.17:5180
+http://192.168.1.5:65010/udp/224.11.2.17:5180
 #EXTINF:-1 tvg-id="18" tvg-logo="http://172.17.49.10/PosterisChannels/18.png", Knowledge TV
-udp://@224.11.4.18:5180
+http://192.168.1.5:65010/udp/224.11.4.18:5180
 #EXTINF:-1 tvg-id="19" tvg-logo="http://172.17.49.10/PosterisChannels/19.png", Hiru TV
-udp://@224.11.4.19:5180
+http://192.168.1.5:65010/udp/224.11.4.19:5180
 #EXTINF:-1 tvg-id="20" tvg-logo="http://172.17.49.10/PosterisChannels/20.png", Event TV
-udp://@224.11.4.165:5180
+http://192.168.1.5:65010/udp/224.11.4.165:5180
 #EXTINF:-1 tvg-id="21" tvg-logo="http://172.17.49.10/PosterisChannels/021.png", Star Tamil
-udp://@224.11.2.8:5180
+http://192.168.1.5:65010/udp/224.11.2.8:5180
 #EXTINF:-1 tvg-id="22" tvg-logo="http://172.17.49.10/PosterisChannels/22.png", Rangiri TV
-udp://@224.11.2.22:5180
+http://192.168.1.5:65010/udp/224.11.2.22:5180
 #EXTINF:-1 tvg-id="23" tvg-logo="http://172.17.49.10/PosterisChannels/23_1.png", CNN
-udp://@224.11.2.23:5180
+http://192.168.1.5:65010/udp/224.11.2.23:5180
 #EXTINF:-1 tvg-id="24" tvg-logo="http://172.17.49.10/PosterisChannels/24.png", BBC World News
-udp://@224.11.4.24:5180
+http://192.168.1.5:65010/udp/224.11.4.24:5180
 #EXTINF:-1 tvg-id="25" tvg-logo="http://172.17.49.10/PosterisChannels/25_1.png", Times Now
-udp://@224.11.4.162:5180
+http://192.168.1.5:65010/udp/224.11.4.162:5180
 #EXTINF:-1 tvg-id="26" tvg-logo="http://172.17.49.10/PosterisChannels/26.png", Aljazeera
-udp://@224.11.4.26:5180
+http://192.168.1.5:65010/udp/224.11.4.26:5180
 #EXTINF:-1 tvg-id="27" tvg-logo="http://172.17.49.10/PosterisChannels/27.png", France 24
-udp://@224.11.2.27:5180
+http://192.168.1.5:65010/udp/224.11.2.27:5180
 #EXTINF:-1 tvg-id="28" tvg-logo="http://172.17.49.10/PosterisChannels/28_2.png", Star Movies
-udp://@224.11.2.28:5180
+http://192.168.1.5:65010/udp/224.11.2.28:5180
 #EXTINF:-1 tvg-id="29" tvg-logo="http://172.17.49.10/PosterisChannels/29.png", Cinemachi Action
-udp://@224.11.4.29:5180
+http://192.168.1.5:65010/udp/224.11.4.29:5180
 #EXTINF:-1 tvg-id="30" tvg-logo="http://172.17.49.10/PosterisChannels/30.png", Cinemachi Family
-udp://@224.11.4.30:5180
+http://192.168.1.5:65010/udp/224.11.4.30:5180
 #EXTINF:-1 tvg-id="31" tvg-logo="http://172.17.49.10/PosterisChannels/31.png", Cinemachi Scream
-udp://@224.11.4.31:5180
+http://192.168.1.5:65010/udp/224.11.4.31:5180
 #EXTINF:-1 tvg-id="32" tvg-logo="http://172.17.49.10/PosterisChannels/32.png", Cinemachi Xtra
-udp://@224.11.4.32:5180
+http://192.168.1.5:65010/udp/224.11.4.32:5180
 #EXTINF:-1 tvg-id="33" tvg-logo="http://172.17.49.10/PosterisChannels/033.png", CinemaWorld
-udp://@224.11.2.33:5180
+http://192.168.1.5:65010/udp/224.11.2.33:5180
 #EXTINF:-1 tvg-id="34" tvg-logo="http://172.17.49.10/PosterisChannels/034.png", Nflix
-udp://@224.11.2.34:5180
+http://192.168.1.5:65010/udp/224.11.2.34:5180
 #EXTINF:-1 tvg-id="35" tvg-logo="http://172.17.49.10/PosterisChannels/36.png", Comedy Central
-udp://@224.11.2.35:5180
+http://192.168.1.5:65010/udp/224.11.2.35:5180
 #EXTINF:-1 tvg-id="37" tvg-logo="http://172.17.49.10/PosterisChannels/037_new.png", Sony Sports Ten 5
-udp://@224.11.2.37:5180
+http://192.168.1.5:65010/udp/224.11.2.37:5180
 #EXTINF:-1 tvg-id="38" tvg-logo="http://172.17.49.10/PosterisChannels/038_new.png", Sony Sports Ten 1
-udp://@224.11.2.38:5180
+http://192.168.1.5:65010/udp/224.11.2.38:5180
 #EXTINF:-1 tvg-id="39" tvg-logo="http://172.17.49.10/PosterisChannels/39_new.png", Star Sports Select 1
-udp://@224.11.2.39:5180
+http://192.168.1.5:65010/udp/224.11.2.39:5180
 #EXTINF:-1 tvg-id="40" tvg-logo="http://172.17.49.10/PosterisChannels/40_new.png", Star Sports 2
-udp://@224.11.2.40:5180
+http://192.168.1.5:65010/udp/224.11.2.40:5180
 #EXTINF:-1 tvg-id="41" tvg-logo="http://172.17.49.10/PosterisChannels/41_new.png", Star Sports 1
-udp://@224.11.2.41:5180
+http://192.168.1.5:65010/udp/224.11.2.41:5180
 #EXTINF:-1 tvg-id="42" tvg-logo="http://172.17.49.10/PosterisChannels/42_1.png", Eurosport
-udp://@224.11.2.42:5180
+http://192.168.1.5:65010/udp/224.11.2.42:5180
 #EXTINF:-1 tvg-id="44" tvg-logo="http://172.17.49.10/PosterisChannels/44.png", Ten Cricket
-udp://@224.11.2.44:5180
+http://192.168.1.5:65010/udp/224.11.2.44:5180
 #EXTINF:-1 tvg-id="45" tvg-logo="http://172.17.49.10/PosterisChannels/045_new.png", Sony Sports Ten 2
-udp://@224.11.2.45:5180
+http://192.168.1.5:65010/udp/224.11.2.45:5180
 #EXTINF:-1 tvg-id="46" tvg-logo="http://172.17.49.10/PosterisChannels/046.png", Premier Sports
-udp://@224.11.4.46:5180
+http://192.168.1.5:65010/udp/224.11.4.46:5180
 #EXTINF:-1 tvg-id="47" tvg-logo="http://172.17.49.10/PosterisChannels/47_new.png", Discovery Channel
-udp://@224.11.2.47:5180
+http://192.168.1.5:65010/udp/224.11.2.47:5180
 #EXTINF:-1 tvg-id="48" tvg-logo="http://172.17.49.10/PosterisChannels/48.png", Animal Planet
-udp://@224.11.2.48:5180
+http://192.168.1.5:65010/udp/224.11.2.48:5180
 #EXTINF:-1 tvg-id="49" tvg-logo="http://172.17.49.10/PosterisChannels/49_1.png", TLC
-udp://@224.11.2.49:5180
+http://192.168.1.5:65010/udp/224.11.2.49:5180
 #EXTINF:-1 tvg-id="50" tvg-logo="http://172.17.49.10/PosterisChannels/50.png", National Geographic Channel
-udp://@224.11.2.50:5180
+http://192.168.1.5:65010/udp/224.11.2.50:5180
 #EXTINF:-1 tvg-id="52" tvg-logo="http://172.17.49.10/PosterisChannels/52.png", Fox Life
-udp://@224.11.2.52:5180
+http://192.168.1.5:65010/udp/224.11.2.52:5180
 #EXTINF:-1 tvg-id="53" tvg-logo="http://172.17.49.10/PosterisChannels/53.png", Travel Channel
-udp://@224.11.2.53:5180
+http://192.168.1.5:65010/udp/224.11.2.53:5180
 #EXTINF:-1 tvg-id="54" tvg-logo="http://172.17.49.10/PosterisChannels/54.png", Discovery Turbo
-udp://@224.11.2.54:5180
+http://192.168.1.5:65010/udp/224.11.2.54:5180
 #EXTINF:-1 tvg-id="55" tvg-logo="http://172.17.49.10/PosterisChannels/55.png", Discovery Science
-udp://@224.11.2.55:5180
+http://192.168.1.5:65010/udp/224.11.2.55:5180
 #EXTINF:-1 tvg-id="56" tvg-logo="http://172.17.49.10/PosterisChannels/56.png", Discovery Tamil
-udp://@224.11.2.56:5180
+http://192.168.1.5:65010/udp/224.11.2.56:5180
 #EXTINF:-1 tvg-id="57" tvg-logo="http://172.17.49.10/PosterisChannels/57.png", Nat Geo Wild
-udp://@224.11.2.57:5180
+http://192.168.1.5:65010/udp/224.11.2.57:5180
 #EXTINF:-1 tvg-id="58" tvg-logo="http://172.17.49.10/PosterisChannels/58.png", DaVinci
-udp://@224.11.2.58:5180
+http://192.168.1.5:65010/udp/224.11.2.58:5180
 #EXTINF:-1 tvg-id="59" tvg-logo="http://172.17.49.10/PosterisChannels/59.png", Disney Junior
-udp://@224.11.2.59:5180
+http://192.168.1.5:65010/udp/224.11.2.59:5180
 #EXTINF:-1 tvg-id="60" tvg-logo="http://172.17.49.10/PosterisChannels/60.png", nick
-udp://@224.11.4.60:5180
+http://192.168.1.5:65010/udp/224.11.4.60:5180
 #EXTINF:-1 tvg-id="61" tvg-logo="http://172.17.49.10/PosterisChannels/61_1.png", Planet Fun
-udp://@224.11.4.61:5180
+http://192.168.1.5:65010/udp/224.11.4.61:5180
 #EXTINF:-1 tvg-id="62" tvg-logo="http://172.17.49.10/PosterisChannels/62_1.png", CBeebies
-udp://@224.11.4.62:5180
+http://192.168.1.5:65010/udp/224.11.4.62:5180
 #EXTINF:-1 tvg-id="63" tvg-logo="http://172.17.49.10/PosterisChannels/63.png", Baby TV
-udp://@224.11.2.63:5180
+http://192.168.1.5:65010/udp/224.11.2.63:5180
 #EXTINF:-1 tvg-id="64" tvg-logo="http://172.17.49.10/PosterisChannels/64.png", Discovery Kids
-udp://@224.11.2.64:5180
+http://192.168.1.5:65010/udp/224.11.2.64:5180
 #EXTINF:-1 tvg-id="65" tvg-logo="http://172.17.49.10/PosterisChannels/65.png", Cartoon Network
-udp://@224.11.2.65:5180
+http://192.168.1.5:65010/udp/224.11.2.65:5180
 #EXTINF:-1 tvg-id="66" tvg-logo="http://172.17.49.10/PosterisChannels/66.png", POGO
-udp://@224.11.2.66:5180
+http://192.168.1.5:65010/udp/224.11.2.66:5180
 #EXTINF:-1 tvg-id="67" tvg-logo="http://172.17.49.10/PosterisChannels/67.png", MTV
-udp://@224.11.2.67:5180
+http://192.168.1.5:65010/udp/224.11.2.67:5180
 #EXTINF:-1 tvg-id="68" tvg-logo="http://172.17.49.10/PosterisChannels/68_new.png", VH1
-udp://@224.11.4.68:5180
+http://192.168.1.5:65010/udp/224.11.4.68:5180
 #EXTINF:-1 tvg-id="69" tvg-logo="http://172.17.49.10/PosterisChannels/069_1.png", Stingray CMusic
-udp://@224.11.2.69:5180
+http://192.168.1.5:65010/udp/224.11.2.69:5180
 #EXTINF:-1 tvg-id="72" tvg-logo="http://172.17.49.10/PosterisChannels/72.png", Zee Tamil
-udp://@224.11.2.72:5180
+http://192.168.1.5:65010/udp/224.11.2.72:5180
 #EXTINF:-1 tvg-id="73" tvg-logo="http://172.17.49.10/PosterisChannels/73.png", Star Vijay
-udp://@224.11.2.73:5180
+http://192.168.1.5:65010/udp/224.11.2.73:5180
 #EXTINF:-1 tvg-id="74" tvg-logo="http://172.17.49.10/PosterisChannels/74_1.png", Colors Tamil
-udp://@224.11.4.74:5180
+http://192.168.1.5:65010/udp/224.11.4.74:5180
 #EXTINF:-1 tvg-id="76" tvg-logo="http://172.17.49.10/PosterisChannels/76.png", Zee Cinema
-udp://@224.11.2.76:5180
+http://192.168.1.5:65010/udp/224.11.2.76:5180
 #EXTINF:-1 tvg-id="77" tvg-logo="http://172.17.49.10/PosterisChannels/77.png", Star World
-udp://@224.11.4.77:5180
+http://192.168.1.5:65010/udp/224.11.4.77:5180
 #EXTINF:-1 tvg-id="78" tvg-logo="http://172.17.49.10/PosterisChannels/78.png", Fashion TV
-udp://@224.11.2.78:5180
+http://192.168.1.5:65010/udp/224.11.2.78:5180
 #EXTINF:-1 tvg-id="79" tvg-logo="http://172.17.49.10/PosterisChannels/79.png", Zee TV
-udp://@224.11.2.79:5180
+http://192.168.1.5:65010/udp/224.11.2.79:5180
 #EXTINF:-1 tvg-id="82" tvg-logo="http://172.17.49.10/PosterisChannels/82_1.png", zoom
-udp://@224.11.2.82:5180
+http://192.168.1.5:65010/udp/224.11.2.82:5180
 #EXTINF:-1 tvg-id="83" tvg-logo="http://172.17.49.10/PosterisChannels/83_01.png", ABC Australia
-udp://@224.11.4.83:5180
+http://192.168.1.5:65010/udp/224.11.4.83:5180
 #EXTINF:-1 tvg-id="84" tvg-logo="http://172.17.49.10/PosterisChannels/84.png", Luxe TV
-udp://@224.11.4.84:5180
+http://192.168.1.5:65010/udp/224.11.4.84:5180
 #EXTINF:-1 tvg-id="85" tvg-logo="http://172.17.49.10/PosterisChannels/85.png", Zee Cafe
-udp://@224.11.2.85:5180
+http://192.168.1.5:65010/udp/224.11.2.85:5180
 #EXTINF:-1 tvg-id="86" tvg-logo="http://172.17.49.10/PosterisChannels/86_1.png", Colors Infinity
-udp://@224.11.2.86:5180
+http://192.168.1.5:65010/udp/224.11.2.86:5180
 #EXTINF:-1 tvg-id="87" tvg-logo="http://172.17.49.10/PosterisChannels/87.png", KBS World
-udp://@224.11.2.87:5180
+http://192.168.1.5:65010/udp/224.11.2.87:5180
 #EXTINF:-1 tvg-id="88" tvg-logo="http://172.17.49.10/PosterisChannels/088_new.png", Star Plus
-udp://@224.11.2.88:5180
+http://192.168.1.5:65010/udp/224.11.2.88:5180
 #EXTINF:-1 tvg-id="89" tvg-logo="http://172.17.49.10/PosterisChannels/89_new.png", Star Bharat
-udp://@224.11.2.89:5180
+http://192.168.1.5:65010/udp/224.11.2.89:5180
 #EXTINF:-1 tvg-id="90" tvg-logo="http://172.17.49.10/PosterisChannels/90.png", TV5MONDE Asie
-udp://@224.11.2.90:5180
+http://192.168.1.5:65010/udp/224.11.2.90:5180
 #EXTINF:-1 tvg-id="91" tvg-logo="http://172.17.49.10/PosterisChannels/91.png", Parliament Channel
-udp://@224.11.4.91:5180
+http://192.168.1.5:65010/udp/224.11.4.91:5180
 #EXTINF:-1 tvg-id="92" tvg-logo="http://172.17.49.10/PosterisChannels/092.png", DW
-udp://@224.11.2.92:5180
+http://192.168.1.5:65010/udp/224.11.2.92:5180
 #EXTINF:-1 tvg-id="93" tvg-logo="http://172.17.49.10/PosterisChannels/93.png", Verbum TV
-udp://@224.11.2.93:5180
+http://192.168.1.5:65010/udp/224.11.2.93:5180
 #EXTINF:-1 tvg-id="94" tvg-logo="http://172.17.49.10/PosterisChannels/094_1.png", Jaya TV
-udp://@224.11.4.94:5180
+http://192.168.1.5:65010/udp/224.11.4.94:5180
 #EXTINF:-1 tvg-id="95" tvg-logo="http://172.17.49.10/PosterisChannels/95_01.png", Siyasa TV
-udp://@224.11.2.95:5180
+http://192.168.1.5:65010/udp/224.11.2.95:5180
 #EXTINF:-1 tvg-id="96" tvg-logo="http://172.17.49.10/PosterisChannels/96.png", The Buddhist
-udp://@224.11.2.96:5180
+http://192.168.1.5:65010/udp/224.11.2.96:5180
 #EXTINF:-1 tvg-id="97" tvg-logo="http://172.17.49.10/PosterisChannels/97.png", God TV
-udp://@224.11.2.97:5180
+http://192.168.1.5:65010/udp/224.11.2.97:5180
 #EXTINF:-1 tvg-id="98" tvg-logo="http://172.17.49.10/PosterisChannels/098.png", Ohm TV
-udp://@224.11.4.98:5180
+http://192.168.1.5:65010/udp/224.11.4.98:5180
 #EXTINF:-1 tvg-id="99" tvg-logo="http://172.17.49.10/PosterisChannels/99.png", Shraddha TV
-udp://@224.11.2.99:5180
+http://192.168.1.5:65010/udp/224.11.2.99:5180
 #EXTINF:-1 tvg-id="101" tvg-logo="http://172.17.49.10/PosterisChannels/101.png", colors
-udp://@224.11.2.101:5180
+http://192.168.1.5:65010/udp/224.11.2.101:5180
 #EXTINF:-1 tvg-id="102" tvg-logo="http://172.17.49.10/PosterisChannels/102.png", Dan TV
-udp://@224.11.4.102:5180
+http://192.168.1.5:65010/udp/224.11.4.102:5180
 #EXTINF:-1 tvg-id="103" tvg-logo="http://172.17.49.10/PosterisChannels/103.png", Dan News
-udp://@224.11.4.103:5180
+http://192.168.1.5:65010/udp/224.11.4.103:5180
 #EXTINF:-1 tvg-id="105" tvg-logo="http://172.17.49.10/PosterisChannels/105.png", IBC Tamil
-udp://@224.11.4.105:5180
+http://192.168.1.5:65010/udp/224.11.4.105:5180
 #EXTINF:-1 tvg-id="106" tvg-logo="http://172.17.49.10/PosterisChannels/106.png", Kalaignar TV
-udp://@224.11.2.106:5180
+http://192.168.1.5:65010/udp/224.11.2.106:5180
 #EXTINF:-1 tvg-id="107" tvg-logo="http://172.17.49.10/PosterisChannels/107.png", Isaiaruvi TV
-udp://@224.11.2.107:5180
+http://192.168.1.5:65010/udp/224.11.2.107:5180
 #EXTINF:-1 tvg-id="108" tvg-logo="http://172.17.49.10/PosterisChannels/108.png", Sirippoli TV
-udp://@224.11.2.108:5180
+http://192.168.1.5:65010/udp/224.11.2.108:5180
 #EXTINF:-1 tvg-id="109" tvg-logo="http://172.17.49.10/PosterisChannels/109.png", Capital TV
-udp://@224.11.4.109:5180
+http://192.168.1.5:65010/udp/224.11.4.109:5180
 #EXTINF:-1 tvg-id="110" tvg-logo="http://172.17.49.10/PosterisChannels/110_1.png", Sangamam TV
-udp://@224.11.4.110:5180
+http://192.168.1.5:65010/udp/224.11.4.110:5180
 #EXTINF:-1 tvg-id="111" tvg-logo="http://172.17.49.10/PosterisChannels/111.png", Colombo TV
-udp://@224.11.2.111:5180
+http://192.168.1.5:65010/udp/224.11.2.111:5180
 #EXTINF:-1 tvg-id="112" tvg-logo="http://172.17.49.10/PosterisChannels/112.png", Pragna TV
-udp://@224.11.2.112:5180
+http://192.168.1.5:65010/udp/224.11.2.112:5180
 #EXTINF:-1 tvg-id="113" tvg-logo="http://172.17.49.10/PosterisChannels/113.png", Relax TV
-udp://@224.11.4.113:5180
+http://192.168.1.5:65010/udp/224.11.4.113:5180
 #EXTINF:-1 tvg-id="115" tvg-logo="http://172.17.49.10/PosterisChannels/115.png", Ace TV
-udp://@224.11.4.115:5180
+http://192.168.1.5:65010/udp/224.11.4.115:5180
 #EXTINF:-1 tvg-id="116" tvg-logo="http://172.17.49.10/PosterisChannels/116.png", Gaja TV
-udp://@224.11.4.116:5180
+http://192.168.1.5:65010/udp/224.11.4.116:5180
 #EXTINF:-1 tvg-id="117" tvg-logo="http://172.17.49.10/PosterisChannels/117_1.png", TV Didula
-udp://@224.11.2.117:5180
+http://192.168.1.5:65010/udp/224.11.2.117:5180
 #EXTINF:-1 tvg-id="118" tvg-logo="http://172.17.49.10/PosterisChannels/118.png", Thinetha TV
-udp://@224.11.4.118:5180
+http://192.168.1.5:65010/udp/224.11.4.118:5180
 #EXTINF:-1 tvg-id="119" tvg-logo="http://172.17.49.10/PosterisChannels/119.png", ETV
-udp://@224.11.4.119:5180
+http://192.168.1.5:65010/udp/224.11.4.119:5180
 #EXTINF:-1 tvg-id="120" tvg-logo="http://172.17.49.10/PosterisChannels/120.png", Event TV Plus
-udp://@224.11.4.120:5180
+http://192.168.1.5:65010/udp/224.11.4.120:5180
 #EXTINF:-1 tvg-id="121" tvg-logo="http://172.17.49.10/PosterisChannels/121.png", Sanda TV
-udp://@224.11.4.121:5180
+http://192.168.1.5:65010/udp/224.11.4.121:5180
 #EXTINF:-1 tvg-id="122" tvg-logo="http://172.17.49.10/PosterisChannels/122.png", Aksharaya TV
-udp://@224.11.4.122:5180
+http://192.168.1.5:65010/udp/224.11.4.122:5180
 #EXTINF:-1 tvg-id="123" tvg-logo="http://172.17.49.10/PosterisChannels/123.png", Vapa TV
-udp://@224.11.4.123:5180
+http://192.168.1.5:65010/udp/224.11.4.123:5180
 #EXTINF:-1 tvg-id="125" tvg-logo="http://172.17.49.10/PosterisChannels/125.png", Life TV
-udp://@224.11.2.125:5180
+http://192.168.1.5:65010/udp/224.11.2.125:5180
 #EXTINF:-1 tvg-id="126" tvg-logo="http://172.17.49.10/PosterisChannels/126.png", Damsathara TV
-udp://@224.11.2.126:5180
+http://192.168.1.5:65010/udp/224.11.2.126:5180
 #EXTINF:-1 tvg-id="127" tvg-logo="http://172.17.49.10/PosterisChannels/127.png", Vibe TV
-udp://@224.11.2.251:5180
+http://192.168.1.5:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="128" tvg-logo="http://172.17.49.10/PosterisChannels/128.png", See TV
-udp://@224.11.2.251:5180
+http://192.168.1.5:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="129" tvg-logo="http://172.17.49.10/PosterisChannels/129_1.png", Sumaga TV
-udp://@224.11.2.251:5180
+http://192.168.1.5:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="131" tvg-logo="http://172.17.49.10/PosterisChannels/131.png", The Beauty Channel
-udp://@224.11.4.131:5180
+http://192.168.1.5:65010/udp/224.11.4.131:5180
 #EXTINF:-1 tvg-id="140" tvg-logo="http://172.17.49.10/PosterisChannels/140.png", Supreme TV
-udp://@224.11.4.140:5180
+http://192.168.1.5:65010/udp/224.11.4.140:5180
 #EXTINF:-1 tvg-id="160" tvg-logo="http://172.17.49.10/PosterisChannels/160.png", Bloomberg
-udp://@224.11.2.160:5180
+http://192.168.1.5:65010/udp/224.11.2.160:5180
 #EXTINF:-1 tvg-id="161" tvg-logo="http://172.17.49.10/PosterisChannels/161_1.png", NHK World Japan
-udp://@224.11.2.161:5180
+http://192.168.1.5:65010/udp/224.11.2.161:5180
 #EXTINF:-1 tvg-id="163" tvg-logo="http://172.17.49.10/PosterisChannels/163.png", France 24 (French)
-udp://@224.11.2.163:5180
+http://192.168.1.5:65010/udp/224.11.2.163:5180
 #EXTINF:-1 tvg-id="180" tvg-logo="http://172.17.49.10/PosterisChannels/180.png", CCTV 4
-udp://@224.11.4.180:5180
+http://192.168.1.5:65010/udp/224.11.4.180:5180
 #EXTINF:-1 tvg-id="181" tvg-logo="http://172.17.49.10/PosterisChannels/181.png", CGTN Documentary
-udp://@224.11.4.181:5180
+http://192.168.1.5:65010/udp/224.11.4.181:5180
 #EXTINF:-1 tvg-id="190" tvg-logo="http://172.17.49.10/PosterisChannels/190.png", English Club TV
-udp://@224.11.2.190:5180
+http://192.168.1.5:65010/udp/224.11.2.190:5180
 #EXTINF:-1 tvg-id="200" tvg-logo="http://172.17.49.10/PosterisChannels/200.png", Channel 200
-udp://@224.11.2.167:5180
+http://192.168.1.5:65010/udp/224.11.2.167:5180
 #EXTINF:-1 tvg-id="204" tvg-logo="http://172.17.49.10/PosterisChannels/204.png", Kids TV
-udp://@224.11.2.204:5180
+http://192.168.1.5:65010/udp/224.11.2.204:5180
 #EXTINF:-1 tvg-id="205" tvg-logo="http://172.17.49.10/PosterisChannels/205.png", Videsa 5
-udp://@224.11.4.205:5180
+http://192.168.1.5:65010/udp/224.11.4.205:5180
 #EXTINF:-1 tvg-id="206" tvg-logo="http://172.17.49.10/PosterisChannels/206.png", Videsa 6-7
-udp://@224.11.2.206:5180
+http://192.168.1.5:65010/udp/224.11.2.206:5180
 #EXTINF:-1 tvg-id="207" tvg-logo="http://172.17.49.10/PosterisChannels/207.png", Videsa 8-9
-udp://@224.11.2.207:5180
+http://192.168.1.5:65010/udp/224.11.2.207:5180
 #EXTINF:-1 tvg-id="208" tvg-logo="http://172.17.49.10/PosterisChannels/208.png", Videsa DP Grade 6 - 8
-udp://@224.11.4.208:5180
+http://192.168.1.5:65010/udp/224.11.4.208:5180
 #EXTINF:-1 tvg-id="209" tvg-logo="http://172.17.49.10/PosterisChannels/209.png", Videsa DP Grade 9 - OL
-udp://@224.11.2.209:5180
+http://192.168.1.5:65010/udp/224.11.2.209:5180
 #EXTINF:-1 tvg-id="210" tvg-logo="http://172.17.49.10/PosterisChannels/210.png", AL Kuppiya Television
-udp://@224.11.2.210:5180
+http://192.168.1.5:65010/udp/224.11.2.210:5180
 #EXTINF:-1 tvg-id="300" tvg-logo="http://172.17.49.10/PosterisChannels/300.png", Siyatha TV HD
-udp://@224.11.2.145:5180
+http://192.168.1.5:65010/udp/224.11.2.145:5180
 #EXTINF:-1 tvg-id="301" tvg-logo="http://172.17.49.10/PosterisChannels/301.png", Rupavahini HD
-udp://@224.11.4.201:5180
+http://192.168.1.5:65010/udp/224.11.4.201:5180
 #EXTINF:-1 tvg-id="303" tvg-logo="http://172.17.49.10/PosterisChannels/303.png", ITN HD
-udp://@224.11.4.203:5180
+http://192.168.1.5:65010/udp/224.11.4.203:5180
 #EXTINF:-1 tvg-id="304" tvg-logo="http://172.17.49.10/PosterisChannels/304.png", TV Derana HD
-udp://@224.11.4.204:5180
+http://192.168.1.5:65010/udp/224.11.4.204:5180
 #EXTINF:-1 tvg-id="305" tvg-logo="http://172.17.49.10/PosterisChannels/305.png", Charana TV HD
-udp://@224.11.4.200:5180
+http://192.168.1.5:65010/udp/224.11.4.200:5180
 #EXTINF:-1 tvg-id="307" tvg-logo="http://172.17.49.10/PosterisChannels/307.png", Hiru TV HD
-udp://@224.11.4.207:5180
+http://192.168.1.5:65010/udp/224.11.4.207:5180
 #EXTINF:-1 tvg-id="310" tvg-logo="http://172.17.49.10/PosterisChannels/310.png", Event TV HD
-udp://@224.11.2.150:5180
+http://192.168.1.5:65010/udp/224.11.2.150:5180
 #EXTINF:-1 tvg-id="311" tvg-logo="http://172.17.49.10/PosterisChannels/311.png", Eurosport HD
-udp://@224.11.2.141:5180
+http://192.168.1.5:65010/udp/224.11.2.141:5180
 #EXTINF:-1 tvg-id="312" tvg-logo="http://172.17.49.10/PosterisChannels/312_1.png", Premier Sports HD
-udp://@224.11.2.142:5180
+http://192.168.1.5:65010/udp/224.11.2.142:5180
 #EXTINF:-1 tvg-id="313" tvg-logo="http://172.17.49.10/PosterisChannels/313.png", Star Sports Select 1 HD
-udp://@224.11.2.143:5180
+http://192.168.1.5:65010/udp/224.11.2.143:5180
 #EXTINF:-1 tvg-id="314" tvg-logo="http://172.17.49.10/PosterisChannels/314.png", Star Sports Select 2 HD
-udp://@224.11.2.144:5180
+http://192.168.1.5:65010/udp/224.11.2.144:5180
 #EXTINF:-1 tvg-id="317" tvg-logo="http://172.17.49.10/PosterisChannels/317.png", Ten Cricket HD
-udp://@224.11.2.217:5180
+http://192.168.1.5:65010/udp/224.11.2.217:5180
 #EXTINF:-1 tvg-id="318" tvg-logo="http://172.17.49.10/PosterisChannels/318.png", Sony Sports Ten 5 HD
-udp://@224.11.2.218:5180
+http://192.168.1.5:65010/udp/224.11.2.218:5180
 #EXTINF:-1 tvg-id="319" tvg-logo="http://172.17.49.10/PosterisChannels/319.png", Sony Sports Ten 2 HD
-udp://@224.11.2.219:5180
+http://192.168.1.5:65010/udp/224.11.2.219:5180
 #EXTINF:-1 tvg-id="320" tvg-logo="http://172.17.49.10/PosterisChannels/320.png", Sony Sports Ten 1 HD
-udp://@224.11.2.220:5180
+http://192.168.1.5:65010/udp/224.11.2.220:5180
 #EXTINF:-1 tvg-id="331" tvg-logo="http://172.17.49.10/PosterisChannels/331.png", Cinemachi Action HD
-udp://@224.11.4.231:5180
+http://192.168.1.5:65010/udp/224.11.4.231:5180
 #EXTINF:-1 tvg-id="332" tvg-logo="http://172.17.49.10/PosterisChannels/332.png", Cinemachi Family HD
-udp://@224.11.4.232:5180
+http://192.168.1.5:65010/udp/224.11.4.232:5180
 #EXTINF:-1 tvg-id="333" tvg-logo="http://172.17.49.10/PosterisChannels/333.png", Cinemachi Scream HD
-udp://@224.11.4.233:5180
+http://192.168.1.5:65010/udp/224.11.4.233:5180
 #EXTINF:-1 tvg-id="334" tvg-logo="http://172.17.49.10/PosterisChannels/334.png", Cinemachi Xtra HD
-udp://@224.11.4.234:5180
+http://192.168.1.5:65010/udp/224.11.4.234:5180
 #EXTINF:-1 tvg-id="335" tvg-logo="http://172.17.49.10/PosterisChannels/335.png", Colors Infinity HD
-udp://@224.11.2.147:5180
+http://192.168.1.5:65010/udp/224.11.2.147:5180
 #EXTINF:-1 tvg-id="336" tvg-logo="http://172.17.49.10/PosterisChannels/336.png", NPrive HD
-udp://@224.11.4.236:5180
+http://192.168.1.5:65010/udp/224.11.4.236:5180
 #EXTINF:-1 tvg-id="337" tvg-logo="http://172.17.49.10/PosterisChannels/337.png", Star Movies Select HD
-udp://@224.11.4.237:5180
+http://192.168.1.5:65010/udp/224.11.4.237:5180
 #EXTINF:-1 tvg-id="338" tvg-logo="http://172.17.49.10/PosterisChannels/338.png", Arirang TV
-udp://@224.11.4.238:5180
+http://192.168.1.5:65010/udp/224.11.4.238:5180
 #EXTINF:-1 tvg-id="351" tvg-logo="http://172.17.49.10/PosterisChannels/351.png", Discovery HD
-udp://@224.11.2.222:5180
+http://192.168.1.5:65010/udp/224.11.2.222:5180
 #EXTINF:-1 tvg-id="352" tvg-logo="http://172.17.49.10/PosterisChannels/352.png", Animal Planet HD
-udp://@224.11.2.130:5180
+http://192.168.1.5:65010/udp/224.11.2.130:5180
 #EXTINF:-1 tvg-id="353" tvg-logo="http://172.17.49.10/PosterisChannels/353.png", TLC HD
-udp://@224.11.2.131:5180
+http://192.168.1.5:65010/udp/224.11.2.131:5180
 #EXTINF:-1 tvg-id="354" tvg-logo="http://172.17.49.10/PosterisChannels/354.png", Luxe TV HD
-udp://@224.11.2.132:5180
+http://192.168.1.5:65010/udp/224.11.2.132:5180
 #EXTINF:-1 tvg-id="355" tvg-logo="http://172.17.49.10/PosterisChannels/355.png", Fashion TV HD
-udp://@224.11.2.133:5180
+http://192.168.1.5:65010/udp/224.11.2.133:5180
 #EXTINF:-1 tvg-id="572" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Sporting Star 3
-udp://@224.11.2.174:5180
+http://192.168.1.5:65010/udp/224.11.2.174:5180
 #EXTINF:-1 tvg-id="573" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Leisure Sports 3
-udp://@224.11.2.253:5180
+http://192.168.1.5:65010/udp/224.11.2.253:5180
 #EXTINF:-1 tvg-id="580" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Al Jazeera Arabic
-udp://@224.11.2.251:5180
+http://192.168.1.5:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="581" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Deutsche Welle
-udp://@224.11.2.251:5180
+http://192.168.1.5:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="582" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", RTR Planeta
-udp://@224.11.2.251:5180
+http://192.168.1.5:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="583" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Rai Italia
-udp://@224.11.2.251:5180
+http://192.168.1.5:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="591" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Test 3
-https://live.peotv.com/bpk-tv/041/output/index.m3u8
+http://192.168.1.5:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="592" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Test 4
-http://10.206.0.175:65010/udp/224.11.4.1:5180
+http://192.168.1.5:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="595" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Info Channel
-udp://@224.11.2.251:5180
+http://192.168.1.5:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="596" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Promo Channel
-udp://@224.11.2.251:5180
+http://192.168.1.5:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="597" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Promo Channel 2
-udp://@224.11.2.251:5180
+http://192.168.1.5:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="601" tvg-logo="http://172.17.49.10/PosterisChannels/601.png", TV BOC Ch 01
-udp://@224.11.4.253:5180
+http://192.168.1.5:65010/udp/224.11.4.253:5180
 #EXTINF:-1 tvg-id="602" tvg-logo="http://172.17.49.10/PosterisChannels/602.png", TV BOC Ch 02
-udp://@224.11.4.254:5180
+http://192.168.1.5:65010/udp/224.11.4.254:5180
 #EXTINF:-1 tvg-id="902" tvg-logo="http://172.17.49.10/PosterisChannels/4_1.png", FM Derana
-udp://@224.11.2.251:5180
+http://192.168.1.5:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="990" tvg-logo="http://172.17.49.10/PosterisChannels/990.png", Test 1
-udp://@224.11.2.173:5180
+http://192.168.1.5:65010/udp/224.11.2.173:5180
 #EXTINF:-1 tvg-id="991" tvg-logo="http://172.17.49.10/PosterisChannels/991.png", Test 2
-udp://@224.11.2.175:5180
+http://192.168.1.5:65010/udp/224.11.2.175:5180
 #EXTINF:-1 tvg-id="992" tvg-logo="http://172.17.49.10/PosterisChannels/992_2.png", Test 5
-http://10.206.0.175:65010/udp/224.11.2.218:5180
+http://192.168.1.5:65010/udp/224.11.2.251:5180
