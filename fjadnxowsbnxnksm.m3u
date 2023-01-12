@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://tinyurl.com/PEO-TV-EPG"
 #EXTINF:-1 tvg-id="0" tvg-logo="http://172.17.49.10/PosterisChannels/000.png", SLT Group Watch
 http://192.168.1.5:65010/udp/224.11.4.250:5180
 #EXTINF:-1 tvg-id="1" tvg-logo="http://172.17.49.10/PosterisChannels/1.png", Rupavahini
