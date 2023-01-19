@@ -443,6 +443,11 @@
     <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ZlvOn4Vs.png" />
   </channel>
 
+  <channel id="10000000075992620">
+    <display-name>OHM TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/J1uNjU9Y.png" />
+  </channel>
+
   <channel id="10000000027720000">
     <display-name>Shraddha TV</display-name>
     <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/iFjYSJCB.png" />
@@ -34281,6 +34286,347 @@
     <category>Religious</category>
     <episode-num system="onscreen"></episode-num>
     <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/CAF5768773770AD180C7C8BFC5613440831A6496L.jpg" />
+  </programme>
+
+  <programme start="20230119050000 +0530" stop="20230119060000 +0530" channel="10000000075992620">
+    <title>Sivaya Mandiram</title>
+    <sub-title></sub-title>
+    <desc>A religious leader delivers a discourse on various teachings and principles from ancient Hindu scriptures and encourages followers to reflect on the same.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/B771C57408505D35AFA59EF0A25906EFBFA82A52D.jpg" />
+  </programme>
+
+  <programme start="20230119060000 +0530" stop="20230119070000 +0530" channel="10000000075992620">
+    <title>Suprabatham</title>
+    <sub-title></sub-title>
+    <desc>Religious leaders along with devotees recite morning prayers, conduct rituals and sing devotional songs in praise of various Hindu deities.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/E0976687985F4E6E1D7CF4D2529295AD45A93803O.jpg" />
+  </programme>
+
+  <programme start="20230119070000 +0530" stop="20230119070500 +0530" channel="10000000075992620">
+    <title>Indraya Sinthanai</title>
+    <sub-title></sub-title>
+    <desc>A religious leader explores spiritual and positive thoughts to live a healthy and stress-free life and shares updates related to the Hindu religion.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/0555298110FE878D6EAEF716E33F33B78C41AB84O.jpg" />
+  </programme>
+
+  <programme start="20230119070500 +0530" stop="20230119072000 +0530" channel="10000000075992620">
+    <title>Indraya Naal</title>
+    <sub-title></sub-title>
+    <desc>A show focussing on religion or spirituality.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/31566ACDD95B307136296EFDB42F61BF007B79BCY.jpg" />
+  </programme>
+
+  <programme start="20230119072000 +0530" stop="20230119073000 +0530" channel="10000000075992620">
+    <title>Eezhathu Siththar</title>
+    <sub-title></sub-title>
+    <desc>A religious scholar sheds light on the life journey and achievements of various Siddhars who were born in Eelam, the Tamil name for Sri Lanka.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/B8C8355A82F769BF074E593B72E268E4259439B4O.jpg" />
+  </programme>
+
+  <programme start="20230119073000 +0530" stop="20230119080000 +0530" channel="10000000075992620">
+    <title>Mangala Isai</title>
+    <sub-title></sub-title>
+    <desc>This program features a set of devotional instrumentation and classical music for a pleasant and peaceful spiritual morning.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/EB6A994035A56B16A1AE9A6F9AA87FF3D3633CD8Z.jpg" />
+  </programme>
+
+  <programme start="20230119080000 +0530" stop="20230119083000 +0530" channel="10000000075992620">
+    <title>Arulurai</title>
+    <sub-title></sub-title>
+    <desc>A religious scholar delivers a discourse and shares spiritual thoughts to inspire believers and fuel their trust in God and spirituality.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/45E3AFBD5EDE3AD4123933AA8B3B759BCE5EB6616.jpg" />
+  </programme>
+
+  <programme start="20230119083000 +0530" stop="20230119090000 +0530" channel="10000000075992620">
+    <title>Thiruvasagam</title>
+    <sub-title></sub-title>
+    <desc>A compilation of Tamil hymns composed by the ninth century Shaivite bhakti poet, Manikkavacakar.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/DECAB5B0116A90EE9D5D56DAB398A13B586B4C721.jpg" />
+  </programme>
+
+  <programme start="20230119090000 +0530" stop="20230119100000 +0530" channel="10000000075992620">
+    <title>TBA</title>
+    <sub-title></sub-title>
+    <desc>This program is yet to be announced by this channel.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/9F6E2FC62870A41CBEB637377AF12BA20E674D73U.jpg" />
+  </programme>
+
+  <programme start="20230119100000 +0530" stop="20230119103000 +0530" channel="10000000075992620">
+    <title>Bajanai</title>
+    <sub-title></sub-title>
+    <desc>Priests gather at a temple to sing hymns and chant prayers with traditional musical instruments to seek the blessings of the Almighty.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/8AD3B397C27290FE533C25D3D2BF6F20D54938C1P.jpg" />
+  </programme>
+
+  <programme start="20230119103000 +0530" stop="20230119110000 +0530" channel="10000000075992620">
+    <title>Tamizhaka Kovil Thiruvila</title>
+    <sub-title></sub-title>
+    <desc>Religious leaders and individuals in the community take part in a festival centred around a temple situated in Tamil Nadu.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/BCA53871FE24EAC091ACA186A694976BB4AB247EU.jpg" />
+  </programme>
+
+  <programme start="20230119110000 +0530" stop="20230119120000 +0530" channel="10000000075992620">
+    <title>Bhakthimalar</title>
+    <sub-title></sub-title>
+    <desc>Various renowned singers sing melodious devotional songs, hymns and prayers to express their love and faith in the Almighty.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/AA7AC801A39BC4F6213C2E2C0D9B339BDECB7E67T.jpg" />
+  </programme>
+
+  <programme start="20230119120000 +0530" stop="20230119123000 +0530" channel="10000000075992620">
+    <title>Thiraiyil Bakthi</title>
+    <sub-title></sub-title>
+    <desc>A show focussing on religion or spirituality.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/1F08F7229178F887185A776D3396500DC14306117.jpg" />
+  </programme>
+
+  <programme start="20230119123000 +0530" stop="20230119133000 +0530" channel="10000000075992620">
+    <title>TBA</title>
+    <sub-title></sub-title>
+    <desc>This program is yet to be announced by this channel.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/9F6E2FC62870A41CBEB637377AF12BA20E674D73U.jpg" />
+  </programme>
+
+  <programme start="20230119133000 +0530" stop="20230119140000 +0530" channel="10000000075992620">
+    <title>Arulurai</title>
+    <sub-title></sub-title>
+    <desc>A religious scholar delivers a discourse and shares spiritual thoughts to inspire believers and fuel their trust in God and spirituality.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/45E3AFBD5EDE3AD4123933AA8B3B759BCE5EB6616.jpg" />
+  </programme>
+
+  <programme start="20230119140000 +0530" stop="20230119150000 +0530" channel="10000000075992620">
+    <title>TBA</title>
+    <sub-title></sub-title>
+    <desc>This program is yet to be announced by this channel.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/9F6E2FC62870A41CBEB637377AF12BA20E674D73U.jpg" />
+  </programme>
+
+  <programme start="20230119150000 +0530" stop="20230119153000 +0530" channel="10000000075992620">
+    <title>Bajanai</title>
+    <sub-title></sub-title>
+    <desc>Priests gather at a temple to sing hymns and chant prayers with traditional musical instruments to seek the blessings of the Almighty.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/8AD3B397C27290FE533C25D3D2BF6F20D54938C1P.jpg" />
+  </programme>
+
+  <programme start="20230119153000 +0530" stop="20230119160000 +0530" channel="10000000075992620">
+    <title>Tamizhaka Kovil Thiruvila</title>
+    <sub-title></sub-title>
+    <desc>Religious leaders and individuals in the community take part in a festival centred around a temple situated in Tamil Nadu.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/BCA53871FE24EAC091ACA186A694976BB4AB247EU.jpg" />
+  </programme>
+
+  <programme start="20230119160000 +0530" stop="20230119170000 +0530" channel="10000000075992620">
+    <title>Bhakthimalar</title>
+    <sub-title></sub-title>
+    <desc>Various renowned singers sing melodious devotional songs, hymns and prayers to express their love and faith in the Almighty.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/AA7AC801A39BC4F6213C2E2C0D9B339BDECB7E67T.jpg" />
+  </programme>
+
+  <programme start="20230119170000 +0530" stop="20230119180000 +0530" channel="10000000075992620">
+    <title>TBA</title>
+    <sub-title></sub-title>
+    <desc>This program is yet to be announced by this channel.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/9F6E2FC62870A41CBEB637377AF12BA20E674D73U.jpg" />
+  </programme>
+
+  <programme start="20230119180000 +0530" stop="20230119183000 +0530" channel="10000000075992620">
+    <title>Kanda Shashti Kavacham</title>
+    <sub-title></sub-title>
+    <desc>A vocalist sings a devotional song dedicated to Lord Kartikeya, the god of war in Hinduism and the son of Lord Shiva and Goddess Parvati.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/97E4353E2E8891ADCB83063AEEBD4298F56A15E0W.jpg" />
+  </programme>
+
+  <programme start="20230119183000 +0530" stop="20230119183500 +0530" channel="10000000075992620">
+    <title>Indraya Sinthanai</title>
+    <sub-title></sub-title>
+    <desc>A religious leader explores spiritual and positive thoughts to live a healthy and stress-free life and shares updates related to the Hindu religion.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/0555298110FE878D6EAEF716E33F33B78C41AB84O.jpg" />
+  </programme>
+
+  <programme start="20230119183500 +0530" stop="20230119185000 +0530" channel="10000000075992620">
+    <title>Indraya Naal</title>
+    <sub-title></sub-title>
+    <desc>A show focussing on religion or spirituality.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/31566ACDD95B307136296EFDB42F61BF007B79BCY.jpg" />
+  </programme>
+
+  <programme start="20230119185000 +0530" stop="20230119190000 +0530" channel="10000000075992620">
+    <title>Eezhathu Siththar</title>
+    <sub-title></sub-title>
+    <desc>A religious scholar sheds light on the life journey and achievements of various Siddhars who were born in Eelam, the Tamil name for Sri Lanka.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/B8C8355A82F769BF074E593B72E268E4259439B4O.jpg" />
+  </programme>
+
+  <programme start="20230119190000 +0530" stop="20230119193000 +0530" channel="10000000075992620">
+    <title>Religious News</title>
+    <sub-title></sub-title>
+    <desc>A show focussing on religion or spirituality.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/0C2B8561DFDF670AB45630B8C570423B146ECA26D.jpg" />
+  </programme>
+
+  <programme start="20230119193000 +0530" stop="20230119200000 +0530" channel="10000000075992620">
+    <title>Arulurai</title>
+    <sub-title></sub-title>
+    <desc>A religious scholar delivers a discourse and shares spiritual thoughts to inspire believers and fuel their trust in God and spirituality.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/45E3AFBD5EDE3AD4123933AA8B3B759BCE5EB6616.jpg" />
+  </programme>
+
+  <programme start="20230119200000 +0530" stop="20230119210000 +0530" channel="10000000075992620">
+    <title>TBA</title>
+    <sub-title></sub-title>
+    <desc>This program is yet to be announced by this channel.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/9F6E2FC62870A41CBEB637377AF12BA20E674D73U.jpg" />
+  </programme>
+
+  <programme start="20230119210000 +0530" stop="20230119213000 +0530" channel="10000000075992620">
+    <title>Bajanai</title>
+    <sub-title></sub-title>
+    <desc>Priests gather at a temple to sing hymns and chant prayers with traditional musical instruments to seek the blessings of the Almighty.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/8AD3B397C27290FE533C25D3D2BF6F20D54938C1P.jpg" />
+  </programme>
+
+  <programme start="20230119213000 +0530" stop="20230119220000 +0530" channel="10000000075992620">
+    <title>Tamizhaka Kovil Thiruvila</title>
+    <sub-title></sub-title>
+    <desc>Religious leaders and individuals in the community take part in a festival centred around a temple situated in Tamil Nadu.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/BCA53871FE24EAC091ACA186A694976BB4AB247EU.jpg" />
+  </programme>
+
+  <programme start="20230119220000 +0530" stop="20230119230000 +0530" channel="10000000075992620">
+    <title>Bhakthimalar</title>
+    <sub-title></sub-title>
+    <desc>Various renowned singers sing melodious devotional songs, hymns and prayers to express their love and faith in the Almighty.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/AA7AC801A39BC4F6213C2E2C0D9B339BDECB7E67T.jpg" />
+  </programme>
+
+  <programme start="20230119230000 +0530" stop="20230120050000 +0530" channel="10000000075992620">
+    <title>TBA</title>
+    <sub-title></sub-title>
+    <desc>This program is yet to be announced by this channel.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/9F6E2FC62870A41CBEB637377AF12BA20E674D73U.jpg" />
   </programme>
 
   <programme start="20230119000000 +0530" stop="20230119050000 +0530" channel="10000000027720000">
