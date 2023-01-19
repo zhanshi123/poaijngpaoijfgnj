@@ -568,6 +568,11 @@
     <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/Be3C3WxO.png" />
   </channel>
 
+  <channel id="10000000004540000">
+    <display-name>CGTN Documentary</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/PNc6iNaS.png" />
+  </channel>
+
   <channel id="10000000027100000">
     <display-name>English Club TV</display-name>
     <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/UIElirzs.png" />
@@ -43481,6 +43486,402 @@
     <category>Chat Show</category>
     <episode-num system="onscreen"></episode-num>
     <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/7FCB7BB12BA5100D4CE1BF173DF35A891EEBB2A0U.jpg" />
+  </programme>
+
+  <programme start="20230119000000 +0530" stop="20230119003000 +0530" channel="10000000004540000">
+    <title>Humanities And Geography</title>
+    <sub-title></sub-title>
+    <desc>The filmmaker highlights the diverse landscapes and wildlife in China, while also focusing on the clash for territories between humans and animals.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Nature</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/6FAE68BB937E553ACD37B498C4638D1DE1F9A732R.jpg" />
+  </programme>
+
+  <programme start="20230119003000 +0530" stop="20230119010000 +0530" channel="10000000004540000">
+    <title>Living China</title>
+    <sub-title></sub-title>
+    <desc>The filmmaker interacts with people and learns about their stories and tries to understand the culture and traditions of China.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/A2E45873A668A43981F1F38E44B92ADB57F72498J.jpg" />
+  </programme>
+
+  <programme start="20230119010000 +0530" stop="20230119020000 +0530" channel="10000000004540000">
+    <title>Special Edition</title>
+    <sub-title></sub-title>
+    <desc>A compilation of documentaries that showcase key aspects of the society and culture from a Chinese point of view, created by prominent filmmakers and technicians.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/E8FEDFE0D02F1755D01010136E2F160C8B46D4511.jpg" />
+  </programme>
+
+  <programme start="20230119020000 +0530" stop="20230119023000 +0530" channel="10000000004540000">
+    <title>Journeys And Discoveries</title>
+    <sub-title></sub-title>
+    <desc>The host sheds light on the history and culture of China and illustrates them with several stories of the Chinese people.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/E3642320C643CE62E22B2960E771068732E286D37.jpg" />
+  </programme>
+
+  <programme start="20230119023000 +0530" stop="20230119030000 +0530" channel="10000000004540000">
+    <title>History In The Frame</title>
+    <sub-title></sub-title>
+    <desc>Documentary.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/DAFC29011C60B54DC784EEE703EEBE169F18B3BC4.jpg" />
+  </programme>
+
+  <programme start="20230119030000 +0530" stop="20230119040000 +0530" channel="10000000004540000">
+    <title>Today's Top Pick</title>
+    <sub-title></sub-title>
+    <desc>A compilation of the documentaries that highlight the social, economic and environmental issues faced by people across the nation.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Social</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/55BDAA21C021AE1E653787631CDC46D1D362D2CAR.jpg" />
+  </programme>
+
+  <programme start="20230119040000 +0530" stop="20230119043000 +0530" channel="10000000004540000">
+    <title>Humanities And Geography</title>
+    <sub-title></sub-title>
+    <desc>The filmmaker highlights the diverse landscapes and wildlife in China, while also focusing on the clash for territories between humans and animals.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Nature</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/6FAE68BB937E553ACD37B498C4638D1DE1F9A732R.jpg" />
+  </programme>
+
+  <programme start="20230119043000 +0530" stop="20230119050000 +0530" channel="10000000004540000">
+    <title>Living China</title>
+    <sub-title></sub-title>
+    <desc>The filmmaker interacts with people and learns about their stories and tries to understand the culture and traditions of China.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/A2E45873A668A43981F1F38E44B92ADB57F72498J.jpg" />
+  </programme>
+
+  <programme start="20230119050000 +0530" stop="20230119060000 +0530" channel="10000000004540000">
+    <title>Special Edition</title>
+    <sub-title></sub-title>
+    <desc>A compilation of documentaries that showcase key aspects of the society and culture from a Chinese point of view, created by prominent filmmakers and technicians.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/E8FEDFE0D02F1755D01010136E2F160C8B46D4511.jpg" />
+  </programme>
+
+  <programme start="20230119060000 +0530" stop="20230119063000 +0530" channel="10000000004540000">
+    <title>Journeys And Discoveries</title>
+    <sub-title></sub-title>
+    <desc>The host sheds light on the history and culture of China and illustrates them with several stories of the Chinese people.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/E3642320C643CE62E22B2960E771068732E286D37.jpg" />
+  </programme>
+
+  <programme start="20230119063000 +0530" stop="20230119070000 +0530" channel="10000000004540000">
+    <title>History In The Frame</title>
+    <sub-title></sub-title>
+    <desc>Documentary.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/DAFC29011C60B54DC784EEE703EEBE169F18B3BC4.jpg" />
+  </programme>
+
+  <programme start="20230119070000 +0530" stop="20230119073000 +0530" channel="10000000004540000">
+    <title>Humanities And Geography</title>
+    <sub-title></sub-title>
+    <desc>The filmmaker highlights the diverse landscapes and wildlife in China, while also focusing on the clash for territories between humans and animals.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Nature</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/6FAE68BB937E553ACD37B498C4638D1DE1F9A732R.jpg" />
+  </programme>
+
+  <programme start="20230119073000 +0530" stop="20230119080000 +0530" channel="10000000004540000">
+    <title>Living China</title>
+    <sub-title></sub-title>
+    <desc>The filmmaker interacts with people and learns about their stories and tries to understand the culture and traditions of China.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/A2E45873A668A43981F1F38E44B92ADB57F72498J.jpg" />
+  </programme>
+
+  <programme start="20230119080000 +0530" stop="20230119090000 +0530" channel="10000000004540000">
+    <title>Special Edition</title>
+    <sub-title></sub-title>
+    <desc>A compilation of documentaries that showcase key aspects of the society and culture from a Chinese point of view, created by prominent filmmakers and technicians.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/E8FEDFE0D02F1755D01010136E2F160C8B46D4511.jpg" />
+  </programme>
+
+  <programme start="20230119090000 +0530" stop="20230119100000 +0530" channel="10000000004540000">
+    <title>Today's Top Pick</title>
+    <sub-title></sub-title>
+    <desc>A compilation of the documentaries that highlight the social, economic and environmental issues faced by people across the nation.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Social</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/55BDAA21C021AE1E653787631CDC46D1D362D2CAR.jpg" />
+  </programme>
+
+  <programme start="20230119100000 +0530" stop="20230119103000 +0530" channel="10000000004540000">
+    <title>Journeys And Discoveries</title>
+    <sub-title></sub-title>
+    <desc>The host sheds light on the history and culture of China and illustrates them with several stories of the Chinese people.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/E3642320C643CE62E22B2960E771068732E286D37.jpg" />
+  </programme>
+
+  <programme start="20230119103000 +0530" stop="20230119110000 +0530" channel="10000000004540000">
+    <title>History In The Frame</title>
+    <sub-title></sub-title>
+    <desc>Documentary.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/DAFC29011C60B54DC784EEE703EEBE169F18B3BC4.jpg" />
+  </programme>
+
+  <programme start="20230119110000 +0530" stop="20230119120000 +0530" channel="10000000004540000">
+    <title>Today's Top Pick</title>
+    <sub-title></sub-title>
+    <desc>A compilation of the documentaries that highlight the social, economic and environmental issues faced by people across the nation.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Social</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/55BDAA21C021AE1E653787631CDC46D1D362D2CAR.jpg" />
+  </programme>
+
+  <programme start="20230119120000 +0530" stop="20230119123000 +0530" channel="10000000004540000">
+    <title>Humanities And Geography</title>
+    <sub-title></sub-title>
+    <desc>The filmmaker highlights the diverse landscapes and wildlife in China, while also focusing on the clash for territories between humans and animals.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Nature</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/6FAE68BB937E553ACD37B498C4638D1DE1F9A732R.jpg" />
+  </programme>
+
+  <programme start="20230119123000 +0530" stop="20230119130000 +0530" channel="10000000004540000">
+    <title>Living China</title>
+    <sub-title></sub-title>
+    <desc>The filmmaker interacts with people and learns about their stories and tries to understand the culture and traditions of China.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/A2E45873A668A43981F1F38E44B92ADB57F72498J.jpg" />
+  </programme>
+
+  <programme start="20230119130000 +0530" stop="20230119140000 +0530" channel="10000000004540000">
+    <title>Special Edition</title>
+    <sub-title></sub-title>
+    <desc>A compilation of documentaries that showcase key aspects of the society and culture from a Chinese point of view, created by prominent filmmakers and technicians.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/E8FEDFE0D02F1755D01010136E2F160C8B46D4511.jpg" />
+  </programme>
+
+  <programme start="20230119140000 +0530" stop="20230119143000 +0530" channel="10000000004540000">
+    <title>Journeys And Discoveries</title>
+    <sub-title></sub-title>
+    <desc>The host sheds light on the history and culture of China and illustrates them with several stories of the Chinese people.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/E3642320C643CE62E22B2960E771068732E286D37.jpg" />
+  </programme>
+
+  <programme start="20230119143000 +0530" stop="20230119150000 +0530" channel="10000000004540000">
+    <title>History In The Frame</title>
+    <sub-title></sub-title>
+    <desc>Documentary.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/DAFC29011C60B54DC784EEE703EEBE169F18B3BC4.jpg" />
+  </programme>
+
+  <programme start="20230119150000 +0530" stop="20230119160000 +0530" channel="10000000004540000">
+    <title>Today's Top Pick</title>
+    <sub-title></sub-title>
+    <desc>A compilation of the documentaries that highlight the social, economic and environmental issues faced by people across the nation.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Social</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/55BDAA21C021AE1E653787631CDC46D1D362D2CAR.jpg" />
+  </programme>
+
+  <programme start="20230119160000 +0530" stop="20230119163000 +0530" channel="10000000004540000">
+    <title>Humanities And Geography</title>
+    <sub-title></sub-title>
+    <desc>The filmmaker highlights the diverse landscapes and wildlife in China, while also focusing on the clash for territories between humans and animals.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Nature</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/6FAE68BB937E553ACD37B498C4638D1DE1F9A732R.jpg" />
+  </programme>
+
+  <programme start="20230119163000 +0530" stop="20230119170000 +0530" channel="10000000004540000">
+    <title>Living China</title>
+    <sub-title></sub-title>
+    <desc>The filmmaker interacts with people and learns about their stories and tries to understand the culture and traditions of China.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/A2E45873A668A43981F1F38E44B92ADB57F72498J.jpg" />
+  </programme>
+
+  <programme start="20230119170000 +0530" stop="20230119180000 +0530" channel="10000000004540000">
+    <title>Special Edition</title>
+    <sub-title></sub-title>
+    <desc>A compilation of documentaries that showcase key aspects of the society and culture from a Chinese point of view, created by prominent filmmakers and technicians.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/E8FEDFE0D02F1755D01010136E2F160C8B46D4511.jpg" />
+  </programme>
+
+  <programme start="20230119180000 +0530" stop="20230119183000 +0530" channel="10000000004540000">
+    <title>Journeys And Discoveries</title>
+    <sub-title></sub-title>
+    <desc>The host sheds light on the history and culture of China and illustrates them with several stories of the Chinese people.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/E3642320C643CE62E22B2960E771068732E286D37.jpg" />
+  </programme>
+
+  <programme start="20230119183000 +0530" stop="20230119190000 +0530" channel="10000000004540000">
+    <title>History In The Frame</title>
+    <sub-title></sub-title>
+    <desc>Documentary.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/DAFC29011C60B54DC784EEE703EEBE169F18B3BC4.jpg" />
+  </programme>
+
+  <programme start="20230119190000 +0530" stop="20230119200000 +0530" channel="10000000004540000">
+    <title>Today's Top Pick</title>
+    <sub-title></sub-title>
+    <desc>A compilation of the documentaries that highlight the social, economic and environmental issues faced by people across the nation.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Social</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/55BDAA21C021AE1E653787631CDC46D1D362D2CAR.jpg" />
+  </programme>
+
+  <programme start="20230119200000 +0530" stop="20230119203000 +0530" channel="10000000004540000">
+    <title>Humanities And Geography</title>
+    <sub-title></sub-title>
+    <desc>The filmmaker highlights the diverse landscapes and wildlife in China, while also focusing on the clash for territories between humans and animals.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Nature</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/6FAE68BB937E553ACD37B498C4638D1DE1F9A732R.jpg" />
+  </programme>
+
+  <programme start="20230119203000 +0530" stop="20230119210000 +0530" channel="10000000004540000">
+    <title>Living China</title>
+    <sub-title></sub-title>
+    <desc>The filmmaker interacts with people and learns about their stories and tries to understand the culture and traditions of China.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/A2E45873A668A43981F1F38E44B92ADB57F72498J.jpg" />
+  </programme>
+
+  <programme start="20230119210000 +0530" stop="20230119220000 +0530" channel="10000000004540000">
+    <title>Special Edition</title>
+    <sub-title></sub-title>
+    <desc>A compilation of documentaries that showcase key aspects of the society and culture from a Chinese point of view, created by prominent filmmakers and technicians.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/E8FEDFE0D02F1755D01010136E2F160C8B46D4511.jpg" />
+  </programme>
+
+  <programme start="20230119220000 +0530" stop="20230119223000 +0530" channel="10000000004540000">
+    <title>Journeys And Discoveries</title>
+    <sub-title></sub-title>
+    <desc>The host sheds light on the history and culture of China and illustrates them with several stories of the Chinese people.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/E3642320C643CE62E22B2960E771068732E286D37.jpg" />
+  </programme>
+
+  <programme start="20230119223000 +0530" stop="20230119230000 +0530" channel="10000000004540000">
+    <title>History In The Frame</title>
+    <sub-title></sub-title>
+    <desc>Documentary.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/DAFC29011C60B54DC784EEE703EEBE169F18B3BC4.jpg" />
+  </programme>
+
+  <programme start="20230119230000 +0530" stop="20230120000000 +0530" channel="10000000004540000">
+    <title>Today's Top Pick</title>
+    <sub-title></sub-title>
+    <desc>A compilation of the documentaries that highlight the social, economic and environmental issues faced by people across the nation.</desc>
+    <date></date>
+    <category>Documentary</category>
+    <category>Social</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/55BDAA21C021AE1E653787631CDC46D1D362D2CAR.jpg" />
   </programme>
 
   <programme start="20230119003000 +0530" stop="20230119031500 +0530" channel="10000000027100000">
