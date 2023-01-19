@@ -213,6 +213,11 @@
     <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/cBxIlmMq.png" />
   </channel>
 
+  <channel id="10000000000240000">
+    <display-name>Sony Sports Ten 2</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/Ybkb746Y.png" />
+  </channel>
+
   <channel id="10000000075170000">
     <display-name>Premier Sports</display-name>
     <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/RKxA1qvu.png" />
@@ -14631,6 +14636,204 @@
     <category>Cricket</category>
     <episode-num system="onscreen"></episode-num>
     <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/AF5B165AF7BF48A76B0513B0BF466284CB5FAAF5L.jpg" />
+  </programme>
+
+  <programme start="20230119000000 +0530" stop="20230119010000 +0530" channel="10000000000240000">
+    <title>Australian Open 2023 HLs</title>
+    <sub-title>Day 3</sub-title>
+    <desc>Highlights of professional tennis players competing on Day 3 of the 2023 Australian Open.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Tennis</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/165C3072A18079CA7CD375B205D4C476231BCFF47.jpg" />
+  </programme>
+
+  <programme start="20230119010000 +0530" stop="20230119011500 +0530" channel="10000000000240000">
+    <title>Bundesliga Filler</title>
+    <sub-title></sub-title>
+    <desc>The best moments from the matches played in the Bundesliga, a German professional football tournament.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Football</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/DDB50AE0616ACE372DC76EF1B846A525B857636DK.jpg" />
+  </programme>
+
+  <programme start="20230119011500 +0530" stop="20230119031500 +0530" channel="10000000000240000">
+    <title>The Emirates FA Cup 2022/23 Live</title>
+    <sub-title>Leeds United AFC vs Cardiff City, 3rd Round</sub-title>
+    <desc>Football clubs from all over the country compete against each other in the 2022-23 edition of the Emirates FA Cup to win the title, live.</desc>
+    <date>2022</date>
+    <category>Sport</category>
+    <category>Football</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/2EFBAFD15AB9D99AF40619F8270D7DF9EF5A0C150.jpg" />
+  </programme>
+
+  <programme start="20230119031500 +0530" stop="20230119033000 +0530" channel="10000000000240000">
+    <title>Bundesliga Filler</title>
+    <sub-title></sub-title>
+    <desc>The best moments from the matches played in the Bundesliga, a German professional football tournament.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Football</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/DDB50AE0616ACE372DC76EF1B846A525B857636DK.jpg" />
+  </programme>
+
+  <programme start="20230119033000 +0530" stop="20230119040000 +0530" channel="10000000000240000">
+    <title>BBL 2022/23 HLs</title>
+    <sub-title>Perth Scorchers vs Hobart Hurricanes</sub-title>
+    <desc>Highlights of Perth Scorchers and Hobart Hurricanes competing in the 2022/23 BBL.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Cricket</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/E1E9BB2F27EFAE5A72F683974FDB6897AC85344EG.jpg" />
+  </programme>
+
+  <programme start="20230119040000 +0530" stop="20230119050000 +0530" channel="10000000000240000">
+    <title>Australian Open 2023 HLs</title>
+    <sub-title>Day 3</sub-title>
+    <desc>Highlights of professional tennis players competing on Day 3 of the 2023 Australian Open.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Tennis</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/165C3072A18079CA7CD375B205D4C476231BCFF47.jpg" />
+  </programme>
+
+  <programme start="20230119050000 +0530" stop="20230119053000 +0530" channel="10000000000240000">
+    <title>Extraaa Serve Live</title>
+    <sub-title></sub-title>
+    <desc>Sports experts and former tennis players analyse and discuss the matches and the performance of the athletes at the Australian Open, live.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Talk Show</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/6028C00158D4F5B9B05959E431E8D4BC6BA105E6F.jpg" />
+  </programme>
+
+  <programme start="20230119053000 +0530" stop="20230119123000 +0530" channel="10000000000240000">
+    <title>Australian Open 2023 Live</title>
+    <sub-title>Men's n Women's 2nd Round (Morning Session)</sub-title>
+    <desc>Professional tennis players compete in the men's and women's second round of the 2023 Australian Open, live.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Tennis</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/1071BB153FAB6FE4203ABE93448DF5DAD0B59FF31.jpg" />
+  </programme>
+
+  <programme start="20230119123000 +0530" stop="20230119133000 +0530" channel="10000000000240000">
+    <title>Extraaa Serve Live</title>
+    <sub-title></sub-title>
+    <desc>Sports experts and former tennis players analyse and discuss the matches and the performance of the athletes at the Australian Open, live.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Talk Show</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/6028C00158D4F5B9B05959E431E8D4BC6BA105E6F.jpg" />
+  </programme>
+
+  <programme start="20230119133000 +0530" stop="20230119183000 +0530" channel="10000000000240000">
+    <title>Australian Open 2023 Live</title>
+    <sub-title>Men's n Women's 2nd Round (Evening Session)</sub-title>
+    <desc>Professional tennis players compete in the men's and women's second round of the 2023 Australian Open, live.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Tennis</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/1071BB153FAB6FE4203ABE93448DF5DAD0B59FF31.jpg" />
+  </programme>
+
+  <programme start="20230119183000 +0530" stop="20230119193000 +0530" channel="10000000000240000">
+    <title>Extraaa Serve Live</title>
+    <sub-title></sub-title>
+    <desc>Sports experts and former tennis players analyse and discuss the matches and the performance of the athletes at the Australian Open, live.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Talk Show</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/6028C00158D4F5B9B05959E431E8D4BC6BA105E6F.jpg" />
+  </programme>
+
+  <programme start="20230119193000 +0530" stop="20230119200000 +0530" channel="10000000000240000">
+    <title>Bundesliga 2022/23: Weekly Preview Show</title>
+    <sub-title></sub-title>
+    <desc>Experts preview the 2022/23 edition of the Bundesliga, a football league in Germany, and predict the composition and strategies of the participating teams.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Talk Show</category>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/ECF52ECB61D1F56AE03315C9B199DD533C0D63F9F.jpg" />
+  </programme>
+
+  <programme start="20230119200000 +0530" stop="20230119210000 +0530" channel="10000000000240000">
+    <title>Top Corner</title>
+    <sub-title></sub-title>
+    <desc></desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Special Feature</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/3E36B552193BDEF25430FAF4C9DE3CB67912D7099.jpg" />
+  </programme>
+
+  <programme start="20230119210000 +0530" stop="20230119213000 +0530" channel="10000000000240000">
+    <title>FA Cup 2022/23 HLs</title>
+    <sub-title>Manchester City FC vs Chelsea FC, Round 3</sub-title>
+    <desc>Highlights of Manchester City FC and Chelsea FC competing in Round 3 of the 2022/23 FA Cup.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Football</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/85BBF43E1A414F2A2DC826F2792D2EF87C3F808AE.jpg" />
+  </programme>
+
+  <programme start="20230119213000 +0530" stop="20230119223000 +0530" channel="10000000000240000">
+    <title>Australian Open 2023 HLs</title>
+    <sub-title>Day 4</sub-title>
+    <desc>Highlights of professional tennis players competing on Day 4 of the 2023 Australian Open.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Tennis</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/165C3072A18079CA7CD375B205D4C476231BCFF47.jpg" />
+  </programme>
+
+  <programme start="20230119223000 +0530" stop="20230119230000 +0530" channel="10000000000240000">
+    <title>BBL 2022/23 HLs</title>
+    <sub-title>Sydney Thunder vs Melbourne Renegades</sub-title>
+    <desc>Highlights of Sydney Thunder and Melbourne Renegades competing in the 2022/23 BBL.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Cricket</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/E1E9BB2F27EFAE5A72F683974FDB6897AC85344EG.jpg" />
+  </programme>
+
+  <programme start="20230119230000 +0530" stop="20230119233000 +0530" channel="10000000000240000">
+    <title>Bundesliga 2022/23: Weekly Preview Show</title>
+    <sub-title></sub-title>
+    <desc>Experts preview the 2022/23 edition of the Bundesliga, a football league in Germany, and predict the composition and strategies of the participating teams.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Talk Show</category>
+    <episode-num system="onscreen">19</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/ECF52ECB61D1F56AE03315C9B199DD533C0D63F9F.jpg" />
+  </programme>
+
+  <programme start="20230119233000 +0530" stop="20230120000000 +0530" channel="10000000000240000">
+    <title>FA Cup 2022/23 HLs</title>
+    <sub-title>Oxford United vs Arsenal, Round 3</sub-title>
+    <desc>Highlights of Oxford United FC and Arsenal FC competing in Round 3 of the 2022/23 FA Cup.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Football</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/85BBF43E1A414F2A2DC826F2792D2EF87C3F808AE.jpg" />
   </programme>
 
   <programme start="20230119014000 +0530" stop="20230119021000 +0530" channel="10000000075170000">
