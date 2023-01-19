@@ -1,29 +1,29 @@
-#EXTM3U url-tvg="https://tinyurl.com/PEO-TV-EPG"
-#EXTINF:-1 tvg-id="0" tvg-logo="http://172.17.49.10/PosterisChannels/000.png", SLT Group Watch
+#EXTM3U
+#EXTINF:-1 tvg-id="0" tvg-logo="https://mobond.yuppcdn.net/peotvgo/content/common/channel/logos/twkwpt.png", SLT Group Watch
 http://192.168.1.5:65010/udp/224.11.4.250:5180
-#EXTINF:-1 tvg-id="1" tvg-logo="http://172.17.49.10/PosterisChannels/1.png", Rupavahini
+#EXTINF:-1 tvg-id="10000000007110000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/CM6ogTOP.png", Rupavahini
 http://192.168.1.5:65010/udp/224.11.4.1:5180
-#EXTINF:-1 tvg-id="2" tvg-logo="http://172.17.49.10/PosterisChannels/2.png", Channel Eye
+#EXTINF:-1 tvg-id="10000000025690000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/MLBjkMqj.png",Channel Eye
 http://192.168.1.5:65010/udp/224.11.4.2:5180
-#EXTINF:-1 tvg-id="3" tvg-logo="http://172.17.49.10/PosterisChannels/03.png", ITN
+#EXTINF:-1 tvg-id="10000000007120000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/VlMBMMQT.png", ITN
 http://192.168.1.5:65010/udp/224.11.4.3:5180
-#EXTINF:-1 tvg-id="4" tvg-logo="http://172.17.49.10/PosterisChannels/4_1.png", Derana
+#EXTINF:-1 tvg-id="10000000007160000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/Z3eBdt4F.png", Derana
 http://192.168.1.5:65010/udp/224.11.4.4:5180
-#EXTINF:-1 tvg-id="5" tvg-logo="http://172.17.49.10/PosterisChannels/05.png", Charana TV
+#EXTINF:-1 tvg-id="10000000060860000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/t6Ob3i3g.png", Charana TV
 http://192.168.1.5:65010/udp/224.11.4.5:5180
-#EXTINF:-1 tvg-id="6" tvg-logo="http://172.17.49.10/PosterisChannels/006_1.png", Swarnavahini
+#EXTINF:-1 tvg-id="10000000007560000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/uhjV1sHB.png", Swarnavahini
 http://192.168.1.5:65010/udp/224.11.4.6:5180
-#EXTINF:-1 tvg-id="7" tvg-logo="http://172.17.49.10/PosterisChannels/7.png", Vasantham TV
+#EXTINF:-1 tvg-id="10000000026950000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/boLigkLX.png", Vasantham TV
 http://192.168.1.5:65010/udp/224.11.4.7:5180
-#EXTINF:-1 tvg-id="8" tvg-logo="http://172.17.49.10/PosterisChannels/08.png", Siyatha TV
+#EXTINF:-1 tvg-id="10000000039160000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/CsnCZ2Yy.png", Siyatha TV
 http://192.168.1.5:65010/udp/224.11.2.21:5180
-#EXTINF:-1 tvg-id="9" tvg-logo="http://172.17.49.10/PosterisChannels/9.png", Haritha TV
+#EXTINF:-1 tvg-id="10000000075992183" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/3bfyWZWJ.png", Haritha TV
 http://192.168.1.5:65010/udp/224.11.4.9:5180
-#EXTINF:-1 tvg-id="10" tvg-logo="http://172.17.49.10/PosterisChannels/10.png", Sirasa TV
+#EXTINF:-1 tvg-id="10000000019480000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/IRlb9Aug.png", Sirasa TV
 http://192.168.1.5:65010/udp/224.11.4.10:5180
-#EXTINF:-1 tvg-id="11" tvg-logo="http://172.17.49.10/PosterisChannels/11_new.png", Shakthi TV
+#EXTINF:-1 tvg-id="10000000019490000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/KjKClXdN.png", Shakthi TV
 http://192.168.1.5:65010/udp/224.11.4.11:5180
-#EXTINF:-1 tvg-id="12" tvg-logo="http://172.17.49.10/PosterisChannels/012_new.png", TV1
+#EXTINF:-1 tvg-id="10000000019500000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/6o2oXtJu.png", TV1
 http://192.168.1.5:65010/udp/224.11.2.12:5180
 #EXTINF:-1 tvg-id="13" tvg-logo="http://172.17.49.10/PosterisChannels/13.png", TNL
 http://192.168.1.5:65010/udp/224.11.4.13:5180
