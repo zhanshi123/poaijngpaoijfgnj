@@ -388,6 +388,11 @@
     <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/3uPQKRek.png" />
   </channel>
 
+  <channel id="10000000012150000">
+    <display-name>KBS World</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/dLjcVHn7.png" />
+  </channel>
+
   <channel id="10000000034970000">
     <display-name>Star Plus</display-name>
     <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/r3JSwXEV.png" />
@@ -29805,6 +29810,281 @@
     <category>Crime</category>
     <episode-num system="onscreen">21</episode-num>
     <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/6283722E07968873AF3B2FE446F7D76EC8D61F2BX.jpg" />
+  </programme>
+
+  <programme start="20230119000500 +0530" stop="20230119004000 +0530" channel="10000000012150000">
+    <title>The Love In Your Eyes</title>
+    <sub-title></sub-title>
+    <desc>Jang Kyung Joon, the heir of a business magnate, finds it difficult to express his feelings. His life turns upside down after Lee Young Yi, a single mother, starts working at his restaurant.</desc>
+    <date>2022</date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen">72</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/B48DD23106E2ADC828389917F9411B1B96F0E95B3.jpg" />
+  </programme>
+
+  <programme start="20230119004000 +0530" stop="20230119012000 +0530" channel="10000000012150000">
+    <title>Vengeance Of The Bride</title>
+    <sub-title></sub-title>
+    <desc>Eun Seo Yeon learns about business mogul Kang Baek San's involvement in her mother's disappearance. She plans on tracking down her whereabouts by marrying his son, Kang Tae Poong.</desc>
+    <date>2022</date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen">62</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/A6424D2F1584DE15590B4D393CE125842DC6441B0.jpg" />
+  </programme>
+
+  <programme start="20230119012000 +0530" stop="20230119023000 +0530" channel="10000000012150000">
+    <title>Queen For Seven Days</title>
+    <sub-title></sub-title>
+    <desc>Chae-kyung, a noblewoman, marries the crown prince, who eventually becomes the king. After being a queen for only seven days, she turns into a victim of a conspiracy and gets expelled from the palace.</desc>
+    <date>2017</date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen">6</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/437CFB7353EC5ACF91A82AF554DDD86EF734EE9CY.jpg" />
+  </programme>
+
+  <programme start="20230119023000 +0530" stop="20230119040000 +0530" channel="10000000012150000">
+    <title>Boss In The Mirror</title>
+    <sub-title></sub-title>
+    <desc>Korean celebrity-bosses are made to self-examine their attitudes and behaviours so that they can create better working conditions for their employees.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Reality Show</category>
+    <episode-num system="onscreen">186</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/6075F33D4ABA531B103BAE80B544A520A19C43791.jpg" />
+  </programme>
+
+  <programme start="20230119040000 +0530" stop="20230119051500 +0530" channel="10000000012150000">
+    <title>On The Way To The Airport</title>
+    <sub-title></sub-title>
+    <desc>Choi Soo Ah, a beautiful woman, lives a happy life with her husband and daughter. Things change when she meets a married architect.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen">11</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/5E4C6E981C557D6789D8B0B3B557966E9777BF0F6.jpg" />
+  </programme>
+
+  <programme start="20230119051500 +0530" stop="20230119055000 +0530" channel="10000000012150000">
+    <title>The Love In Your Eyes</title>
+    <sub-title></sub-title>
+    <desc>Jang Kyung Joon, the heir of a business magnate, finds it difficult to express his feelings. His life turns upside down after Lee Young Yi, a single mother, starts working at his restaurant.</desc>
+    <date>2022</date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen">72</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/B48DD23106E2ADC828389917F9411B1B96F0E95B3.jpg" />
+  </programme>
+
+  <programme start="20230119055000 +0530" stop="20230119063000 +0530" channel="10000000012150000">
+    <title>Vengeance Of The Bride</title>
+    <sub-title></sub-title>
+    <desc>Eun Seo Yeon learns about business mogul Kang Baek San's involvement in her mother's disappearance. She plans on tracking down her whereabouts by marrying his son, Kang Tae Poong.</desc>
+    <date>2022</date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen">62</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/A6424D2F1584DE15590B4D393CE125842DC6441B0.jpg" />
+  </programme>
+
+  <programme start="20230119063000 +0530" stop="20230119071000 +0530" channel="10000000012150000">
+    <title>Screening Humanity</title>
+    <sub-title></sub-title>
+    <desc>The filmmaker sheds light on the lives of ordinary people and their surroundings and chronicles their triumphs and hardships.</desc>
+    <date>2000</date>
+    <category>Documentary</category>
+    <category>Factual Entertainment</category>
+    <episode-num system="onscreen">4542</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/8F47EAC28B1FB8567EF57BD5FD6E1F2A17D22A0BV.jpg" />
+  </programme>
+
+  <programme start="20230119071000 +0530" stop="20230119075000 +0530" channel="10000000012150000">
+    <title>Love Twist</title>
+    <sub-title></sub-title>
+    <desc>Three families must get through the everyday struggles life throws at them to understand the meaning of love and kinship.</desc>
+    <date>2021</date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen">73</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/33A6D6DECAE5AA589BE130106FEC777604B368DBO.jpg" />
+  </programme>
+
+  <programme start="20230119075000 +0530" stop="20230119091000 +0530" channel="10000000012150000">
+    <title>Three Bold Siblings</title>
+    <sub-title></sub-title>
+    <desc>Estranged friends Kim Tae Joo and Lee Sang Joon run into each other following an incident. While Lee Sang Joon has turned into an affluent actor, Kim Tae Joo struggles to feed her family.</desc>
+    <date>2022</date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen">29</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/CE09E1DD1247989D2365EFD706D8B0011AF1B09FB.jpg" />
+  </programme>
+
+  <programme start="20230119091000 +0530" stop="20230119104000 +0530" channel="10000000012150000">
+    <title>Boss In The Mirror</title>
+    <sub-title></sub-title>
+    <desc>Korean celebrity-bosses are made to self-examine their attitudes and behaviours so that they can create better working conditions for their employees.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Reality Show</category>
+    <episode-num system="onscreen">186</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/6075F33D4ABA531B103BAE80B544A520A19C43791.jpg" />
+  </programme>
+
+  <programme start="20230119104000 +0530" stop="20230119115500 +0530" channel="10000000012150000">
+    <title>Queen For Seven Days</title>
+    <sub-title></sub-title>
+    <desc>Chae-kyung, a noblewoman, marries the crown prince, who eventually becomes the king. After being a queen for only seven days, she turns into a victim of a conspiracy and gets expelled from the palace.</desc>
+    <date>2017</date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen">6</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/437CFB7353EC5ACF91A82AF554DDD86EF734EE9CY.jpg" />
+  </programme>
+
+  <programme start="20230119115500 +0530" stop="20230119131000 +0530" channel="10000000012150000">
+    <title>On The Way To The Airport</title>
+    <sub-title></sub-title>
+    <desc>Choi Soo Ah, a beautiful woman, lives a happy life with her husband and daughter. Things change when she meets a married architect.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen">11</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/5E4C6E981C557D6789D8B0B3B557966E9777BF0F6.jpg" />
+  </programme>
+
+  <programme start="20230119131000 +0530" stop="20230119133000 +0530" channel="10000000012150000">
+    <title>KBS World News Today</title>
+    <sub-title></sub-title>
+    <desc>The host talks about the latest socio-economic and political news, updates and developments from various parts of the world.</desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen">377</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/FCF1FC0B52AD9E0EA13D43AE9CF810D565C614FEN.jpg" />
+  </programme>
+
+  <programme start="20230119133000 +0530" stop="20230119144000 +0530" channel="10000000012150000">
+    <title>Naeil's Cantabile</title>
+    <sub-title></sub-title>
+    <desc>Yoo-Jin majors in piano at a university. One day, a drunken Yoo-Jin falls asleep on Nae-Il's doorstep, his neighbour and fellow piano major, and she falls in love with him.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen">1</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/EE94219712C7F52E5CB84362D9ECB186DF5FA95EX.jpg" />
+  </programme>
+
+  <programme start="20230119144000 +0530" stop="20230119155000 +0530" channel="10000000012150000">
+    <title>Naeil's Cantabile</title>
+    <sub-title></sub-title>
+    <desc>Yoo-Jin majors in piano at a university. One day, a drunken Yoo-Jin falls asleep on Nae-Il's doorstep, his neighbour and fellow piano major, and she falls in love with him.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen">2</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/EE94219712C7F52E5CB84362D9ECB186DF5FA95EX.jpg" />
+  </programme>
+
+  <programme start="20230119155000 +0530" stop="20230119172000 +0530" channel="10000000012150000">
+    <title>Two Days And One Night</title>
+    <sub-title></sub-title>
+    <desc>The hosts travel to the interior, unexplored regions of Korea and showcase tourist destinations while taking on various challenges to avoid punishments and earn rewards.</desc>
+    <date>2007</date>
+    <category>TV Show</category>
+    <category>Reality Show</category>
+    <episode-num system="onscreen">158</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/44CA87902F31137B03F25D9FE584D83DF7F508FF0.jpg" />
+  </programme>
+
+  <programme start="20230119172000 +0530" stop="20230119175500 +0530" channel="10000000012150000">
+    <title>The Love In Your Eyes</title>
+    <sub-title></sub-title>
+    <desc>Jang Kyung Joon, the heir of a business magnate, finds it difficult to express his feelings. His life turns upside down after Lee Young Yi, a single mother, starts working at his restaurant.</desc>
+    <date>2022</date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen">73</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/B48DD23106E2ADC828389917F9411B1B96F0E95B3.jpg" />
+  </programme>
+
+  <programme start="20230119175500 +0530" stop="20230119183500 +0530" channel="10000000012150000">
+    <title>Vengeance Of The Bride</title>
+    <sub-title></sub-title>
+    <desc>Eun Seo Yeon learns about business mogul Kang Baek San's involvement in her mother's disappearance. She plans on tracking down her whereabouts by marrying his son, Kang Tae Poong.</desc>
+    <date>2022</date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen">63</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/A6424D2F1584DE15590B4D393CE125842DC6441B0.jpg" />
+  </programme>
+
+  <programme start="20230119183500 +0530" stop="20230119195500 +0530" channel="10000000012150000">
+    <title>Uncontrollably Fond</title>
+    <sub-title></sub-title>
+    <desc>Joon Young invites his mother to his possibly last concert and shocks his fans with a surprise event. Meanwhile, Eul gets rejected by Ji Tae.</desc>
+    <date>2016</date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen">5</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/521E2EBF1FC96EA994563F3E283C1335DEA0C289K.jpg" />
+  </programme>
+
+  <programme start="20230119195500 +0530" stop="20230119205500 +0530" channel="10000000012150000">
+    <title>The Jingbirok: A Memoir Of Imjin War</title>
+    <sub-title></sub-title>
+    <desc>Ryu Seong Ryong, a historian and an official in King Seonjo's military, is assigned operations during the Imjin War where he influences Admiral Lee Soon Shin.</desc>
+    <date>2015</date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen">25</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/6DCF5520FFE60271B6F7C5960E48B5366EFF8419I.jpg" />
+  </programme>
+
+  <programme start="20230119205500 +0530" stop="20230119210500 +0530" channel="10000000012150000">
+    <title>Music Bank K-Chart</title>
+    <sub-title></sub-title>
+    <desc>The hosts count down the 50 most popular songs of the moment by beloved South Korean artists based on their positions in the music charts.</desc>
+    <date>1998</date>
+    <category>Music</category>
+    <category>Countdown</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/3FD96592B394A58635E795EF0E5030888C156ED22.jpg" />
+  </programme>
+
+  <programme start="20230119210500 +0530" stop="20230119222000 +0530" channel="10000000012150000">
+    <title>On The Way To The Airport</title>
+    <sub-title></sub-title>
+    <desc>Choi Soo Ah, a beautiful woman, lives a happy life with her husband and daughter. Things change when she meets a married architect.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen">12</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/5E4C6E981C557D6789D8B0B3B557966E9777BF0F6.jpg" />
+  </programme>
+
+  <programme start="20230119222000 +0530" stop="20230119234500 +0530" channel="10000000012150000">
+    <title>The Return Of Superman</title>
+    <sub-title></sub-title>
+    <desc>Four celebrity fathers take care of their children to the best of their ability for forty-eight hours while their wives enjoy two relaxing days off.</desc>
+    <date>2013</date>
+    <category>TV Show</category>
+    <category>Reality Show</category>
+    <episode-num system="onscreen">459</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/FC03E3E1B93366E2939DB54F48EA715D28D29AD18.jpg" />
+  </programme>
+
+  <programme start="20230119234500 +0530" stop="20230120002000 +0530" channel="10000000012150000">
+    <title>The Love In Your Eyes</title>
+    <sub-title></sub-title>
+    <desc>Jang Kyung Joon, the heir of a business magnate, finds it difficult to express his feelings. His life turns upside down after Lee Young Yi, a single mother, starts working at his restaurant.</desc>
+    <date>2022</date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen">72</episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/B48DD23106E2ADC828389917F9411B1B96F0E95B3.jpg" />
   </programme>
 
   <programme start="20230119000000 +0530" stop="20230119003000 +0530" channel="10000000034970000">
