@@ -458,6 +458,16 @@
     <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/fMKHQLqI.png" />
   </channel>
 
+  <channel id="10000000075992621">
+    <display-name>DAN TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/iUvP5rhZ.png" />
+  </channel>
+
+  <channel id="10000000075992622">
+    <display-name>DAN News</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/g1DNlfqk.png" />
+  </channel>
+
   <channel id="10000000002990000">
     <display-name>Kalaignar TV</display-name>
     <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/7dlvYlqp.png" />
@@ -35298,6 +35308,435 @@
     <category>Reality Show</category>
     <episode-num system="onscreen">79</episode-num>
     <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/54436554ECDDB1D566DA569D88CD851A4616FAB0H.jpg" />
+  </programme>
+
+  <programme start="20230119060000 +0530" stop="20230119063000 +0530" channel="10000000075992621">
+    <title>Bhakthi Padal</title>
+    <sub-title></sub-title>
+    <desc>A religious scholar delivers a discourse based on the teachings of Hinduism, guiding devotees onto a pious and spiritual path.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/F2CB35C1E0FAC2D076974F5FEACFC0B952E1810BP.jpg" />
+  </programme>
+
+  <programme start="20230119063000 +0530" stop="20230119073000 +0530" channel="10000000075992621">
+    <title>Vannakkam Dan</title>
+    <sub-title></sub-title>
+    <desc>The hosts share the horoscopes for the day, religious and spiritual leaders share their thoughts, experts talk about health, recollect memorable stories and share updates on influential personalities.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Magazine Programme</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/1DD09D4CBDBE33AADCEBBDA8261918F03A79F893S.jpg" />
+  </programme>
+
+  <programme start="20230119073000 +0530" stop="20230119083000 +0530" channel="10000000075992621">
+    <title>Vd Todays Paper Live</title>
+    <sub-title></sub-title>
+    <desc>The host presents a brief look at some of the most important headlines and significant stories from the day's newspaper, live.</desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/13B9A381AD210D3D35CE66C1B0243C745F1097271.jpg" />
+  </programme>
+
+  <programme start="20230119083000 +0530" stop="20230119090000 +0530" channel="10000000075992621">
+    <title>News Live</title>
+    <sub-title></sub-title>
+    <desc></desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/9CAF7F2F0F34749E7217EEFEB8467744B702809AW.jpg" />
+  </programme>
+
+  <programme start="20230119090000 +0530" stop="20230119100000 +0530" channel="10000000075992621">
+    <title>Galatta Kalai Live</title>
+    <sub-title></sub-title>
+    <desc>An entertainment-based programme.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/E04FCA48BB349365235C4BAD44D3C05994A31D2F4.jpg" />
+  </programme>
+
+  <programme start="20230119100000 +0530" stop="20230119103000 +0530" channel="10000000075992621">
+    <title>Serial</title>
+    <sub-title></sub-title>
+    <desc>Drama series.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/BC17BF9845C54036AEC5B10C240EADA4C3DBE3DB.jpg" />
+  </programme>
+
+  <programme start="20230119103000 +0530" stop="20230119110000 +0530" channel="10000000075992621">
+    <title>Serial</title>
+    <sub-title></sub-title>
+    <desc>Drama series.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Drama</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/BC17BF9845C54036AEC5B10C240EADA4C3DBE3DB.jpg" />
+  </programme>
+
+  <programme start="20230119110000 +0530" stop="20230119120000 +0530" channel="10000000075992621">
+    <title>Bharathi</title>
+    <sub-title></sub-title>
+    <desc>Special report.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Special Report</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/C4F949C9200A1567028DC05991DA57112D1BF250E.jpg" />
+  </programme>
+
+  <programme start="20230119120000 +0530" stop="20230119130000 +0530" channel="10000000075992621">
+    <title>Sirikalaam Vaanga Live</title>
+    <sub-title></sub-title>
+    <desc>An entertainment-based programme.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/0C10FDDF61376A27ECC1AA1830C46650BFD5453DB.jpg" />
+  </programme>
+
+  <programme start="20230119130000 +0530" stop="20230119133000 +0530" channel="10000000075992621">
+    <title>Uthavum Karangal</title>
+    <sub-title></sub-title>
+    <desc>The team brings to light various places that need development and welfare facilities while highlighting the plight of underprivileged communities.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Special Report</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/2081DB0D210DB7957FB5B81D96C88C9D8DDD84D4G.jpg" />
+  </programme>
+
+  <programme start="20230119133000 +0530" stop="20230119163000 +0530" channel="10000000075992621">
+    <title>Movie</title>
+    <sub-title></sub-title>
+    <desc></desc>
+    <date>1900</date>
+    <category>Film</category>
+    <category>Drama</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/F72D38836DB6224C69A6A94EBA6E90C0ABECC058U.jpg" />
+  </programme>
+
+  <programme start="20230119163000 +0530" stop="20230119173000 +0530" channel="10000000075992621">
+    <title>Kutties Darbar Live</title>
+    <sub-title></sub-title>
+    <desc>An entertainment-based programme.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/B5889446E3B1D0918870C5D1DE5B9BFA8AE145247.jpg" />
+  </programme>
+
+  <programme start="20230119173000 +0530" stop="20230119183000 +0530" channel="10000000075992621">
+    <title>Velliththirai</title>
+    <sub-title></sub-title>
+    <desc>Entertainment-based programme.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/6AB6EA6807CA123C225836EE14B4757383859EBFU.jpg" />
+  </programme>
+
+  <programme start="20230119183000 +0530" stop="20230119190000 +0530" channel="10000000075992621">
+    <title>Short Film</title>
+    <sub-title></sub-title>
+    <desc>Movie.</desc>
+    <date>1900</date>
+    <category>Film</category>
+    <category>Short Film</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/139C6BC9EC4265ABB809B1E6F401BD6081A64D15F.jpg" />
+  </programme>
+
+  <programme start="20230119190000 +0530" stop="20230119193000 +0530" channel="10000000075992621">
+    <title>Samayal Samayal</title>
+    <sub-title></sub-title>
+    <desc>Expert chefs prepare delectable dishes and share culinary tips and tricks to help the viewers recreate the recipes at their homes.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Cooking</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/6B871F72C12EBD67D339B67FA0F262A90EFD0604F.jpg" />
+  </programme>
+
+  <programme start="20230119193000 +0530" stop="20230119200000 +0530" channel="10000000075992621">
+    <title>Vellidai Nutpam</title>
+    <sub-title></sub-title>
+    <desc>The host invites renowned experts to discuss various aspects of technology to help people use them in a secure environment and be aware of cybercrimes.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Technology</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/C7E7E4057B8165D66578E37AA034F6CEF20B6751F.jpg" />
+  </programme>
+
+  <programme start="20230119200000 +0530" stop="20230119210000 +0530" channel="10000000075992621">
+    <title>Main News Live</title>
+    <sub-title></sub-title>
+    <desc>The host presents the latest political and socio-economic top stories and numerous updates from different parts of the country, live.</desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/8E10B8E8C0953361834DD1F32C6C996C76C61332P.jpg" />
+  </programme>
+
+  <programme start="20230119210000 +0530" stop="20230119220000 +0530" channel="10000000075992621">
+    <title>Katcheri Arrambam</title>
+    <sub-title></sub-title>
+    <desc>A music-based reality show.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Reality - Music</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/F507B585D4F703635C481251D3C313E0FF337187H.jpg" />
+  </programme>
+
+  <programme start="20230119220000 +0530" stop="20230119224500 +0530" channel="10000000075992621">
+    <title>Black And White</title>
+    <sub-title></sub-title>
+    <desc>Special report.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Special Report</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/97B65043F522852EC97B286C809CEC93452891950.jpg" />
+  </programme>
+
+  <programme start="20230119224500 +0530" stop="20230120060000 +0530" channel="10000000075992621">
+    <title>TBA</title>
+    <sub-title></sub-title>
+    <desc>This program is yet to be announced by this channel.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/9F6E2FC62870A41CBEB637377AF12BA20E674D73U.jpg" />
+  </programme>
+
+  <programme start="20230119070000 +0530" stop="20230119073000 +0530" channel="10000000075992622">
+    <title>News At 7</title>
+    <sub-title></sub-title>
+    <desc>The host presents a bulletin of the latest regional and national news stories and developments and covers current affairs.</desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/FC31CFD5D2D6562666ABB70FEC7F12151998C3862.jpg" />
+  </programme>
+
+  <programme start="20230119073000 +0530" stop="20230119083000 +0530" channel="10000000075992622">
+    <title>Jaffna Paper News</title>
+    <sub-title></sub-title>
+    <desc>The host collates and presents some of the most important and the latest news updates covered in the newspapers of Jaffna, Sri Lanka.</desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/0D016A65207B2A745FA86A31EBB97407A24634A1I.jpg" />
+  </programme>
+
+  <programme start="20230119083000 +0530" stop="20230119090000 +0530" channel="10000000075992622">
+    <title>News Voice Over</title>
+    <sub-title></sub-title>
+    <desc>The host presents the latest news stories, important developments and major updates that impact people across the world.</desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/0B87FA51A446B046EFA7DE0798BF036AF89FC466W.jpg" />
+  </programme>
+
+  <programme start="20230119090000 +0530" stop="20230119100000 +0530" channel="10000000075992622">
+    <title>Colombo Paper News</title>
+    <sub-title></sub-title>
+    <desc>The host collates and presents some of the most important and the latest news updates covered in the newspapers of Colombo, Sri Lanka.</desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/87C9D529EFF04CF8FC94D30B29F261EE221DD0550.jpg" />
+  </programme>
+
+  <programme start="20230119100000 +0530" stop="20230119103000 +0530" channel="10000000075992622">
+    <title>Morning News</title>
+    <sub-title></sub-title>
+    <desc>The host presents a summary of the latest social, economic and political news updates and developments from the nation and around the world.</desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/966B90FD2714E5B1820B229A4BC5A7528A0D8775V.jpg" />
+  </programme>
+
+  <programme start="20230119103000 +0530" stop="20230119110000 +0530" channel="10000000075992622">
+    <title>Morning News</title>
+    <sub-title></sub-title>
+    <desc>The host presents a summary of the latest social, economic and political news updates and developments from the nation and around the world.</desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/966B90FD2714E5B1820B229A4BC5A7528A0D8775V.jpg" />
+  </programme>
+
+  <programme start="20230119110000 +0530" stop="20230119113000 +0530" channel="10000000075992622">
+    <title>Net News</title>
+    <sub-title></sub-title>
+    <desc>The presenters deliver the day's top economic, political, sports and social stories from the country and around the world.</desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/D9ACB84077897AFE8000E61401E773DCE28187FD7.jpg" />
+  </programme>
+
+  <programme start="20230119113000 +0530" stop="20230119140000 +0530" channel="10000000075992622">
+    <title>News Voice Over</title>
+    <sub-title></sub-title>
+    <desc>The host presents the latest news stories, important developments and major updates that impact people across the world.</desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/0B87FA51A446B046EFA7DE0798BF036AF89FC466W.jpg" />
+  </programme>
+
+  <programme start="20230119140000 +0530" stop="20230119143000 +0530" channel="10000000075992622">
+    <title>Afternoon News</title>
+    <sub-title></sub-title>
+    <desc>The host presents the latest political, economic, social and sports top stories on the national and international front.</desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/48EE9A09C2626A27A092E3C5A1F381B652E263026.jpg" />
+  </programme>
+
+  <programme start="20230119143000 +0530" stop="20230119150000 +0530" channel="10000000075992622">
+    <title>Afternoon News</title>
+    <sub-title></sub-title>
+    <desc>The host presents the latest political, economic, social and sports top stories on the national and international front.</desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/48EE9A09C2626A27A092E3C5A1F381B652E263026.jpg" />
+  </programme>
+
+  <programme start="20230119150000 +0530" stop="20230119170000 +0530" channel="10000000075992622">
+    <title>News Voice Over</title>
+    <sub-title></sub-title>
+    <desc>The host presents the latest news stories, important developments and major updates that impact people across the world.</desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/0B87FA51A446B046EFA7DE0798BF036AF89FC466W.jpg" />
+  </programme>
+
+  <programme start="20230119170000 +0530" stop="20230119180000 +0530" channel="10000000075992622">
+    <title>Yavarum Keleer</title>
+    <sub-title></sub-title>
+    <desc>Two groups of people take part in a debate on contemporary social issues.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Chat Show</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/CEB04B52A51C6D56443DA73E7759FC7C101A0238G.jpg" />
+  </programme>
+
+  <programme start="20230119180000 +0530" stop="20230119183000 +0530" channel="10000000075992622">
+    <title>Evening News</title>
+    <sub-title></sub-title>
+    <desc></desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/6610E3DBA397231E78B276CBBD3BD241D4594862.jpg" />
+  </programme>
+
+  <programme start="20230119183000 +0530" stop="20230119190000 +0530" channel="10000000075992622">
+    <title>Evening News</title>
+    <sub-title></sub-title>
+    <desc></desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/6610E3DBA397231E78B276CBBD3BD241D4594862.jpg" />
+  </programme>
+
+  <programme start="20230119190000 +0530" stop="20230119200000 +0530" channel="10000000075992622">
+    <title>Yavarum Keleer</title>
+    <sub-title></sub-title>
+    <desc>Two groups of people take part in a debate on contemporary social issues.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Chat Show</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/CEB04B52A51C6D56443DA73E7759FC7C101A0238G.jpg" />
+  </programme>
+
+  <programme start="20230119200000 +0530" stop="20230119203000 +0530" channel="10000000075992622">
+    <title>Eastern News</title>
+    <sub-title></sub-title>
+    <desc>The host presents the latest news stories, important developments and major updates that impact people across the world.</desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/2ACEE3C82FEF1F1A80826036E106B564D247405D3.jpg" />
+  </programme>
+
+  <programme start="20230119203000 +0530" stop="20230119210000 +0530" channel="10000000075992622">
+    <title>News Voice Over</title>
+    <sub-title></sub-title>
+    <desc>The host presents the latest news stories, important developments and major updates that impact people across the world.</desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/0B87FA51A446B046EFA7DE0798BF036AF89FC466W.jpg" />
+  </programme>
+
+  <programme start="20230119210000 +0530" stop="20230119220000 +0530" channel="10000000075992622">
+    <title>News At 9</title>
+    <sub-title></sub-title>
+    <desc>The host sheds light on the latest news stories, updates and developments in the political, economic, social and sports spheres.</desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/E880A8961EE8A7267D3FDD78600AD00D8C1F8521E.jpg" />
+  </programme>
+
+  <programme start="20230119220000 +0530" stop="20230120070000 +0530" channel="10000000075992622">
+    <title>News Voice Over</title>
+    <sub-title></sub-title>
+    <desc>The host presents the latest news stories, important developments and major updates that impact people across the world.</desc>
+    <date></date>
+    <category>News</category>
+    <category>News Bulletin</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/0B87FA51A446B046EFA7DE0798BF036AF89FC466W.jpg" />
   </programme>
 
   <programme start="20230119010000 +0530" stop="20230119053000 +0530" channel="10000000002990000">
