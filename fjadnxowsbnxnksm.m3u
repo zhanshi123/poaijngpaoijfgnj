@@ -25,93 +25,93 @@ http://192.168.1.5:65010/udp/224.11.4.10:5180
 http://192.168.1.5:65010/udp/224.11.4.11:5180
 #EXTINF:-1 tvg-id="10000000019500000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/6o2oXtJu.png", TV1
 http://192.168.1.5:65010/udp/224.11.2.12:5180
-#EXTINF:-1 tvg-id="13" tvg-logo="http://172.17.49.10/PosterisChannels/13.png", TNL
+#EXTINF:-1 tvg-id="10000000019980000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/5127gVEM.png", TNL
 http://192.168.1.5:65010/udp/224.11.4.13:5180
-#EXTINF:-1 tvg-id="14" tvg-logo="http://172.17.49.10/PosterisChannels/14_1.png", Ada Derana 24
+#EXTINF:-1 tvg-id="10000000056890000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/gGrGUpmd.png", Ada Derana 24
 http://192.168.1.5:65010/udp/224.11.2.14:5180
-#EXTINF:-1 tvg-id="15" tvg-logo="http://172.17.49.10/PosterisChannels/15_2.png", Music Plus Television
+#EXTINF:-1 tvg-id="10000000021740000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/x2qeUhrm.png", Music Plus Television
 http://192.168.1.5:65010/udp/224.11.4.15:5180
-#EXTINF:-1 tvg-id="16" tvg-logo="http://172.17.49.10/PosterisChannels/016_1.png", Nethra TV
+#EXTINF:-1 tvg-id="10000000059260000" tvg-logo="https://mobond.yuppcdn.net/peotvgo/content/common/logos/channel/logos/udbacm.png", Nethra TV
 http://192.168.1.5:65010/udp/224.11.2.16:5180
-#EXTINF:-1 tvg-id="17" tvg-logo="http://172.17.49.10/PosterisChannels/17.png", ART
+#EXTINF:-1 tvg-id="10000000035000000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/tdygoGc2.png", ART
 http://192.168.1.5:65010/udp/224.11.2.17:5180
-#EXTINF:-1 tvg-id="18" tvg-logo="http://172.17.49.10/PosterisChannels/18.png", Knowledge TV
+#EXTINF:-1 tvg-id="10000000021750000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/gv95LJsR.png", Knowledge TV
 http://192.168.1.5:65010/udp/224.11.4.18:5180
-#EXTINF:-1 tvg-id="19" tvg-logo="http://172.17.49.10/PosterisChannels/19.png", Hiru TV
+#EXTINF:-1 tvg-id="10000000010940000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/QqWdB3pe.png", Hiru TV
 http://192.168.1.5:65010/udp/224.11.4.19:5180
-#EXTINF:-1 tvg-id="20" tvg-logo="http://172.17.49.10/PosterisChannels/20.png", Event TV
+#EXTINF:-1 tvg-id="10000000025030000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/1PYNnlrc.png", Event TV
 http://192.168.1.5:65010/udp/224.11.4.165:5180
-#EXTINF:-1 tvg-id="21" tvg-logo="http://172.17.49.10/PosterisChannels/021.png", Star Tamil
+#EXTINF:-1 tvg-id="10000000023110000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ZvBlQpK3.png", Star Tamil
 http://192.168.1.5:65010/udp/224.11.2.8:5180
-#EXTINF:-1 tvg-id="22" tvg-logo="http://172.17.49.10/PosterisChannels/22.png", Rangiri TV
+#EXTINF:-1 tvg-id="10000000026690000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/noYnE5Tf.png", Rangiri TV
 http://192.168.1.5:65010/udp/224.11.2.22:5180
-#EXTINF:-1 tvg-id="23" tvg-logo="http://172.17.49.10/PosterisChannels/23_1.png", CNN
+#EXTINF:-1 tvg-id="10000000000770000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/mGjMfVUp.png", CNN
 http://192.168.1.5:65010/udp/224.11.2.23:5180
-#EXTINF:-1 tvg-id="24" tvg-logo="http://172.17.49.10/PosterisChannels/24.png", BBC World News
+#EXTINF:-1 tvg-id="10000000000750000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/7FqHaFDK.png", BBC World News
 http://192.168.1.5:65010/udp/224.11.4.24:5180
-#EXTINF:-1 tvg-id="25" tvg-logo="http://172.17.49.10/PosterisChannels/25_1.png", Times Now
+#EXTINF:-1 tvg-id="10000000000870000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/M6dfbLq6.png", Times Now
 http://192.168.1.5:65010/udp/224.11.4.162:5180
-#EXTINF:-1 tvg-id="26" tvg-logo="http://172.17.49.10/PosterisChannels/26.png", Aljazeera
+#EXTINF:-1 tvg-id="10000000011580000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/IKDdsBYG.png", Aljazeera
 http://192.168.1.5:65010/udp/224.11.4.26:5180
-#EXTINF:-1 tvg-id="27" tvg-logo="http://172.17.49.10/PosterisChannels/27.png", France 24
+#EXTINF:-1 tvg-id="10000000006560000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/PtdRiLYn.png", France 24
 http://192.168.1.5:65010/udp/224.11.2.27:5180
-#EXTINF:-1 tvg-id="28" tvg-logo="http://172.17.49.10/PosterisChannels/28_2.png", Star Movies
+#EXTINF:-1 tvg-id="10000000000100000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/9WMgCnfX.png", Star Movies
 http://192.168.1.5:65010/udp/224.11.2.28:5180
-#EXTINF:-1 tvg-id="29" tvg-logo="http://172.17.49.10/PosterisChannels/29.png", Cinemachi Action
+#EXTINF:-1 tvg-id="10000000075992690" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/aCFOh8ZU.png", Cinemachi Action
 http://192.168.1.5:65010/udp/224.11.4.29:5180
-#EXTINF:-1 tvg-id="30" tvg-logo="http://172.17.49.10/PosterisChannels/30.png", Cinemachi Family
+#EXTINF:-1 tvg-id="10000000075992691" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/cflKTOgd.png", Cinemachi Family
 http://192.168.1.5:65010/udp/224.11.4.30:5180
-#EXTINF:-1 tvg-id="31" tvg-logo="http://172.17.49.10/PosterisChannels/31.png", Cinemachi Scream
+#EXTINF:-1 tvg-id="10000000075992692" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/MZEcioqR.png", Cinemachi Scream
 http://192.168.1.5:65010/udp/224.11.4.31:5180
-#EXTINF:-1 tvg-id="32" tvg-logo="http://172.17.49.10/PosterisChannels/32.png", Cinemachi Xtra
+#EXTINF:-1 tvg-id="10000000075992693" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/6gbNAVvo.png", Cinemachi Xtra
 http://192.168.1.5:65010/udp/224.11.4.32:5180
-#EXTINF:-1 tvg-id="33" tvg-logo="http://172.17.49.10/PosterisChannels/033.png", CinemaWorld
+#EXTINF:-1 tvg-id="10000000027780000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/23983XlO.png", CinemaWorld
 http://192.168.1.5:65010/udp/224.11.2.33:5180
-#EXTINF:-1 tvg-id="34" tvg-logo="http://172.17.49.10/PosterisChannels/034.png", Nflix
+#EXTINF:-1 tvg-id="10000000059350000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/34fhJNB3.png", Nflix
 http://192.168.1.5:65010/udp/224.11.2.34:5180
-#EXTINF:-1 tvg-id="35" tvg-logo="http://172.17.49.10/PosterisChannels/36.png", Comedy Central
+#EXTINF:-1 tvg-id="10000000007730000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/kq3bLm6x.png", Comedy Central
 http://192.168.1.5:65010/udp/224.11.2.35:5180
-#EXTINF:-1 tvg-id="37" tvg-logo="http://172.17.49.10/PosterisChannels/037_new.png", Sony Sports Ten 5
+#EXTINF:-1 tvg-id="10000000009310000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/xngy65EJ.png", Sony Sports Ten 5
 http://192.168.1.5:65010/udp/224.11.2.37:5180
-#EXTINF:-1 tvg-id="38" tvg-logo="http://172.17.49.10/PosterisChannels/038_new.png", Sony Sports Ten 1
+#EXTINF:-1 tvg-id="10000000000620000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/HYG1Jq7V.png", Sony Sports Ten 1
 http://192.168.1.5:65010/udp/224.11.2.38:5180
-#EXTINF:-1 tvg-id="39" tvg-logo="http://172.17.49.10/PosterisChannels/39_new.png", Star Sports Select 1
+#EXTINF:-1 tvg-id="10000000027760000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/CDzxunbK.png", Star Sports Select 1
 http://192.168.1.5:65010/udp/224.11.2.39:5180
-#EXTINF:-1 tvg-id="40" tvg-logo="http://172.17.49.10/PosterisChannels/40_new.png", Star Sports 2
+#EXTINF:-1 tvg-id="10000000014200000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/LDF5UJeX.png", Star Sports 2
 http://192.168.1.5:65010/udp/224.11.2.40:5180
-#EXTINF:-1 tvg-id="41" tvg-logo="http://172.17.49.10/PosterisChannels/41_new.png", Star Sports 1
+#EXTINF:-1 tvg-id="10000000000190000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/VmljN1kZ.png", Star Sports 1
 http://192.168.1.5:65010/udp/224.11.2.41:5180
-#EXTINF:-1 tvg-id="42" tvg-logo="http://172.17.49.10/PosterisChannels/42_1.png", Eurosport
+#EXTINF:-1 tvg-id="10000000050610000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/BWQNLFIi.png", Eurosport
 http://192.168.1.5:65010/udp/224.11.2.42:5180
-#EXTINF:-1 tvg-id="44" tvg-logo="http://172.17.49.10/PosterisChannels/44.png", Ten Cricket
+#EXTINF:-1 tvg-id="10000000007540000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/cBxIlmMq.png", Ten Cricket
 http://192.168.1.5:65010/udp/224.11.2.44:5180
-#EXTINF:-1 tvg-id="45" tvg-logo="http://172.17.49.10/PosterisChannels/045_new.png", Sony Sports Ten 2
+#EXTINF:-1 tvg-id="10000000000240000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/Ybkb746Y.png", Sony Sports Ten 2
 http://192.168.1.5:65010/udp/224.11.2.45:5180
-#EXTINF:-1 tvg-id="46" tvg-logo="http://172.17.49.10/PosterisChannels/046.png", Premier Sports
+#EXTINF:-1 tvg-id="10000000075170000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/RKxA1qvu.png", Premier Sports
 http://192.168.1.5:65010/udp/224.11.4.46:5180
-#EXTINF:-1 tvg-id="47" tvg-logo="http://172.17.49.10/PosterisChannels/47_new.png", Discovery Channel
+#EXTINF:-1 tvg-id="10000000000310000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/7cB2XLsH.png", Discovery Channel
 http://192.168.1.5:65010/udp/224.11.2.47:5180
-#EXTINF:-1 tvg-id="48" tvg-logo="http://172.17.49.10/PosterisChannels/48.png", Animal Planet
+#EXTINF:-1 tvg-id="10000000000320000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/KgrkZqGQ.png", Animal Planet
 http://192.168.1.5:65010/udp/224.11.2.48:5180
-#EXTINF:-1 tvg-id="49" tvg-logo="http://172.17.49.10/PosterisChannels/49_1.png", TLC
+#EXTINF:-1 tvg-id="10000000000330000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/B1jvXiRs.png", TLC
 http://192.168.1.5:65010/udp/224.11.2.49:5180
-#EXTINF:-1 tvg-id="50" tvg-logo="http://172.17.49.10/PosterisChannels/50.png", National Geographic Channel
+#EXTINF:-1 tvg-id="10000000000170000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/TQOkEcdR.png", National Geographic Channel
 http://192.168.1.5:65010/udp/224.11.2.50:5180
-#EXTINF:-1 tvg-id="52" tvg-logo="http://172.17.49.10/PosterisChannels/52.png", Fox Life
+#EXTINF:-1 tvg-id="10000000000160000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/m5YJOegb.png", Fox Life
 http://192.168.1.5:65010/udp/224.11.2.52:5180
-#EXTINF:-1 tvg-id="53" tvg-logo="http://172.17.49.10/PosterisChannels/53.png", Travel Channel
+#EXTINF:-1 tvg-id="10000000015710000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/fcMfGtwb.png", Travel Channel
 http://192.168.1.5:65010/udp/224.11.2.53:5180
-#EXTINF:-1 tvg-id="54" tvg-logo="http://172.17.49.10/PosterisChannels/54.png", Discovery Turbo
+#EXTINF:-1 tvg-id="10000000005700000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/kqBcjxan.png", Discovery Turbo
 http://192.168.1.5:65010/udp/224.11.2.54:5180
-#EXTINF:-1 tvg-id="55" tvg-logo="http://172.17.49.10/PosterisChannels/55.png", Discovery Science
+#EXTINF:-1 tvg-id="10000000003130000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/spEOmisQ.png", Discovery Science
 http://192.168.1.5:65010/udp/224.11.2.55:5180
-#EXTINF:-1 tvg-id="56" tvg-logo="http://172.17.49.10/PosterisChannels/56.png", Discovery Tamil
+#EXTINF:-1 tvg-id="10000000011200000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/4mD57iZO.png", Discovery Tamil
 http://192.168.1.5:65010/udp/224.11.2.56:5180
-#EXTINF:-1 tvg-id="57" tvg-logo="http://172.17.49.10/PosterisChannels/57.png", Nat Geo Wild
+#EXTINF:-1 tvg-id="10000000005680000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/B7j5DOeg.png", Nat Geo Wild
 http://192.168.1.5:65010/udp/224.11.2.57:5180
-#EXTINF:-1 tvg-id="58" tvg-logo="http://172.17.49.10/PosterisChannels/58.png", DaVinci
+#EXTINF:-1 tvg-id="10000000036620000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/6jIMuIED.png", DaVinci
 http://192.168.1.5:65010/udp/224.11.2.58:5180
-#EXTINF:-1 tvg-id="59" tvg-logo="http://172.17.49.10/PosterisChannels/59.png", Disney Junior
+#EXTINF:-1 tvg-id="10000000012870000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/jmqryXlW.png", Disney Junior
 http://192.168.1.5:65010/udp/224.11.2.59:5180
 #EXTINF:-1 tvg-id="60" tvg-logo="http://172.17.49.10/PosterisChannels/60.png", nick
 http://192.168.1.5:65010/udp/224.11.4.60:5180
