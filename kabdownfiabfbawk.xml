@@ -508,6 +508,16 @@
     <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/x7K3omV4.png" />
   </channel>
 
+  <channel id="10000000069750000">
+    <display-name>ACE TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/EfBkEelb.png" />
+  </channel>
+
+  <channel id="10000000075992684">
+    <display-name>GAJA TV</display-name>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/RELPi5oL.png" />
+  </channel>
+
   <channel id="10000000052430000">
     <display-name>TV Didula</display-name>
     <icon src="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/DfXVE13H.png" />
@@ -37849,6 +37859,567 @@
     <category>Entertainment</category>
     <episode-num system="onscreen"></episode-num>
     <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/FB2FECBEC02D16B8485E60B94839DC0012C02A565.jpg" />
+  </programme>
+
+  <programme start="20230119003000 +0530" stop="20230119013000 +0530" channel="10000000069750000">
+    <title>Kampala</title>
+    <sub-title></sub-title>
+    <desc>Buddhist monks deliver religious discourses and sermons while explaining verses from holy books to guide the followers to the path of righteousness.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/4D02CBD7391270B60227A18A177EF6F94BDD5738Q.jpg" />
+  </programme>
+
+  <programme start="20230119013000 +0530" stop="20230119023000 +0530" channel="10000000069750000">
+    <title>Suthra Sakachchawa</title>
+    <sub-title></sub-title>
+    <desc>A religious scholar discusses Buddhist precepts whilst urging the devotees to diligently follow a righteous and balanced path.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/60FABDC108C97E32E8979C12986A96BE041E07F0Q.jpg" />
+  </programme>
+
+  <programme start="20230119023000 +0530" stop="20230119030000 +0530" channel="10000000069750000">
+    <title>Pali Panthiya</title>
+    <sub-title></sub-title>
+    <desc>Suggests various simple methods to learn the language of Pali which is integrally associated with Buddhist scriptures.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Education (Adult)</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/FB88CF9AB2AEF2121CC337CFA56D324251C9AEC56.jpg" />
+  </programme>
+
+  <programme start="20230119030000 +0530" stop="20230119040000 +0530" channel="10000000069750000">
+    <title>Dharma Deshanawa</title>
+    <sub-title></sub-title>
+    <desc>A religious leader delivers a discourse on the life, works and teachings of Siddhartha Gautama, a monk whose teachings led to the foundation of Buddhism.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/BE101D290E2341CB7533D4DA8BB1480D84995556H.jpg" />
+  </programme>
+
+  <programme start="20230119040000 +0530" stop="20230119050500 +0530" channel="10000000069750000">
+    <title>Pirith Sajjayanawa</title>
+    <sub-title></sub-title>
+    <desc>Spiritual leaders of the Buddhist faith chant sacred verses and hymns and pray for peace and prosperity of mankind.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/4B63C07E28FFE6A154AC77360799A8A63029FEC2E.jpg" />
+  </programme>
+
+  <programme start="20230119050500 +0530" stop="20230119060000 +0530" channel="10000000069750000">
+    <title>Pattana Wandanawa</title>
+    <sub-title></sub-title>
+    <desc>A group of Buddhist monks recites sacred verses from the religious scriptures, praise and worship Lord Buddha in a simple manner.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/5AD309A1C67BA7D1A693A9011121C7DABF6594A6C.jpg" />
+  </programme>
+
+  <programme start="20230119060000 +0530" stop="20230119061500 +0530" channel="10000000069750000">
+    <title>Sadaham Sithuvili</title>
+    <sub-title></sub-title>
+    <desc>A show focussing on religion or spirituality.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/370B0A9AE4D0CE8CAB019C41E9D215CD71F2AF98F.jpg" />
+  </programme>
+
+  <programme start="20230119061500 +0530" stop="20230119063000 +0530" channel="10000000069750000">
+    <title>Marananussathi</title>
+    <sub-title></sub-title>
+    <desc>A spiritual leader recites sacred chants, which are Buddhist stanzas for meditation that aim at the blessings and protection of devotees.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/07BFB08388C596E1B12E0BE3EA4A0069EEAC397E3.jpg" />
+  </programme>
+
+  <programme start="20230119063000 +0530" stop="20230119070000 +0530" channel="10000000069750000">
+    <title>Maha Rahath Waruna</title>
+    <sub-title></sub-title>
+    <desc>An Arhat monk narrates a story and delivers a discourse based on the story to the devotees and urges them to reflect on it.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/4970A6EFAF2A748DB339A1772212FD44FBF39AE4P.jpg" />
+  </programme>
+
+  <programme start="20230119070000 +0530" stop="20230119072000 +0530" channel="10000000069750000">
+    <title>Jeewithaya Dinamu</title>
+    <sub-title></sub-title>
+    <desc>A buddhist monk recites sacred verses from the scriptures and delivers a discourse on winning over the life in a simple and easy-to-understand manner.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/F4120BC5BAEB03DB9F122D979E1EF7EB71CFC364T.jpg" />
+  </programme>
+
+  <programme start="20230119072000 +0530" stop="20230119073000 +0530" channel="10000000069750000">
+    <title>Punyanumodana</title>
+    <sub-title></sub-title>
+    <desc>Priests and devotees perform a ritual, a method of devotion developed by the seventh-century Indian master, to seek the blessings of Lord Buddha.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/ABFA7614D469C3F3D720FCB1A1C1429E9E1AC60B8.jpg" />
+  </programme>
+
+  <programme start="20230119073000 +0530" stop="20230119083000 +0530" channel="10000000069750000">
+    <title>Dharma Deshanawa</title>
+    <sub-title></sub-title>
+    <desc>A religious leader delivers a discourse on the life, works and teachings of Siddhartha Gautama, a monk whose teachings led to the foundation of Buddhism.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/BE101D290E2341CB7533D4DA8BB1480D84995556H.jpg" />
+  </programme>
+
+  <programme start="20230119083000 +0530" stop="20230119093000 +0530" channel="10000000069750000">
+    <title>Dam Sith Yaya</title>
+    <sub-title></sub-title>
+    <desc>Kothmale Kumarakassapa Thero, a spiritual leader delivers a discourse on the importance of the teachings of Buddhism and its impact on the people within the community.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/CD73A462073EBD3BB0B71C798080020845FF31C0G.jpg" />
+  </programme>
+
+  <programme start="20230119093000 +0530" stop="20230119103000 +0530" channel="10000000069750000">
+    <title>Dharma Deshanawa</title>
+    <sub-title></sub-title>
+    <desc>A religious leader delivers a discourse on the life, works and teachings of Siddhartha Gautama, a monk whose teachings led to the foundation of Buddhism.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/BE101D290E2341CB7533D4DA8BB1480D84995556H.jpg" />
+  </programme>
+
+  <programme start="20230119103000 +0530" stop="20230119110000 +0530" channel="10000000069750000">
+    <title>Maha Rahath Waruna</title>
+    <sub-title></sub-title>
+    <desc>An Arhat monk narrates a story and delivers a discourse based on the story to the devotees and urges them to reflect on it.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/4970A6EFAF2A748DB339A1772212FD44FBF39AE4P.jpg" />
+  </programme>
+
+  <programme start="20230119110000 +0530" stop="20230119113000 +0530" channel="10000000069750000">
+    <title>Buddha Poojawa</title>
+    <sub-title></sub-title>
+    <desc>A spiritual leader chants devotional hymns as he offers prayers to Gautam Buddha and delivers a discourse to the devotees.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/3FC848A845F39BD41EC0320DDA9C684DDA2839220.jpg" />
+  </programme>
+
+  <programme start="20230119113000 +0530" stop="20230119114500 +0530" channel="10000000069750000">
+    <title>Marananussathi</title>
+    <sub-title></sub-title>
+    <desc>A spiritual leader recites sacred chants, which are Buddhist stanzas for meditation that aim at the blessings and protection of devotees.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/07BFB08388C596E1B12E0BE3EA4A0069EEAC397E3.jpg" />
+  </programme>
+
+  <programme start="20230119114500 +0530" stop="20230119120000 +0530" channel="10000000069750000">
+    <title>TBA</title>
+    <sub-title></sub-title>
+    <desc>This program is yet to be announced by this channel.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/5C6AE284D5BBA7A28616463676E2F90590F8121FR.jpg" />
+  </programme>
+
+  <programme start="20230119120000 +0530" stop="20230119130000 +0530" channel="10000000069750000">
+    <title>Sawaneeya</title>
+    <sub-title></sub-title>
+    <desc>A show focussing on religion or spirituality.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/879E84A894E4DA15F5D64FA964A667DDD910F7B84.jpg" />
+  </programme>
+
+  <programme start="20230119130000 +0530" stop="20230119140000 +0530" channel="10000000069750000">
+    <title>Dharma Deshanawa</title>
+    <sub-title></sub-title>
+    <desc>A religious leader delivers a discourse on the life, works and teachings of Siddhartha Gautama, a monk whose teachings led to the foundation of Buddhism.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/BE101D290E2341CB7533D4DA8BB1480D84995556H.jpg" />
+  </programme>
+
+  <programme start="20230119140000 +0530" stop="20230119150000 +0530" channel="10000000069750000">
+    <title>Dharma Deshanawa</title>
+    <sub-title></sub-title>
+    <desc>A religious leader delivers a discourse on the life, works and teachings of Siddhartha Gautama, a monk whose teachings led to the foundation of Buddhism.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/BE101D290E2341CB7533D4DA8BB1480D84995556H.jpg" />
+  </programme>
+
+  <programme start="20230119150000 +0530" stop="20230119160000 +0530" channel="10000000069750000">
+    <title>Dam Sith Yaya</title>
+    <sub-title></sub-title>
+    <desc>Kothmale Kumarakassapa Thero, a spiritual leader delivers a discourse on the importance of the teachings of Buddhism and its impact on the people within the community.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/CD73A462073EBD3BB0B71C798080020845FF31C0G.jpg" />
+  </programme>
+
+  <programme start="20230119160000 +0530" stop="20230119170000 +0530" channel="10000000069750000">
+    <title>Dharma Deshanawa</title>
+    <sub-title></sub-title>
+    <desc>A religious leader delivers a discourse on the life, works and teachings of Siddhartha Gautama, a monk whose teachings led to the foundation of Buddhism.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/BE101D290E2341CB7533D4DA8BB1480D84995556H.jpg" />
+  </programme>
+
+  <programme start="20230119170000 +0530" stop="20230119180000 +0530" channel="10000000069750000">
+    <title>Dharma Deshanawa</title>
+    <sub-title></sub-title>
+    <desc>A religious leader delivers a discourse on the life, works and teachings of Siddhartha Gautama, a monk whose teachings led to the foundation of Buddhism.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/BE101D290E2341CB7533D4DA8BB1480D84995556H.jpg" />
+  </programme>
+
+  <programme start="20230119180000 +0530" stop="20230119182000 +0530" channel="10000000069750000">
+    <title>Sawasa Wandanawa</title>
+    <sub-title></sub-title>
+    <desc>A spiritual leader recites religious hymns and verses along with devotees and encourages them to seek blessings of the divine.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/419AC88C33983539E5F1749E2BC561F29D8ADACBY.jpg" />
+  </programme>
+
+  <programme start="20230119182000 +0530" stop="20230119183000 +0530" channel="10000000069750000">
+    <title>Punyanumodana</title>
+    <sub-title></sub-title>
+    <desc>Priests and devotees perform a ritual, a method of devotion developed by the seventh-century Indian master, to seek the blessings of Lord Buddha.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/ABFA7614D469C3F3D720FCB1A1C1429E9E1AC60B8.jpg" />
+  </programme>
+
+  <programme start="20230119183000 +0530" stop="20230119193000 +0530" channel="10000000069750000">
+    <title>Dharma Deshanawa</title>
+    <sub-title></sub-title>
+    <desc>A religious leader delivers a discourse on the life, works and teachings of Siddhartha Gautama, a monk whose teachings led to the foundation of Buddhism.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/BE101D290E2341CB7533D4DA8BB1480D84995556H.jpg" />
+  </programme>
+
+  <programme start="20230119193000 +0530" stop="20230119203000 +0530" channel="10000000069750000">
+    <title>Dharma Deshanawa</title>
+    <sub-title></sub-title>
+    <desc>A religious leader delivers a discourse on the life, works and teachings of Siddhartha Gautama, a monk whose teachings led to the foundation of Buddhism.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/BE101D290E2341CB7533D4DA8BB1480D84995556H.jpg" />
+  </programme>
+
+  <programme start="20230119203000 +0530" stop="20230119213000 +0530" channel="10000000069750000">
+    <title>Dam Sith Yaya</title>
+    <sub-title></sub-title>
+    <desc>Kothmale Kumarakassapa Thero, a spiritual leader delivers a discourse on the importance of the teachings of Buddhism and its impact on the people within the community.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/CD73A462073EBD3BB0B71C798080020845FF31C0G.jpg" />
+  </programme>
+
+  <programme start="20230119213000 +0530" stop="20230119223000 +0530" channel="10000000069750000">
+    <title>Vinaya Discussion</title>
+    <sub-title></sub-title>
+    <desc>A spiritual leader delivers a discourse on divine power and encourages the devotees to follow the path of virtue and righteousness.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/EB39CB1F72BE6620B0ABE366B049C5A976BDC246V.jpg" />
+  </programme>
+
+  <programme start="20230119223000 +0530" stop="20230119233000 +0530" channel="10000000069750000">
+    <title>Dharma Deshanawa</title>
+    <sub-title></sub-title>
+    <desc>A religious leader delivers a discourse on the life, works and teachings of Siddhartha Gautama, a monk whose teachings led to the foundation of Buddhism.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/BE101D290E2341CB7533D4DA8BB1480D84995556H.jpg" />
+  </programme>
+
+  <programme start="20230119233000 +0530" stop="20230120003000 +0530" channel="10000000069750000">
+    <title>Dharma Deshanawa</title>
+    <sub-title></sub-title>
+    <desc>A religious leader delivers a discourse on the life, works and teachings of Siddhartha Gautama, a monk whose teachings led to the foundation of Buddhism.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/BE101D290E2341CB7533D4DA8BB1480D84995556H.jpg" />
+  </programme>
+
+  <programme start="20230119000000 +0530" stop="20230119060000 +0530" channel="10000000075992684">
+    <title>Tba</title>
+    <sub-title></sub-title>
+    <desc>An entertainment-based programme.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/64A2E0F9278A5F940BE9FD0F02B7030E2E6BEC52Y.jpg" />
+  </programme>
+
+  <programme start="20230119060000 +0530" stop="20230119070000 +0530" channel="10000000075992684">
+    <title>Ashirvada</title>
+    <sub-title></sub-title>
+    <desc>A show focussing on religion or spirituality.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Religious</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/1A4EA3909C715B7AC3532DC77270384A2863A959B.jpg" />
+  </programme>
+
+  <programme start="20230119070000 +0530" stop="20230119080000 +0530" channel="10000000075992684">
+    <title>Beauty Of The World</title>
+    <sub-title></sub-title>
+    <desc>Magazine programme.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Magazine Programme</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/CF99EC2093B150D09B235F22CE63075A24D27FAC6.jpg" />
+  </programme>
+
+  <programme start="20230119080000 +0530" stop="20230119083000 +0530" channel="10000000075992684">
+    <title>Positive News Desk</title>
+    <sub-title></sub-title>
+    <desc>The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
+    <date></date>
+    <category>News</category>
+    <category>Special Report</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/022DEEFCC9EDEAFADED0E1C5C769C35180DE6DA1A.jpg" />
+  </programme>
+
+  <programme start="20230119083000 +0530" stop="20230119090000 +0530" channel="10000000075992684">
+    <title>Positive Think</title>
+    <sub-title></sub-title>
+    <desc>Special report.</desc>
+    <date></date>
+    <category>News</category>
+    <category>Special Report</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/486431CF62A5B0BF014C2530D52549AA027FE72DJ.jpg" />
+  </programme>
+
+  <programme start="20230119090000 +0530" stop="20230119103000 +0530" channel="10000000075992684">
+    <title>Dirihimidiriya</title>
+    <sub-title></sub-title>
+    <desc>Sports programme.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Special Feature</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/038ED2A9C535F04A24A193D5CF6652F24681FB04W.jpg" />
+  </programme>
+
+  <programme start="20230119103000 +0530" stop="20230119110000 +0530" channel="10000000075992684">
+    <title>World Records</title>
+    <sub-title></sub-title>
+    <desc>Sports programme.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Special Feature</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/377D2E0466E38B3FB3247D79B42D9E3302F6FC55O.jpg" />
+  </programme>
+
+  <programme start="20230119110000 +0530" stop="20230119120000 +0530" channel="10000000075992684">
+    <title>Talk With Gaja</title>
+    <sub-title></sub-title>
+    <desc>Sports programme.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Talk Show</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/B74DC72BD60883C1AF85B1FAB9233F123CBC3259U.jpg" />
+  </programme>
+
+  <programme start="20230119120000 +0530" stop="20230119130000 +0530" channel="10000000075992684">
+    <title>Covers</title>
+    <sub-title></sub-title>
+    <desc>An entertainment-based programme.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Entertainment</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/791737F75FA7D3784A84D5B7F87B9F080FBFEFFBF.jpg" />
+  </programme>
+
+  <programme start="20230119130000 +0530" stop="20230119140000 +0530" channel="10000000075992684">
+    <title>Sports</title>
+    <sub-title></sub-title>
+    <desc>Sports programme.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Special Feature</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/5C5D4E9BBD2481C6E5280FADE83FAD65546C1CE08.jpg" />
+  </programme>
+
+  <programme start="20230119140000 +0530" stop="20230119150000 +0530" channel="10000000075992684">
+    <title>Sports</title>
+    <sub-title></sub-title>
+    <desc>Sports programme.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Special Feature</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/5C5D4E9BBD2481C6E5280FADE83FAD65546C1CE08.jpg" />
+  </programme>
+
+  <programme start="20230119150000 +0530" stop="20230119153000 +0530" channel="10000000075992684">
+    <title>Gym</title>
+    <sub-title></sub-title>
+    <desc>Health experts and gym trainers teach the viewers how to work out safely and provide essential tips to lead a healthy life.</desc>
+    <date></date>
+    <category>TV Show</category>
+    <category>Health and Wellbeing</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/D4CAA763F5A897EF995C2EEA808A3DEEBAC35D02D.jpg" />
+  </programme>
+
+  <programme start="20230119153000 +0530" stop="20230119160000 +0530" channel="10000000075992684">
+    <title>How To Play</title>
+    <sub-title></sub-title>
+    <desc>Sports programme.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Special Feature</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/8EBC6F0B2F1EF0B55394C7BBD828EA2900F188B77.jpg" />
+  </programme>
+
+  <programme start="20230119160000 +0530" stop="20230119180000 +0530" channel="10000000075992684">
+    <title>Sports</title>
+    <sub-title></sub-title>
+    <desc>Sports programme.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Special Feature</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/5C5D4E9BBD2481C6E5280FADE83FAD65546C1CE08.jpg" />
+  </programme>
+
+  <programme start="20230119180000 +0530" stop="20230119183000 +0530" channel="10000000075992684">
+    <title>Sports News</title>
+    <sub-title></sub-title>
+    <desc>The host sheds light on the latest news updates and key stories pertaining to the field of sports from around the country and the world.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>News</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/EC7142775542ECAAE1472C7B833E64C38914F568E.jpg" />
+  </programme>
+
+  <programme start="20230119183000 +0530" stop="20230119190000 +0530" channel="10000000075992684">
+    <title>Sports News</title>
+    <sub-title></sub-title>
+    <desc>The host sheds light on the latest news updates and key stories pertaining to the field of sports from around the country and the world.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>News</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/EC7142775542ECAAE1472C7B833E64C38914F568E.jpg" />
+  </programme>
+
+  <programme start="20230119190000 +0530" stop="20230119200000 +0530" channel="10000000075992684">
+    <title>Imitation Music</title>
+    <sub-title></sub-title>
+    <desc>Back-to-back music.</desc>
+    <date></date>
+    <category>Music</category>
+    <category>Music</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/399F2D9E981616FD714C9A1CC2F7B0E22CDFD5284.jpg" />
+  </programme>
+
+  <programme start="20230119200000 +0530" stop="20230119210000 +0530" channel="10000000075992684">
+    <title>Talk With Gaja</title>
+    <sub-title></sub-title>
+    <desc>Sports programme.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Talk Show</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/B74DC72BD60883C1AF85B1FAB9233F123CBC3259U.jpg" />
+  </programme>
+
+  <programme start="20230119210000 +0530" stop="20230120000000 +0530" channel="10000000075992684">
+    <title>Sports</title>
+    <sub-title></sub-title>
+    <desc>Sports programme.</desc>
+    <date></date>
+    <category>Sport</category>
+    <category>Special Feature</category>
+    <episode-num system="onscreen"></episode-num>
+    <icon src="http://imagespeotv.whatsonindia.com/dasimages/landscape/360x270/5C5D4E9BBD2481C6E5280FADE83FAD65546C1CE08.jpg" />
   </programme>
 
   <programme start="20230119000000 +0530" stop="20230119010000 +0530" channel="10000000052430000">
