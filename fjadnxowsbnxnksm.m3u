@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="0" tvg-logo="https://mobond.yuppcdn.net/peotvgo/content/common/channel/logos/twkwpt.png", SLT Group
+#EXTINF:-1 tvg-id="0" tvg-logo="https://mobond.yuppcdn.net/peotvgo/content/common/channel/logos/twkwpt.png", SLT Group Watch
 http://192.168.1.5:65010/udp/224.11.4.250:5180
 #EXTINF:-1 tvg-id="10000000007110000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/CM6ogTOP.png", Rupavahini
 http://192.168.1.5:65010/udp/224.11.4.1:5180
