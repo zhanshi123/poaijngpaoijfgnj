@@ -311,7 +311,7 @@ http://192.168.1.5:65010/udp/224.11.2.147:5180
 http://192.168.1.5:65010/udp/224.11.4.236:5180
 #EXTINF:-1 tvg-id="10000000034570000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/glgBSfm7.png", Star Movies Select HD
 http://192.168.1.5:65010/udp/224.11.4.237:5180
-#EXTINF:-1 tvg-id="10000000003960000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/7t2uXRHM.png", Arirang TV HD
+#EXTINF:-1 tvg-id="10000000003960000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/7t2uXRHM.png", Arirang HD
 http://192.168.1.5:65010/udp/224.11.4.238:5180
 #EXTINF:-1 tvg-id="10000000005920000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/BH9oCnoi.png", Discovery HD
 http://192.168.1.5:65010/udp/224.11.2.222:5180
