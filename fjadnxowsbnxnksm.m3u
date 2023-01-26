@@ -130,7 +130,7 @@ http://192.168.1.5:65010/udp/224.11.2.66:5180
 #EXTINF:-1 tvg-id="10000000000480000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ndPcwqFV.png", MTV
 http://192.168.1.5:65010/udp/224.11.2.67:5180
 #EXTINF:-1 tvg-id="10000000000950000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/9As96Uib.png", VH1
-http://192.168.1.5:65010/udp/224.11.4.68:5180
+http://192.168.1.5:65010/udp/224.11.2.68:5180
 #EXTINF:-1 tvg-id="10000000020360000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/cFzEhHDr.png", Stingray CMusic
 http://192.168.1.5:65010/udp/224.11.2.69:5180
 #EXTINF:-1 tvg-id="10000000004590000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/vukbjych.png", Zee Tamil
