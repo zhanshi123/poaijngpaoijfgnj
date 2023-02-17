@@ -336,7 +336,7 @@ http://192.168.1.5:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="583" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Rai Italia
 http://192.168.1.5:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="591" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Test 3
-http://192.168.1.5:65010/udp/224.11.2.251:5180
+http://192.168.1.5:65010/udp/224.11.4.100:5180
 #EXTINF:-1 tvg-id="592" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Test 4
 http://192.168.1.5:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="595" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Info Channel
