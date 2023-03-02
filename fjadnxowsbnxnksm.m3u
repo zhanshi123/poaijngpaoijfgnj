@@ -207,6 +207,8 @@ http://192.168.1.5:65010/udp/224.11.2.111:5180
 http://192.168.1.5:65010/udp/224.11.2.112:5180
 #EXTINF:-1 tvg-id="10000000075990090" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/x7K3omV4.png", Relax TV
 http://192.168.1.5:65010/udp/224.11.4.113:5180
+#EXTINF:-1 tvg-id="114" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Methmaga TV
+http://192.168.1.5:65010/udp/224.11.4.114:5180
 #EXTINF:-1 tvg-id="10000000069750000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/EfBkEelb.png", Ace TV
 http://192.168.1.5:65010/udp/224.11.4.115:5180
 #EXTINF:-1 tvg-id="10000000075992684" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/RELPi5oL.png", Gaja TV
@@ -297,6 +299,8 @@ http://192.168.1.5:65010/udp/224.11.2.218:5180
 http://192.168.1.5:65010/udp/224.11.2.219:5180
 #EXTINF:-1 tvg-id="10000000007510000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ryix5hzL.png", Sony Sports Ten 1 HD
 http://192.168.1.5:65010/udp/224.11.2.220:5180
+#EXTINF:-1 tvg-id="10000000061540000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/PoRO2NqQ.png", Lolly Kids HD
+http://192.168.1.5:65010/udp/224.11.4.230:5180
 #EXTINF:-1 tvg-id="10000000075992694" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/gEkstcaH.png", Cinemachi Action HD
 http://192.168.1.5:65010/udp/224.11.4.231:5180
 #EXTINF:-1 tvg-id="10000000075992695" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/FSCrHNXk.png", Cinemachi Family HD
