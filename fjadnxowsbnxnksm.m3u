@@ -138,7 +138,7 @@ http://192.168.1.5:65010/udp/224.11.2.72:5180
 #EXTINF:-1 tvg-id="10000000000820000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/fpIZJhda.png", Star Vijay
 http://192.168.1.5:65010/udp/224.11.2.73:5180
 #EXTINF:-1 tvg-id="10000000053290000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/Wdo5eMXw.png", Colors Tamil
-http://192.168.1.5:65010/udp/224.11.4.74:5180
+http://192.168.1.5:65010/udp/224.11.2.74:5180
 #EXTINF:-1 tvg-id="10000000024220000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/kmCkglNh.png", Zee Cinema
 http://192.168.1.5:65010/udp/224.11.2.76:5180
 #EXTINF:-1 tvg-id="10000000000120000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/YktB7cvM.png", Star World
