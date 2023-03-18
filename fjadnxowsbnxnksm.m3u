@@ -269,6 +269,8 @@ http://live.flashtv.com:65010/udp/224.11.4.208:5180
 http://live.flashtv.com:65010/udp/224.11.2.209:5180
 #EXTINF:-1 tvg-id="10000000075992443" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/VgYjgoIK.png", AL Kuppiya Television
 http://live.flashtv.com:65010/udp/224.11.2.210:5180
+#EXTINF:-1 tvg-id="220" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/VgYjoIK.png", Event TV Xtra
+http://live.flashtv.com:65010/udp/224.11.4.20:5180
 #EXTINF:-1 tvg-id="10000000052160000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/6P6kiVRj.png", Siyatha TV HD
 http://live.flashtv.com:65010/udp/224.11.2.145:5180
 #EXTINF:-1 tvg-id="10000000007110000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/CM6ogTOP.png", Rupavahini HD
