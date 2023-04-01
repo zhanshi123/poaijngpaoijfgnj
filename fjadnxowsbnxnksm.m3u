@@ -81,6 +81,8 @@ http://live.flashtv.com:65010/udp/224.11.2.39:5180
 http://live.flashtv.com:65010/udp/224.11.2.40:5180
 #EXTINF:-1 tvg-id="10000000000190000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/VmljN1kZ.png", Star Sports 1
 http://live.flashtv.com:65010/udp/224.11.2.41:5180
+#EXTINF:-1 tvg-id="241" tvg-logo="https://mobond.yuppcdn.net/peotvgo/150/150/content/common/logos/channel/logos/peo-sports.png", PEO Sports
+http://live.flashtv.com:65010/udp/224.11.4.241:5180
 #EXTINF:-1 tvg-id="10000000050610000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/BWQNLFIi.png", Eurosport
 http://live.flashtv.com:65010/udp/224.11.2.42:5180
 #EXTINF:-1 tvg-id="10000000007540000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/cBxIlmMq.png", Ten Cricket
