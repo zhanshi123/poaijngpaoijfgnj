@@ -143,8 +143,6 @@ http://live.flashtv.com:65010/udp/224.11.2.73:5180
 http://live.flashtv.com:65010/udp/224.11.2.74:5180
 #EXTINF:-1 tvg-id="10000000024220000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/kmCkglNh.png", Zee Cinema
 http://live.flashtv.com:65010/udp/224.11.2.76:5180
-#EXTINF:-1 tvg-id="10000000000120000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/YktB7cvM.png", Star World
-http://live.flashtv.com:65010/udp/224.11.4.77:5180
 #EXTINF:-1 tvg-id="32" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/OC875QK9.png", Fashion TV
 http://live.flashtv.com:65010/udp/224.11.2.78:5180
 #EXTINF:-1 tvg-id="10000000010590000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/xjcez656.png", Zee TV
@@ -191,6 +189,8 @@ http://live.flashtv.com:65010/udp/224.11.2.101:5180
 http://live.flashtv.com:65010/udp/224.11.4.102:5180
 #EXTINF:-1 tvg-id="10000000075992622" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/g1DNlfqk.png", Dan News
 http://live.flashtv.com:65010/udp/224.11.4.103:5180
+#EXTINF:-1 tvg-id="10000000075992622" tvg-logo="", SBC TV
+http://live.flashtv.com:65010/udp/224.11.2.104:5180
 #EXTINF:-1 tvg-id="105" tvg-logo="http://172.17.49.10/PosterisChannels/105.png", IBC Tamil
 http://live.flashtv.com:65010/udp/224.11.4.105:5180
 #EXTINF:-1 tvg-id="10000000002990000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/7dlvYlqp.png", Kalaignar TV
@@ -255,8 +255,6 @@ http://live.flashtv.com:65010/udp/224.11.4.180:5180
 http://live.flashtv.com:65010/udp/224.11.4.181:5180
 #EXTINF:-1 tvg-id="10000000027100000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/UIElirzs.png", English Club TV
 http://live.flashtv.com:65010/udp/224.11.2.190:5180
-#EXTINF:-1 tvg-id="200" tvg-logo="http://172.17.49.10/PosterisChannels/200.png", Channel 200
-http://live.flashtv.com:65010/udp/224.11.2.167:5180
 #EXTINF:-1 tvg-id="204" tvg-logo="http://172.17.49.10/PosterisChannels/204.png", Kids TV
 http://live.flashtv.com:65010/udp/224.11.2.204:5180
 #EXTINF:-1 tvg-id="205" tvg-logo="http://172.17.49.10/PosterisChannels/205.png", Videsa 5
@@ -343,10 +341,10 @@ http://live.flashtv.com:65010/udp/224.11.2.251:5180
 http://live.flashtv.com:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="583" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Rai Italia
 http://live.flashtv.com:65010/udp/224.11.2.251:5180
-#EXTINF:-1 tvg-id="591" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Test 3
+#EXTINF:-1 tvg-id="591" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Test 4
 http://live.flashtv.com:65010/udp/224.11.4.100:5180
-#EXTINF:-1 tvg-id="592" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Test 4
-http://live.flashtv.com:65010/udp/224.11.2.251:5180
+#EXTINF:-1 tvg-id="592" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Test 5
+http://live.flashtv.com:65010/udp/224.11.2.100:5180
 #EXTINF:-1 tvg-id="595" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Info Channel
 http://live.flashtv.com:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="596" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Promo Channel
@@ -363,5 +361,5 @@ http://live.flashtv.com:65010/udp/224.11.2.251:5180
 http://live.flashtv.com:65010/udp/224.11.2.173:5180
 #EXTINF:-1 tvg-id="991" tvg-logo="http://172.17.49.10/PosterisChannels/991.png", Test 2
 http://live.flashtv.com:65010/udp/224.11.2.175:5180
-#EXTINF:-1 tvg-id="992" tvg-logo="http://172.17.49.10/PosterisChannels/992_2.png", Test 5
-http://live.flashtv.com:65010/udp/224.11.2.251:5180
+#EXTINF:-1 tvg-id="992" tvg-logo="http://172.17.49.10/PosterisChannels/992_2.png", Test 3
+http://live.flashtv.com:65010/udp/224.11.2.176:5180
