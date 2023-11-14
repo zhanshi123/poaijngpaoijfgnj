@@ -58,7 +58,7 @@ http://live.flashtv.com:65010/udp/224.11.2.27:5180
 #EXTINF:-1 tvg-id="10000000000100000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/9WMgCnfX.png", Star Movies
 http://live.flashtv.com:65010/udp/224.11.2.28:5180
 #EXTINF:-1 tvg-id="10000000075992690" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/aCFOh8ZU.png", Cinemachi Action
-http://live.flashtv.com:65010/udp/224.11.4.29:5180
+http://live.flashtv.com:65010/udp/224.11.2.29:5180
 #EXTINF:-1 tvg-id="10000000075992691" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/cflKTOgd.png", Cinemachi Family
 http://live.flashtv.com:65010/udp/224.11.4.30:5180
 #EXTINF:-1 tvg-id="10000000075992692" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/MZEcioqR.png", Cinemachi Scream
@@ -113,14 +113,14 @@ http://live.flashtv.com:65010/udp/224.11.2.56:5180
 http://live.flashtv.com:65010/udp/224.11.2.57:5180
 #EXTINF:-1 tvg-id="10000000036620000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/6jIMuIED.png", DaVinci
 http://live.flashtv.com:65010/udp/224.11.2.58:5180
-#EXTINF:-1 tvg-id="10000000012870000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/jmqryXlW.png", Disney Junior
+#EXTINF:-1 tvg-id="10000000075992807" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/f1QwHAkj.png", Cinemachi Junior
 http://live.flashtv.com:65010/udp/224.11.2.59:5180
 #EXTINF:-1 tvg-id="10000000001010000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ETfm2bHn.png", nick
-http://live.flashtv.com:65010/udp/224.11.4.60:5180
+http://live.flashtv.com:65010/udp/224.11.2.60:5180
 #EXTINF:-1 tvg-id="10000000061240000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/E3SUyc95.png", Planet Fun
-http://live.flashtv.com:65010/udp/224.11.4.61:5180
+http://live.flashtv.com:65010/udp/224.11.2.61:5180
 #EXTINF:-1 tvg-id="10000000061250000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/XhGTMWkE.png", CBeebies
-http://live.flashtv.com:65010/udp/224.11.4.62:5180
+http://live.flashtv.com:65010/udp/224.11.2.62:5180
 #EXTINF:-1 tvg-id="10000000005860000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/JBc5B3hP.png", Baby TV
 http://live.flashtv.com:65010/udp/224.11.2.63:5180
 #EXTINF:-1 tvg-id="10000000009420000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ezmF3D2g.png", Discovery Kids
@@ -191,7 +191,7 @@ http://live.flashtv.com:65010/udp/224.11.4.102:5180
 http://live.flashtv.com:65010/udp/224.11.4.103:5180
 #EXTINF:-1 tvg-id="10000000075992622" tvg-logo="", SBC TV
 http://live.flashtv.com:65010/udp/224.11.2.104:5180
-#EXTINF:-1 tvg-id="105" tvg-logo="http://172.17.49.10/PosterisChannels/105.png", IBC Tamil
+#EXTINF:-1 tvg-id="10000000073170000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/Whe1Hi6y.png", Athavan TV
 http://live.flashtv.com:65010/udp/224.11.4.105:5180
 #EXTINF:-1 tvg-id="10000000002990000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/7dlvYlqp.png", Kalaignar TV
 http://live.flashtv.com:65010/udp/224.11.2.106:5180
@@ -203,15 +203,15 @@ http://live.flashtv.com:65010/udp/224.11.2.108:5180
 http://live.flashtv.com:65010/udp/224.11.4.109:5180
 #EXTINF:-1 tvg-id="10000000068330000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/YX2aScwQ.png", Sangamam TV
 http://live.flashtv.com:65010/udp/224.11.4.110:5180
-#EXTINF:-1 tvg-id="10000000050910000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ahArf37F.png", Colombo TV
+#EXTINF:-1 tvg-id="10000000050910000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/6Txl3wQo.png", Meth TV
 http://live.flashtv.com:65010/udp/224.11.2.111:5180
 #EXTINF:-1 tvg-id="10000000049930000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/Eh9xqK5H.png", Pragna TV
 http://live.flashtv.com:65010/udp/224.11.2.112:5180
-#EXTINF:-1 tvg-id="10000000075990090" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/x7K3omV4.png", Relax TV
+#EXTINF:-1 tvg-id="10000000075990090" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/iSOVMkdr.png", Karma
 http://live.flashtv.com:65010/udp/224.11.4.113:5180
-#EXTINF:-1 tvg-id="114" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Methmaga TV
+#EXTINF:-1 tvg-id="10000000075992753" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/jAAPFUTd.png", Methmaga TV
 http://live.flashtv.com:65010/udp/224.11.4.114:5180
-#EXTINF:-1 tvg-id="10000000069750000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/EfBkEelb.png", Ace TV
+#EXTINF:-1 tvg-id="10000000069750000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/xg6fCRnt.png", Sathi TV
 http://live.flashtv.com:65010/udp/224.11.4.115:5180
 #EXTINF:-1 tvg-id="10000000075992684" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/RELPi5oL.png", Gaja TV
 http://live.flashtv.com:65010/udp/224.11.4.116:5180
@@ -233,12 +233,6 @@ http://live.flashtv.com:65010/udp/224.11.4.123:5180
 http://live.flashtv.com:65010/udp/224.11.2.125:5180
 #EXTINF:-1 tvg-id="10000000061950000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/YRf1x6pV.png", Damsathara TV
 http://live.flashtv.com:65010/udp/224.11.2.126:5180
-#EXTINF:-1 tvg-id="127" tvg-logo="http://172.17.49.10/PosterisChannels/127.png", Vibe TV
-http://live.flashtv.com:65010/udp/224.11.2.251:5180
-#EXTINF:-1 tvg-id="128" tvg-logo="http://172.17.49.10/PosterisChannels/128.png", See TV
-http://live.flashtv.com:65010/udp/224.11.2.251:5180
-#EXTINF:-1 tvg-id="129" tvg-logo="http://172.17.49.10/PosterisChannels/129_1.png", Sumaga TV
-http://live.flashtv.com:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="131" tvg-logo="http://172.17.49.10/PosterisChannels/131.png", The Beauty Channel
 http://live.flashtv.com:65010/udp/224.11.4.131:5180
 #EXTINF:-1 tvg-id="10000000070050000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/31fzMwIW.png", Supreme TV
@@ -255,21 +249,17 @@ http://live.flashtv.com:65010/udp/224.11.4.180:5180
 http://live.flashtv.com:65010/udp/224.11.4.181:5180
 #EXTINF:-1 tvg-id="10000000027100000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/UIElirzs.png", English Club TV
 http://live.flashtv.com:65010/udp/224.11.2.190:5180
-#EXTINF:-1 tvg-id="204" tvg-logo="http://172.17.49.10/PosterisChannels/204.png", Kids TV
+#EXTINF:-1 tvg-id="10000000075992676" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/YlzgNhrD.png", Kids TV
 http://live.flashtv.com:65010/udp/224.11.2.204:5180
-#EXTINF:-1 tvg-id="205" tvg-logo="http://172.17.49.10/PosterisChannels/205.png", Videsa 5
+#EXTINF:-1 tvg-id="10000000075992737" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/9LOQEdpf.png", Videsa 3-5
 http://live.flashtv.com:65010/udp/224.11.4.205:5180
-#EXTINF:-1 tvg-id="206" tvg-logo="http://172.17.49.10/PosterisChannels/206.png", Videsa 6-7
-http://live.flashtv.com:65010/udp/224.11.2.206:5180
-#EXTINF:-1 tvg-id="207" tvg-logo="http://172.17.49.10/PosterisChannels/207.png", Videsa 8-9
-http://live.flashtv.com:65010/udp/224.11.2.207:5180
 #EXTINF:-1 tvg-id="10000000075992718" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/1PaYbTNK.png", Videsa DP Grade 6 - 8
 http://live.flashtv.com:65010/udp/224.11.4.208:5180
 #EXTINF:-1 tvg-id="10000000075992719" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/u2dNCdYL.png", Videsa DP Grade 9 - OL
 http://live.flashtv.com:65010/udp/224.11.2.209:5180
 #EXTINF:-1 tvg-id="10000000075992443" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/VgYjgoIK.png", AL Kuppiya Television
 http://live.flashtv.com:65010/udp/224.11.2.210:5180
-#EXTINF:-1 tvg-id="220" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/VgYjoIK.png", Event TV Xtra
+#EXTINF:-1 tvg-id="10000000075992772" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/ccD88S19.png", Event TV Xtra
 http://live.flashtv.com:65010/udp/224.11.4.20:5180
 #EXTINF:-1 tvg-id="10000000052160000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/6P6kiVRj.png", Siyatha TV HD
 http://live.flashtv.com:65010/udp/224.11.2.145:5180
@@ -333,33 +323,15 @@ http://live.flashtv.com:65010/udp/224.11.2.133:5180
 http://live.flashtv.com:65010/udp/224.11.2.174:5180
 #EXTINF:-1 tvg-id="573" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Leisure Sports 3
 http://live.flashtv.com:65010/udp/224.11.2.253:5180
-#EXTINF:-1 tvg-id="580" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Al Jazeera Arabic
-http://live.flashtv.com:65010/udp/224.11.2.251:5180
-#EXTINF:-1 tvg-id="581" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Deutsche Welle
-http://live.flashtv.com:65010/udp/224.11.2.251:5180
-#EXTINF:-1 tvg-id="582" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", RTR Planeta
-http://live.flashtv.com:65010/udp/224.11.2.251:5180
-#EXTINF:-1 tvg-id="583" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Rai Italia
-http://live.flashtv.com:65010/udp/224.11.2.251:5180
-#EXTINF:-1 tvg-id="591" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Test 4
-http://live.flashtv.com:65010/udp/224.11.4.100:5180
-#EXTINF:-1 tvg-id="592" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Test 5
-http://live.flashtv.com:65010/udp/224.11.2.100:5180
-#EXTINF:-1 tvg-id="595" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Info Channel
-http://live.flashtv.com:65010/udp/224.11.2.251:5180
-#EXTINF:-1 tvg-id="596" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Promo Channel
-http://live.flashtv.com:65010/udp/224.11.2.251:5180
-#EXTINF:-1 tvg-id="597" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Promo Channel 2
-http://live.flashtv.com:65010/udp/224.11.2.251:5180
 #EXTINF:-1 tvg-id="601" tvg-logo="http://172.17.49.10/PosterisChannels/601.png", TV BOC Ch 01
 http://live.flashtv.com:65010/udp/224.11.4.253:5180
 #EXTINF:-1 tvg-id="602" tvg-logo="http://172.17.49.10/PosterisChannels/602.png", TV BOC Ch 02
 http://live.flashtv.com:65010/udp/224.11.4.254:5180
-#EXTINF:-1 tvg-id="902" tvg-logo="http://172.17.49.10/PosterisChannels/4_1.png", FM Derana
-http://live.flashtv.com:65010/udp/224.11.2.251:5180
-#EXTINF:-1 tvg-id="990" tvg-logo="http://172.17.49.10/PosterisChannels/990.png", Test 1
+#EXTINF:-1 tvg-id="990" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Test 1
 http://live.flashtv.com:65010/udp/224.11.2.173:5180
-#EXTINF:-1 tvg-id="991" tvg-logo="http://172.17.49.10/PosterisChannels/991.png", Test 2
+#EXTINF:-1 tvg-id="991" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Test 2
 http://live.flashtv.com:65010/udp/224.11.2.175:5180
-#EXTINF:-1 tvg-id="992" tvg-logo="http://172.17.49.10/PosterisChannels/992_2.png", Test 3
+#EXTINF:-1 tvg-id="992" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Test 3
 http://live.flashtv.com:65010/udp/224.11.2.176:5180
+#EXTINF:-1 tvg-id="251" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", Technical Issue
+http://live.flashtv.com:65010/udp/224.11.2.251:5180
