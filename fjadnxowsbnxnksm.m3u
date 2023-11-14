@@ -23,7 +23,7 @@ http://live.flashtv.com:65010/udp/224.11.4.9:5180
 http://live.flashtv.com:65010/udp/224.11.4.10:5180
 #EXTINF:-1 tvg-id="10000000019490000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/KjKClXdN.png", Shakthi TV
 http://live.flashtv.com:65010/udp/224.11.4.11:5180
-#EXTINF:-1 tvg-id="10000000019500000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/6o2oXtJu.png", TV1
+#EXTINF:-1 tvg-id="10000000019500000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/dwj6BVfl.png", TV1
 http://live.flashtv.com:65010/udp/224.11.2.12:5180
 #EXTINF:-1 tvg-id="10000000019980000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/5127gVEM.png", TNL
 http://live.flashtv.com:65010/udp/224.11.4.13:5180
@@ -141,7 +141,7 @@ http://live.flashtv.com:65010/udp/224.11.2.72:5180
 http://live.flashtv.com:65010/udp/224.11.2.73:5180
 #EXTINF:-1 tvg-id="10000000053290000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/Wdo5eMXw.png", Colors Tamil
 http://live.flashtv.com:65010/udp/224.11.2.74:5180
-#EXTINF:-1 tvg-id="10000000024220000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/kmCkglNh.png", Zee Cinema
+#EXTINF:-1 tvg-id="10000000024220000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/m7xS894p.png", Zee Cinema
 http://live.flashtv.com:65010/udp/224.11.2.76:5180
 #EXTINF:-1 tvg-id="32" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/OC875QK9.png", Fashion TV
 http://live.flashtv.com:65010/udp/224.11.2.78:5180
@@ -229,8 +229,6 @@ http://live.flashtv.com:65010/udp/224.11.4.121:5180
 http://live.flashtv.com:65010/udp/224.11.4.122:5180
 #EXTINF:-1 tvg-id="10000000075992444" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/TT6kQq4x.png", Vapa TV
 http://live.flashtv.com:65010/udp/224.11.4.123:5180
-#EXTINF:-1 tvg-id="10000000059220000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/cmlWdvv5.png", Life TV
-http://live.flashtv.com:65010/udp/224.11.2.125:5180
 #EXTINF:-1 tvg-id="10000000061950000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/YRf1x6pV.png", Damsathara TV
 http://live.flashtv.com:65010/udp/224.11.2.126:5180
 #EXTINF:-1 tvg-id="131" tvg-logo="http://172.17.49.10/PosterisChannels/131.png", The Beauty Channel
@@ -273,7 +271,7 @@ http://live.flashtv.com:65010/udp/224.11.4.204:5180
 http://live.flashtv.com:65010/udp/224.11.4.200:5180
 #EXTINF:-1 tvg-id="10000000075992378" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/EmkziIke.png", Hiru TV HD
 http://live.flashtv.com:65010/udp/224.11.4.207:5180
-#EXTINF:-1 tvg-id="310" tvg-logo="http://172.17.49.10/PosterisChannels/310.png", Event TV HD
+#EXTINF:-1 tvg-id="10000000075992371" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/6MZphTDO.png", Event TV HD
 http://live.flashtv.com:65010/udp/224.11.2.150:5180
 #EXTINF:-1 tvg-id="10000000051860000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/sv5P92dH.png", Eurosport HD
 http://live.flashtv.com:65010/udp/224.11.2.141:5180
@@ -303,7 +301,7 @@ http://live.flashtv.com:65010/udp/224.11.4.233:5180
 http://live.flashtv.com:65010/udp/224.11.4.234:5180
 #EXTINF:-1 tvg-id="10000000035230000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/Su2qMlC9.png", Colors Infinity HD
 http://live.flashtv.com:65010/udp/224.11.2.147:5180
-#EXTINF:-1 tvg-id="10000000053720000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/D5Hlb61g.png", NPrive HD
+#EXTINF:-1 tvg-id="10000000053720000" tvg-logo="http://172.17.49.10/PosterisChannels/0.png", NPrive HD
 http://live.flashtv.com:65010/udp/224.11.4.236:5180
 #EXTINF:-1 tvg-id="10000000034570000" tvg-logo="http://imagespeotv.whatsonindia.com/dasimages/channel/landscape/132x99/glgBSfm7.png", Star Movies Select HD
 http://live.flashtv.com:65010/udp/224.11.4.237:5180
