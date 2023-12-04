@@ -229,7 +229,11 @@ http://live.flashtv.com:65010/udp/224.11.4.121:5180
 http://live.flashtv.com:65010/udp/224.11.4.122:5180
 #EXTINF:-1 tvg-id="10000000075992444" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/123.png", Vapa TV
 http://live.flashtv.com:65010/udp/224.11.4.123:5180
+#EXTINF:-1 tvg-id="124" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/124.png", Capital Tharisanam
+http://live.flashtv.com:65010/udp/224.11.4.124:5180
 #EXTINF:-1 tvg-id="10000000061950000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/126.png", Damsathara TV
+http://live.flashtv.com:65010/udp/224.11.2.126:5180
+#EXTINF:-1 tvg-id="130" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/130.png", Industry TV
 http://live.flashtv.com:65010/udp/224.11.2.126:5180
 #EXTINF:-1 tvg-id="131" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/131.png", The Beauty Channel
 http://live.flashtv.com:65010/udp/224.11.4.131:5180
