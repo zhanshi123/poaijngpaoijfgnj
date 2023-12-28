@@ -4,7 +4,7 @@ http://live.flashtv.com:65010/udp/224.11.4.250:5180
 #EXTINF:-1 tvg-id="10000000007110000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/1.png", Rupavahini
 http://live.flashtv.com:65010/udp/224.11.4.1:5180
 #EXTINF:-1 tvg-id="10000000025690000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/2.png",Channel Eye
-http://live.flashtv.com:65010/udp/224.11.4.2:5180
+http://live.flashtv.com:65010/udp/224.11.2.16:5180
 #EXTINF:-1 tvg-id="10000000007120000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/03.png", ITN
 http://live.flashtv.com:65010/udp/224.11.4.3:5180
 #EXTINF:-1 tvg-id="10000000007160000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/4_1.png", Derana
@@ -222,7 +222,7 @@ http://live.flashtv.com:65010/udp/224.11.2.117:5180
 #EXTINF:-1 tvg-id="118" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/118.png", Thinetha TV
 http://live.flashtv.com:65010/udp/224.11.4.118:5180
 #EXTINF:-1 tvg-id="10000000059260000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/119.png", Nethra TV
-http://live.flashtv.com:65010/udp/224.11.2.16:5180
+http://live.flashtv.com:65010/udp/224.11.4.2:5180
 #EXTINF:-1 tvg-id="10000000069390000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/120.png", Event TV Plus
 http://live.flashtv.com:65010/udp/224.11.4.120:5180
 #EXTINF:-1 tvg-id="121" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/121.png", Sanda TV
