@@ -129,12 +129,14 @@ http://live.flashtv.com:65010/udp/224.11.2.64:5180
 http://live.flashtv.com:65010/udp/224.11.2.65:5180
 #EXTINF:-1 tvg-id="10000000000860000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/66.png", POGO
 http://live.flashtv.com:65010/udp/224.11.2.66:5180
-#EXTINF:-1 tvg-id="10000000000480000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/67.png", MTV
+#EXTINF:-1 tvg-id="10000000012870000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/67.png", Disney Junior
+http://live.flashtv.com:65010/udp/224.11.2.167:5180
+#EXTINF:-1 tvg-id="10000000020360000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/069_1.png", Stingray CMusic
+http://live.flashtv.com:65010/udp/224.11.2.69:5180
+#EXTINF:-1 tvg-id="10000000000480000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/70.png", MTV
 http://live.flashtv.com:65010/udp/224.11.2.67:5180
 #EXTINF:-1 tvg-id="10000000000950000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/68_new.png", VH1
 http://live.flashtv.com:65010/udp/224.11.2.68:5180
-#EXTINF:-1 tvg-id="10000000020360000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/069_1.png", Stingray CMusic
-http://live.flashtv.com:65010/udp/224.11.2.69:5180
 #EXTINF:-1 tvg-id="10000000004590000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/72.png", Zee Tamil
 http://live.flashtv.com:65010/udp/224.11.2.72:5180
 #EXTINF:-1 tvg-id="10000000000820000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/73.png", Star Vijay
@@ -183,6 +185,8 @@ http://live.flashtv.com:65010/udp/224.11.2.97:5180
 http://live.flashtv.com:65010/udp/224.11.4.98:5180
 #EXTINF:-1 tvg-id="10000000027720000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/99.png", Shraddha TV
 http://live.flashtv.com:65010/udp/224.11.2.99:5180
+#EXTINF:-1 tvg-id="100" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/100.png", MMC TV
+http://live.flashtv.com:65010/udp/224.11.2.100:5180
 #EXTINF:-1 tvg-id="10000000022840000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/101.png", colors
 http://live.flashtv.com:65010/udp/224.11.2.101:5180
 #EXTINF:-1 tvg-id="10000000075992621" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/102.png", Dan TV
