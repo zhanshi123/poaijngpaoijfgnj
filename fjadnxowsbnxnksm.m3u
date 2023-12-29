@@ -171,7 +171,7 @@ http://live.flashtv.com:65010/udp/224.11.4.91:5180
 http://live.flashtv.com:65010/udp/224.11.2.92:5180
 #EXTINF:-1 tvg-id="10000000028300000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/93.png" group-title="Religious", Verbum TV
 http://live.flashtv.com:65010/udp/224.11.2.93:5180
-#EXTINF:-1 tvg-id="10000000073050000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/094_1.png" group-title="Local Variety", Jaya TV
+#EXTINF:-1 tvg-id="10000000073050000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/094_1.png" group-title="Religious", Jaya TV
 http://live.flashtv.com:65010/udp/224.11.4.94:5180
 #EXTINF:-1 tvg-id="10000000025100000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/95_01.png" group-title="Religious", Siyasa TV
 http://live.flashtv.com:65010/udp/224.11.2.95:5180
@@ -219,7 +219,7 @@ http://live.flashtv.com:65010/udp/224.11.4.115:5180
 http://live.flashtv.com:65010/udp/224.11.4.116:5180
 #EXTINF:-1 tvg-id="10000000052430000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/117_1.png" group-title="Religious", TV Didula
 http://live.flashtv.com:65010/udp/224.11.2.117:5180
-#EXTINF:-1 tvg-id="118" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/118.png" group-title="Local Variety", Thinetha TV
+#EXTINF:-1 tvg-id="118" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/118.png" group-title="Religious", Thinetha TV
 http://live.flashtv.com:65010/udp/224.11.4.118:5180
 #EXTINF:-1 tvg-id="10000000059260000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/119.png" group-title="Local Variety", Nethra TV
 http://live.flashtv.com:65010/udp/224.11.2.16:5180
