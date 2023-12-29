@@ -225,7 +225,7 @@ http://live.flashtv.com:65010/udp/224.11.4.118:5180
 http://live.flashtv.com:65010/udp/224.11.2.16:5180
 #EXTINF:-1 tvg-id="10000000069390000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/120.png" group-title="Local Variety", Event TV Plus
 http://live.flashtv.com:65010/udp/224.11.4.120:5180
-#EXTINF:-1 tvg-id="121" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/121.png" group-title="Learning / Educational", Sanda TV
+#EXTINF:-1 tvg-id="121" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/121.png" group-title="Local Variety", Sanda TV
 http://live.flashtv.com:65010/udp/224.11.4.121:5180
 #EXTINF:-1 tvg-id="122" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/122.png" group-title="Local Variety", Aksharaya TV
 http://live.flashtv.com:65010/udp/224.11.4.122:5180
