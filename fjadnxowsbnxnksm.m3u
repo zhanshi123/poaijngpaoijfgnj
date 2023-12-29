@@ -209,11 +209,11 @@ http://live.flashtv.com:65010/udp/224.11.4.110:5180
 http://live.flashtv.com:65010/udp/224.11.2.111:5180
 #EXTINF:-1 tvg-id="10000000049930000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/112.png" group-title="Religious", Pragna TV
 http://live.flashtv.com:65010/udp/224.11.2.112:5180
-#EXTINF:-1 tvg-id="10000000075990090" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/113.png" group-title="Local Variety", Karma
+#EXTINF:-1 tvg-id="10000000075990090" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/113.png" group-title="Religious", Karma
 http://live.flashtv.com:65010/udp/224.11.4.113:5180
 #EXTINF:-1 tvg-id="10000000075992753" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/114.png" group-title="Religious", Methmaga TV
 http://live.flashtv.com:65010/udp/224.11.4.114:5180
-#EXTINF:-1 tvg-id="10000000069750000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/115.png" group-title="Local Variety", Sathi TV
+#EXTINF:-1 tvg-id="10000000069750000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/115.png" group-title="Religious", Sathi TV
 http://live.flashtv.com:65010/udp/224.11.4.115:5180
 #EXTINF:-1 tvg-id="10000000075992684" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/116.png" group-title="Local Variety", Gaja TV
 http://live.flashtv.com:65010/udp/224.11.4.116:5180
