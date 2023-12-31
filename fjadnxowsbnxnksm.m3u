@@ -297,7 +297,7 @@ http://live.flashtv.com:65010/udp/224.11.2.219:5180
 http://live.flashtv.com:65010/udp/224.11.2.220:5180
 #EXTINF:-1 tvg-id="10000000061540000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/330.png" group-title="Kids", Lolly Kids HD
 http://live.flashtv.com:65010/udp/224.11.4.230:5180
-#EXTINF:-1 tvg-id="10000000075992694" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/331.png" group-title="Kids", Cinemachi Action HD
+#EXTINF:-1 tvg-id="10000000075992694" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/331.png" group-title="Movie", Cinemachi Action HD
 http://live.flashtv.com:65010/udp/224.11.4.231:5180
 #EXTINF:-1 tvg-id="10000000075992695" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/332.png" group-title="Movie", Cinemachi Family HD
 http://live.flashtv.com:65010/udp/224.11.4.232:5180
