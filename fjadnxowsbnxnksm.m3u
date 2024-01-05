@@ -141,7 +141,7 @@ http://live.flashtv.com:65010/udp/224.11.2.72:5180
 http://live.flashtv.com:65010/udp/224.11.2.73:5180
 #EXTINF:-1 tvg-id="10000000053290000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/74_1.png" group-title="Tamil", Colors Tamil
 http://live.flashtv.com:65010/udp/224.11.2.74:5180
-#EXTINF:-1 tvg-id="STARGOLD" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/75.png" group-title="Foreign Variety", Star Gold
+#EXTINF:-1 tvg-id="10000000000110000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/75.png" group-title="Foreign Variety", Star Gold
 http://live.flashtv.com:65010/udp/224.11.2.75:5180
 #EXTINF:-1 tvg-id="10000000010580000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/76.png" group-title="Movie", Zee Cinema
 http://live.flashtv.com:65010/udp/224.11.2.76:5180
