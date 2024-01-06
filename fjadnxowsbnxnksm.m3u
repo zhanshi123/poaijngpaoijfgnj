@@ -193,7 +193,7 @@ http://live.flashtv.com:65010/udp/224.11.2.101:5180
 http://live.flashtv.com:65010/udp/224.11.4.102:5180
 #EXTINF:-1 tvg-id="10000000075992622" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/103.png" group-title="Tamil", Dan News
 http://live.flashtv.com:65010/udp/224.11.4.103:5180
-#EXTINF:-1 tvg-id="10000000075992622" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/104.png" group-title="Local Variety", SBC TV
+#EXTINF:-1 tvg-id="104" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/104.png" group-title="Local Variety", SBC TV
 http://live.flashtv.com:65010/udp/224.11.2.104:5180
 #EXTINF:-1 tvg-id="10000000073170000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/105.png" group-title="Tamil", Athavan TV
 http://live.flashtv.com:65010/udp/224.11.4.105:5180
