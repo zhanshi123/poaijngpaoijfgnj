@@ -119,11 +119,11 @@ http://live.flashtv.com:65010/udp/224.11.2.60:5180
 http://live.flashtv.com:65010/udp/224.11.2.61:5180
 #EXTINF:-1 tvg-id="10000000061250000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/62_1.png" group-title="Kids", CBeebies
 http://live.flashtv.com:65010/udp/224.11.2.62:5180
-#EXTINF:-1 tvg-id="BabyTV.in" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/63.png" group-title="Kids", Baby TV
+#EXTINF:-1 tvg-id="63" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/63.png" group-title="Kids", Baby TV
 http://live.flashtv.com:65010/udp/224.11.2.63:5180
 #EXTINF:-1 tvg-id="10000000009420000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/64.png" group-title="Kids", Discovery Kids
 http://live.flashtv.com:65010/udp/224.11.2.64:5180
-#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/65.png" group-title="Kids", Cartoon Network
+#EXTINF:-1 tvg-id="65" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/65.png" group-title="Kids", Cartoon Network
 http://live.flashtv.com:65010/udp/224.11.2.65:5180
 #EXTINF:-1 tvg-id="10000000000860000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/66.png" group-title="Kids", POGO
 http://live.flashtv.com:65010/udp/224.11.2.66:5180
@@ -179,7 +179,7 @@ http://live.flashtv.com:65010/udp/224.11.4.94:5180
 http://live.flashtv.com:65010/udp/224.11.2.95:5180
 #EXTINF:-1 tvg-id="10000000027710000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/96.png" group-title="Religious", The Buddhist
 http://live.flashtv.com:65010/udp/224.11.2.96:5180
-#EXTINF:-1 tvg-id="GodTv.in" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/97.png" group-title="Religious", God TV
+#EXTINF:-1 tvg-id="97" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/97.png" group-title="Religious", God TV
 http://live.flashtv.com:65010/udp/224.11.2.97:5180
 #EXTINF:-1 tvg-id="10000000075992620" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/098.png" group-title="Religious", Ohm TV
 http://live.flashtv.com:65010/udp/224.11.4.98:5180
@@ -247,7 +247,7 @@ http://live.flashtv.com:65010/udp/224.11.2.160:5180
 http://live.flashtv.com:65010/udp/224.11.2.161:5180
 #EXTINF:-1 tvg-id="10000000008320000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/163.png" group-title="News / Business", France 24 (French)
 http://live.flashtv.com:65010/udp/224.11.2.163:5180
-#EXTINF:-1 tvg-id="CCTV4.nws" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/180.png" group-title="Foreign Variety", CCTV 4
+#EXTINF:-1 tvg-id="180" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/180.png" group-title="Foreign Variety", CCTV 4
 http://live.flashtv.com:65010/udp/224.11.4.180:5180
 #EXTINF:-1 tvg-id="10000000004540000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/181.png" group-title="Foreign Variety", CGTN Documentary
 http://live.flashtv.com:65010/udp/224.11.4.181:5180
@@ -321,9 +321,9 @@ http://live.flashtv.com:65010/udp/224.11.2.131:5180
 http://live.flashtv.com:65010/udp/224.11.2.132:5180
 #EXTINF:-1 tvg-id="10000000011520000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/355.png" group-title="Travel / Living", Fashion TV HD
 http://live.flashtv.com:65010/udp/224.11.2.133:5180
-#EXTINF:-1 tvg-id="572" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/571.png" group-title="Other", Sporting Star 3
+#EXTINF:-1 tvg-id="571" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/571.png" group-title="Other", Sporting Star 3
 http://live.flashtv.com:65010/udp/224.11.2.174:5180
-#EXTINF:-1 tvg-id="573" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/571.png" group-title="Other", Leisure Sports 3
+#EXTINF:-1 tvg-id="572" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/571.png" group-title="Other", Leisure Sports 3
 http://live.flashtv.com:65010/udp/224.11.2.253:5180
 #EXTINF:-1 tvg-id="601" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/601.png" group-title="Other", TV BOC Ch 01
 http://live.flashtv.com:65010/udp/224.11.4.253:5180
