@@ -267,7 +267,7 @@ http://live.flashtv.com:65010/udp/224.11.2.210:5180
 http://live.flashtv.com:65010/udp/224.11.4.20:5180
 #EXTINF:-1 tvg-id="10000000052160000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/300.png" group-title="Local Variety", Siyatha TV HD
 http://live.flashtv.com:65010/udp/224.11.2.145:5180
-#EXTINF:-1 tvg-id="201" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/301.png" group-title="Local Variety", Rupavahini HD
+#EXTINF:-1 tvg-id="10000000007110000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/301.png" group-title="Local Variety", Rupavahini HD
 http://live.flashtv.com:65010/udp/224.11.4.201:5180
 #EXTINF:-1 tvg-id="10000000075992529" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/303.png" group-title="Local Variety", ITN HD
 http://live.flashtv.com:65010/udp/224.11.4.203:5180
