@@ -179,7 +179,7 @@ http://live.flashtv.com:65010/udp/224.11.4.94:5180
 http://live.flashtv.com:65010/udp/224.11.2.95:5180
 #EXTINF:-1 tvg-id="10000000027710000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/96.png" group-title="Religious", The Buddhist
 http://live.flashtv.com:65010/udp/224.11.2.96:5180
-#EXTINF:-1 tvg-id="97" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/97.png" group-title="Religious", God TV
+#EXTINF:-1 tvg-id="31" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/97.png" group-title="Religious", God TV
 http://live.flashtv.com:65010/udp/224.11.2.97:5180
 #EXTINF:-1 tvg-id="10000000075992620" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/098.png" group-title="Religious", Ohm TV
 http://live.flashtv.com:65010/udp/224.11.4.98:5180
@@ -325,6 +325,8 @@ http://live.flashtv.com:65010/udp/224.11.2.133:5180
 http://live.flashtv.com:65010/udp/224.11.2.174:5180
 #EXTINF:-1 tvg-id="572" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/571.png" group-title="Other", Leisure Sports 3
 http://live.flashtv.com:65010/udp/224.11.2.253:5180
+#EXTINF:-1 tvg-id="604" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/604.png" group-title="Other", Peoples TV
+http://live.flashtv.com:65010/udp/224.11.4.252:5180
 #EXTINF:-1 tvg-id="601" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/601.png" group-title="Other", TV BOC Ch 01
 http://live.flashtv.com:65010/udp/224.11.4.253:5180
 #EXTINF:-1 tvg-id="602" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/602.png" group-title="Other", TV BOC Ch 02
