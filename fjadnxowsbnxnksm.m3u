@@ -241,6 +241,8 @@ http://live.flashtv.com:65010/udp/224.11.2.126:5180
 http://live.flashtv.com:65010/udp/224.11.4.130:5180
 #EXTINF:-1 tvg-id="131" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/131.png" group-title="Local Variety", The Beauty Channel
 http://live.flashtv.com:65010/udp/224.11.4.131:5180
+#EXTINF:-1 tvg-id="150" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/150.png" group-title="Sports", The Papare TV
+http://live.flashtv.com:65010/udp/224.11.4.150:5180
 #EXTINF:-1 tvg-id="10000000018830000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/160.png" group-title="News / Business", Bloomberg
 http://live.flashtv.com:65010/udp/224.11.2.160:5180
 #EXTINF:-1 tvg-id="10000000013820000" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/161_1.png" group-title="News / Business", NHK World Japan
@@ -323,8 +325,12 @@ http://live.flashtv.com:65010/udp/224.11.2.132:5180
 http://live.flashtv.com:65010/udp/224.11.2.133:5180
 #EXTINF:-1 tvg-id="571" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/571.png" group-title="Other", Sporting Star 3
 http://live.flashtv.com:65010/udp/224.11.2.174:5180
+#EXTINF:-1 tvg-id="241" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/241.png" group-title="Sports", PEO Sports
+http://live.flashtv.com:65010/udp/224.11.4.241:5180
 #EXTINF:-1 tvg-id="572" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/571.png" group-title="Other", Leisure Sports 3
 http://live.flashtv.com:65010/udp/224.11.2.253:5180
+#EXTINF:-1 tvg-id="603" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/603.png" group-title="Other", Peoples Leasing
+http://live.flashtv.com:65010/udp/224.11.4.251:5180
 #EXTINF:-1 tvg-id="604" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/604.png" group-title="Other", Peoples TV
 http://live.flashtv.com:65010/udp/224.11.4.252:5180
 #EXTINF:-1 tvg-id="601" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/601.png" group-title="Other", TV BOC Ch 01
@@ -337,5 +343,3 @@ http://live.flashtv.com:65010/udp/224.11.2.173:5180
 http://live.flashtv.com:65010/udp/224.11.2.175:5180
 #EXTINF:-1 tvg-id="992" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/991.png" group-title="Testing", Test 3
 http://live.flashtv.com:65010/udp/224.11.2.176:5180
-#EXTINF:-1 tvg-id="251" tvg-logo="https://raw.githubusercontent.com/zhanshi123/poaijngpaoijfgnj/main/logos/traxis/571.png" group-title="Testing", Technical Issue
-http://live.flashtv.com:65010/udp/224.11.2.251:5180
